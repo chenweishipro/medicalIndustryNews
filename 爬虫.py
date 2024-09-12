@@ -183,12 +183,12 @@ def get_flag(item):
     date = item['date'].strftime('%Y-%m-%d')
     context = item['context']
     return f"""
-  <h4 style="color:black;">  
+  <h4 style="color:black; margin-top:10px">  
     {title}  
   </h4>  
   
   <span> {date}</span>  
-  <div>  
+  <div  style="margin-bottom: 20px;">  
     <p>  
       {context}  
     </p>  
@@ -198,9 +198,6 @@ def get_flag(item):
   
   
 """.strip()
-
-# %%
-item = results
 
 # %%
 htmls = [get_flag(item) for item in results]
@@ -222,7 +219,14 @@ def get_token():
     return requests.get(url).json()['access_token']
 
 # %%
-html_text = f"""  
+
+
+# %%
+
+
+# %%
+try:
+    html_text = f"""  
 <!DOCTYPE html>  
 <html lang="en">  
   
@@ -240,6 +244,7 @@ html_text = f"""
   
   h4 {{  
     text-align: center;  
+     text-shadow: 2px 2px 4px rgba(15, 47, 206, 0.5);
   }}  
   
   em {{  
@@ -266,6 +271,10 @@ html_text = f"""
     text-indent: 2em;  
     text-align: justify;  
   }}  
+
+  div {{
+      margin-bottom: 10px;
+  }}
 </style>  
   
 <body>  
@@ -286,6 +295,8 @@ html_text = f"""
   
 </html>  
 """
+except:
+    pass
 
 # %%
 first = f"""  
@@ -372,10 +383,7 @@ data = {
 from datetime import datetime
 
 # %%
-url
-
-# %%
-title  = datetime.now().strftime("%Y年%m月%d日") + '医疗行业咨询'
+title  = datetime.now().strftime("%Y年%m月%d日") + '医疗行业资讯'
 
 # %%
 data = {
@@ -408,6 +416,12 @@ data = {
 
 # %%
 requests.post("https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token="+get_token(), data= json.dumps(data), ).json()
+
+# %%
+
+
+# %%
+
 
 # %%
 
