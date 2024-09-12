@@ -46,3 +46,276 @@ TORL BioTherapeutics³É¹¦Íê³É1.58ÒÚÃÀÔªÈÚ×Ê£¬Ö¼ÔÚ¼ÓËÙÆäADC£¨¿¹ÌåÅ¼ÁªÒ©Îï£©ÑÐ·¢½ø³
 Obsidian TherapeuticsÒÑÍê³É1.605ÒÚÃÀÔªCÂÖÈÚ×Ê£¬ÓÃÓÚÍÆ½øÆäÖ÷´òÏîÄ¿TILÁÆ·¨OBX-115µÄ¿ª·¢£¬¸ÃÁÆ·¨Õë¶ÔºÚÉ«ËØÁöºÍ·ÇÐ¡Ï¸°û·Î°©£¬Ö¼ÔÚ¼õÉÙ´«Í³TILÁÆ·¨ÖÐIL-2µÄ¶¾ÐÔ¸±×÷ÓÃ¡£OBX-115ÔÚÁÙ´²ÊÔÑéÖÐÏÔÊ¾¶ÔÄÑÖÎÐÔºÚÉ«ËØÁö»¼ÕßµÄ»ý¼«ÁÆÐ§£¬ÔöÇ¿ÁËÖÎÁÆµÄ³Ö¾ÃÐÔºÍÐ§Á¦¡£´ËÂÖÈÚ×ÊÓÉ¶à¼ÒÖªÃûÍ¶×Ê»ú¹¹²ÎÓë£¬·´Ó³ÁË¶ÔOBX-115Ç±Á¦µÄÈÏ¿É£¬¼°ÆäÔÚÊµÌåÁöÖÎÁÆÁìÓòµÄ¹ãÀ«Ó¦ÓÃÇ°¾°¡£ObsidianµÄ½øÕ¹ÕÃÏÔÁË¹¤³ÌÏ¸°ûÁÆ·¨ÔÚ¹¥¿ËÄÑÖÎÐÔ¼²²¡·½ÃæµÄÍ»ÆÆÐÔ½øÕ¹¡£
 ¿ÆÑÐÁìÓòÈ¡µÃÖØ´ó½øÕ¹£¬ÀûÓÃDNAÄÉÃ×¼¼ÊõÊµÏÖÁËÑªË¨µÄ¾«×¼ÖÎÁÆ£¬ÎªÒ©ÎïµÝËÍ¼¼Êõ¿ª±ÙÁËÐÂµÀÂ·¡£Õâ²»½öÌá¸ßÁËÖÎÁÆÐ§ÂÊ£¬»¹¿ÉÄÜ¼õÉÙ¸±×÷ÓÃ£¬ÊÇÒ½Ñ§ÑÐ¾¿µÄÒ»¸öÖØÒªÀï³Ì±®¡£¶ÔÓÚÒ©Æ·ÑÐ·¢ºÍÉúÎïÒ½ÁÆ²úÒµ¶øÑÔ£¬ÕâÒ»´´ÐÂÓÐÍûÍÆ¶¯ÐÐÒµ½ø²½£¬¼ÓËÙ¸ü°²È«¡¢¸ßÐ§µÄÖÎÁÆ·½°¸ÃæÊÐ¡£Ëæ×Å¼¼ÊõµÄ²»¶Ï½âÂëÓëÓ¦ÓÃ£¬Î´À´¸öÐÔ»¯Ò½ÁÆ½«¸ü¼ÓÌù½üÏÖÊµ£¬¶Ô»¼Õß¶øÑÔÎÞÒÉÊÇ¸£Òô¡£
 ¹úÄÚÒ»¼ÒÉúÎï¿Æ¼¼¹«Ë¾£¨ÒÀÉúÉúÎï£©µÄ¿Ø¹ÉÈ¨´Ó´´Ê¼ÈË×ªÒÆÖÁÍ¶×Ê»ù½ðÊÖÖÐ£¬¸ßê²×Ê±¾µÈ¶à¼ÒÖªÃûÍ¶×Ê»ú¹¹²ÎÓëÆäÖÐ¡£ÒÀÉúÉúÎï×¨×¢ÓÚÐÂÐÍÉúÎïÖÆÆ·ÑÐ·¢£¬ÆäÖ÷´ò²úÆ·YS-ON-001ÔÚ¿¹Ö×ÁöÁìÓòÕ¹ÏÖ³ö°²È«ÐÔºÍ³õ²½ÁÆÐ§£¬Í¬Ê±¹«Ë¾ÓµÓÐÕë¶Ô¶àÖÖ¼²²¡µÄÒßÃçÑÐ·¢¹ÜÏß¡£¾¡¹ÜÑÐ·¢½øÕ¹»ý¼«£¬µ«¹«Ë¾ÃæÁÙ²ÆÎñÑ¹Á¦£¬Á¬Ðø¶àÄê¿÷Ëð£¬×îÖÕÍ¨¹ýÓë»ù½ðµÄ²ÆÎñ²Ù×÷µ¼ÖÂ´´Ê¼ÈËÕÅÒëÊ§È¥´ó¹É¶«µØÎ»¡£´Ë°¸Àý·´Ó³ÁËÉúÎïÒ½Ò©ÐÐÒµÔÚ×·Çó´´ÐÂÓëÓ¦¶Ô×Ê½ðÌôÕ½Ö®¼äµÄÆ½ºâÄÑÌâ¡£
+²®ÈðÌæÄá³¦ÈÜ½ºÄÒ£¬ÓÃÓÚÖÎÁÆÌØ¶¨·ÇÐ¡Ï¸°û·Î°©£¬ÒÑÔÚÖÐ¹ú¶¨¼Û²¢Íê³É¾Þ¶îÈÚ×Ê¡£¸ÃÒ©ÎïÓÉ°°Ê¯ÉúÎï¿Æ¼¼ÑÐ·¢£¬Õë¶ÔMETex14Ìø±äµÄ·Î°©»¼Õß£¬Õ¹ÏÖÖÎÁÆÇ±Á¦¡£ÆóÒµÌØÉ«ÔÚÓÚ×¨×¢¿¹Ö×Áö´´ÐÂÒ©£¬ÓµÓÐ¶à¸öÑÐ·¢¹ÜÏß£¬°üÀ¨First In Class¼°Best In ClassÒ©Îï£¬½üÆÚÍê³ÉBÂÖ10ÒÚÈËÃñ±ÒÈÚ×Ê£¬ÏÔÊ¾³ö×Ê±¾ÊÐ³¡¶ÔÆäÑÐ·¢ÄÜÁ¦µÄÈÏ¿ÉºÍ¶ÔÎ´À´Ôö³¤µÄÔ¤ÆÚ¡£´ËÍâ£¬¹«Ë¾»¹ÓÐÆäËûÕë¶ÔEGFR¼°c-MetµÈ°ÐµãµÄºòÑ¡Ò©Îï£¬½øÒ»²½·á¸»ÆäÖ×ÁöÖÎÁÆÁìÓòµÄ²úÆ·Ïß¡£
+À¶ÄñÉúÎïÈÚ×Ê2.5ÒÚÃÀÔª£¬²ÉÓÃÐÂÈÚ×ÊÄ£Ê½¡£¸Ã¹«Ë¾×¨×¢ÓÚÉúÎïÒ½Ò©ÁìÓò£¬Í¨¹ý´´ÐÂ·½Ê½³ï¼¯×Ê½ð£¬ÒÔÍÆ¶¯Ò©Æ·ÑÐ·¢ÓëÊÐ³¡¶´²ì¡£ÎÒµÄ¿´·¨ÊÇ£¬Õâ·´Ó³ÁËÉúÎï¿Æ¼¼ÐÐÒµÔÚ¸ß¶îÑÐ·¢³É±¾ÏÂÑ°Çó¶àÔªÈÚ×ÊÇþµÀµÄÇ÷ÊÆ£¬ÓÐÖúÓÚ¼ÓËÙ´´ÐÂÁÆ·¨µÄµ®Éú£¬»Ý¼°»¼Õß¡£
+EvolveImmune TherapeuticsÍê³É3700ÍòÃÀÔªÈÚ×Ê£¬ÓÃÓÚÍÆ¶¯°©Ö¢ÃâÒßÁÆ·¨µÄÑÐ·¢£¬ÌØ±ðÊÇÆäÁìÏÈÏîÄ¿EV-104 TÏ¸°û½ÓºÏÆ÷£¬¼Æ»®2024Äê½øÐÐÈËÌåÊÔÑé¡£¸ÃÁÆ·¨Õë¶ÔÊµÌåÁö£¬ÓëÏÖÓÐÖÎÁÆÕ¹ÏÖ²îÒì»¯Ç±Á¦£¬»ñ¶à¼ÒÖªÃûÒ©ÆóÍ¶×ÊÖ§³Ö¡£´ËÂÖÈÚ×ÊÒ²½«´Ù½øÆäËûÖ×ÁöÒ©Îï¼°CRISPR¼¼ÊõÆ½Ì¨µÄ·¢Õ¹£¬ÕÃÏÔ¹«Ë¾ÔÚÃâÒßÖ×ÁöÑ§ÁìÓòµÄ´´ÐÂÁìµ¼Á¦¡£
+Shinobi TherapeuticsÍê³É3.66ÒÚÈËÃñ±ÒAÂÖÈÚ×Ê£¬½«ÍÆ½øÆäCAR iPS-TÏ¸°ûÁÆ·¨£¬ÌØ±ðÊÇÕë¶ÔGPC3+ÊµÌåÁöµÄÏîÄ¿½øÈëÁÙ´²½×¶Î¡£¸ÃÁÆ·¨Ô´×Ô¾©¶¼´óÑ§ÑÐ¾¿£¬Í¨¹ý»ùÒò±à¼­ipsÏ¸°û£¬´´ÔìÍ¨ÓÃÇÒÃâÒß¹æ±ÜµÄ°©Ö¢ÖÎÁÆ·½·¨£¬Ö¼ÔÚ¿Ë·þ´«Í³Ï¸°ûÁÆ·¨µÄ¾ÖÏÞÐÔºÍ¸ß°º³É±¾£¬Îª¸ü¶à»¼ÕßÌá¹©ÖÎÁÆ»ú»á¡£ShinobiµÄ·½·¨ÓÐÍû¸ïÐÂÏ¸°ûÁÆ·¨ÁìÓò£¬ÌáÉýÁÆ·¨¿É¼°ÐÔ¡£
+Oxford BiomedicaÐû²¼ÒÔ1631ÍòÃÀÔªÊÕ¹ºABL Europe£¬Ö¼ÔÚ¼ÓÇ¿ÆäÔÚÈ«ÇòÏ¸°ûºÍ»ùÒòÖÎÁÆCDMOÁìÓòµÄÁìµ¼µØÎ»¡£Õâ´Î²¢¹º½«ÍØÕ¹Oxford BiomedicaÔÚÅ·ÃËµÄÒµÎñ°æÍ¼£¬ÌáÉý¹¤ÒÕ¿ª·¢ºÍÔçÆÚÉú²úÄÜÁ¦£¬¼ÓËÙÂú×ã¿Í»§ÐèÇó¡£Ô¤¼Æ½»Ò×ÓÚ2024ÄêµÚÒ»¼¾¶ÈÍê³É£¬Íê³Éºó½«¼´¿ÌÌáÕñ¹«Ë¾ÊÕÈë²¢´Ù½øÎ´À´ÔËÓªÓëÉÌÒµÐ­Í¬¡£´ËÍâ£¬Ã·Àï°£ÑÐ¾¿Ëù½«Ôö³ÖOxford BiomedicaÖÁÔ¼10%¹É·Ý¡£Õâ±êÖ¾×ÅOxford BiomedicaÔÚÌá¹©±ä¸ïÐÔÁÆ·¨µÀÂ·ÉÏµÄÓÖÒ»ÖØÒª²½·¥¡£
+¾¡¹ÜCXOÐÐÒµÃæÁÙ×Ê±¾º®³±ºÍ¶àÖØÌôÕ½£¬2023ÄêÇ°Èý¼¾¶ÈÈÔÓÐ20¼ÒÆóÒµ»ñµÃ³¬ÒÚÔªÈÚ×Ê£¬ÆäÖÐÒÔCGT CXO·þÎñÎªÖ÷¡£½­ËÕÒ«º£ÉúÎïÍ¨¹ý¾Û½¹Î¢ÉúÎï±í´ïÌåÏµCRDMO£¬³É¹¦±Ü¿ª¾ÞÍ·¾ºÕù£¬³ÉÎªÐÐÒµÁì¾ü¡£ºÏ³ÉÉúÎïÑ§ÁìÓòµÄÇæ¿ÆÉúÎïÀûÓÃ»ùÒòºÏ³ÉÓÅÊÆ£¬¿ªÍØÉúÎïÖÆÔìCXOÊÐ³¡¡£Ëæ×ÅÖÐÒ©Õþ²ßÀûºÃ£¬ÖÐÒ©CXOÈüµÀÉýÎÂ£¬ÆóÒµÈç²©¼ÃÒ½Ò©ºÍÒ×ÄÜÉúÎïÒ½Ò©µÈÓ­À´·¢Õ¹»úÓö¡£¸÷Ï¸·ÖÁìÓòCXOÆóÒµµÄÍÑÓ±¶ø³ö£¬Õ¹Ê¾ÁËÔÚ×Ê±¾º®¶¬ÖÐ£¬´´ÐÂÓë²îÒì»¯Õ½ÂÔµÄÖØÒªÐÔ¡£
+Nouscom£¬Ò»¼Ò×¨×¢ÓÚ¿ª·¢ÐÂÐÍ¿¹Ö×ÁöÒßÃçµÄÉúÎï¼¼Êõ¹«Ë¾£¬³É¹¦Íê³É7200ÍòÃÀÔªCÂÖÈÚ×Ê£¬´ËÂÖÈÚ×ÊÓÉ¶à¼ÒÖªÃûÍ¶×Ê»ú¹¹ÁìÍ¶¼°¸úÍ¶£¬½«½øÒ»²½¼ÓËÙÆäÁÙ´²ÏîÄ¿½øÕ¹£¬°üÀ¨NOUS-209ÒßÃçµÄ¶þÆÚÁÙ´²ÊÔÑé£¬Õë¶Ô´íÅäÐÞ¸´È±ÏÝÐÍ½áÖ±³¦°©µÈ¡£´ËÂÖÈÚ×Ê±íÃ÷Í¶×ÊÕß¶ÔNouscom¼¼ÊõµÄÐÅÐÄ¼°Ö×ÁöÒßÃçÁìÓòµÄ³ÖÐøÈÈ¶È¡£¹úÄÚÍ¬ÁìÓòÆóÒµÄêÄÚÒàÓÐ¶àÆðÈÚ×ÊÊÂ¼þ£¬·´Ó³¸ÃÁìÓòÑÐ·¢¾ºÕù¼¤ÁÒÇÒ³äÂúÇ±Á¦¡£
+CAR-TÏ¸°ûÁÆ·¨¹«Ë¾CARGO Therapeutics½øÐÐÄêÄÚ×î´ó¹æÄ£IPOÖ®Ò»£¬ÈÚ×ÊÔ¼20ÒÚÔª£¬ÓÃÓÚÍÆ½øÆäCD22 CAR-TÏ¸°ûÁÆ·¨CRG-022µÄÁÙ´²ÑÐ¾¿£¬ÌØ±ðÊÇÔÚÕë¶Ô¸´·¢»òÄÑÖÎÐÔLBCL»¼ÕßµÄÖÎÁÆÉÏÕ¹ÏÖ³öÁË»ý¼«µÄÁÆÐ§Êý¾Ý¡£´ËÍâ£¬¹«Ë¾»¹ÖÂÁ¦ÓÚ¶àÌØÒìÐÔCAR-TÁÆ·¨µÄÑÐ·¢£¬ÒÔÓ¦¶Ô°©Ö¢ÄÍÒ©ÐÔÎÊÌâ¡£´ËÂÖÈÚ×Ê³É¹¦ÌåÏÖÁËÊÐ³¡¶ÔÏÈ½øÏ¸°ûÁÆ·¨¼¼ÊõµÄ³ÖÐø¹Ø×¢ÓëÍ¶×ÊÈÈÇé¡£
+½­ËÕÐÂÔªËØÒ½Ò©Íê³É³¬6ÒÚÔªÈËÃñ±ÒµÄDÂÖÈÚ×Ê£¬³ÉÎª2023Äê×î´óÒ»±Ê´´ÐÂÒ©ÈÚ×ÊÖ®Ò»£¬¾Û½¹¿¹Ö×ÁöÒ©ÎïÑÐ·¢¡£´Ë´ÎÈÚ×Ê½«¼ÓËÙ¹Ø¼üÐÔÁÙ´²ÑÐ¾¿¼°ÐÂÒ©¹ÜÏß¿ª·¢¡£Ò½Ò©½¡¿µÐÐÒµÍ¶×Ê»îÔ¾£¬¶à¼ÒÆóÒµÈç¾¸ÒòÒ©Òµ¡¢¼ÃÊ¢ÉúÎïµÈÒ²ÔÚ½üÆÚÍê³É´ó¶îÈÚ×Ê£¬ÏÔÊ¾³öÊÐ³¡¶Ô´´ÐÂÁÆ·¨£¬ÓÈÆäÊÇºËËáÁÆ·¨¡¢¼¡Èâ¹Ç÷À¼²²¡Ò©ÎïµÄÇ¿¾¢Í¶×ÊÐËÈ¤¡£Õâ·´Ó³ÁËÒ½Ò©ÁìÓò³ÖÐøÔö³¤µÄ´´ÐÂ¶¯Á¦ºÍÍ¶×ÊÕß¶ÔÖÎÁÆÖØ´ó¼²²¡ÐÂÁÆ·¨µÄÀÖ¹ÛÔ¤ÆÚ¡£
+Á¢ÏîÄÑÔ­Òò£º1. ¿É·ÂÖÆÒ©×ÊÔ´Ëõ¼õ£¬ºÃÆ·ÖÖÄÑÑ°£»2. ÊÐ³¡¾ºÕù¼Ó¾ç£¬Í¶×Ê»Ø±¨ÂÊÏÂ»¬£»3. ÆóÒµÈ±·¦ÓëÊÐ³¡±ä»¯Ïà·ûµÄÕ½ÂÔÖ¸µ¼£»4. ÑÐ·¢³É±¾ÉÏÉý£¬ÆóÒµÀûÈóËõË®ÖÂÍ¶×Ê½÷É÷¡£Ó¦¶Ô²ßÂÔÓ¦°üÀ¨µ÷ÕûÁ¢Ïî±ê×¼£¬ÖØÊÓÕ½ÂÔµ¼Ïò£¬Áé»îÆÀ¹À²úÆ·¹ÜÏß¼ÛÖµ£¬²¢ÊÊÓ¦¸ü¼Ó¾«Ï¸»¯µÄ³É±¾Ð§Òæ·ÖÎö¡£
+ÖÐ¹úÒ©Æ·ÊÐ³¡Èý´óÖÕ¶Ë¡ª¡ªÒ½Ôº¡¢»ù²ãÒ½ÁÆ»ú¹¹¡¢Ò©µê£¬ÔÚ2018ÖÁ2023Äê¼ä¾­ÀúÁËÏÔÖø±ä¾Ö¡£ÒßÇé¶ÔÏúÊÛ·Ö²¼Ôì³É³å»÷£¬2020ÄêÒ½ÔºÓë»ù²ãÖÕ¶ËÏúÊÛÏÂ»¬£¬¶øÒ©µêÒò´¦·½ÍâÁ÷¼°ÃñÖÚ¶ÚÒ©ÐÐÎªÏúÊÛ¶î·´Ôö¡£2022Äê£¬Ëæ×ÅÒßÇé¹Ü¿Ø·Å¿í£¬½öÒ©µêÎ¬³ÖÔö³¤Ì¬ÊÆ£¬·´Ó³³ö´¦·½Ò©ÍâÁ÷¼°ÊÐ³¡Ó¦¶Ô²ßÂÔ±ä»¯¡£¸÷ÖÕ¶ËÊÐ³¡Õ¼±ÈÒò¼¯²ÉÕþ²ßµ÷Õû£¬µ¼ÖÂ¼Û¸ñ±ä»¯ºÍ²É¹ºÄ£Ê½×ª±ä£¬·Ö¼¶ÕïÁÆÕþ²ßÖØÒªÐÔÍ¹ÏÔ¡£ÖÎÁÆÁìÓò·Ö²¼ÉÏ£¬Ò½Ôº²àÖØ¿¹Ö×ÁöÓë¿¹¸ÐÈ¾Ò©Îï£¬»ù²ã×ÅÖØÂýÐÔ²¡¹ÜÀí£¬Ò©µêÔòÒÔÖÐ³ÉÒ©ÏúÊÛÎªÖ÷¡£Ò½Ò©ÆóÒµÐèÁé»îµ÷Õû²ßÂÔ£¬ÊÊÓ¦¸´ÔÓ¶à±äµÄÊÐ³¡»·¾³ÓëÕþ²ßµ¼Ïò£¬ÀûÓÃÊý¾Ý·ÖÎö¹¤¾ßÈçÒ©ÈÚÔÆÊý¾Ý¿âÀ´°ÑÎÕ»úÓö¡£
+¸ÃÎÄÌ½ÌÖÁËÀû¶à¿¨Òò/±û°·¿¨ÒòÍâÓÃÖÆ¼ÁµÄÎïÀíºÍ½á¹¹ÌØÐÔ£¨Q3£©ÓëÆäÌåÄÚÍâÐÔÖÊµÄÏà¹ØÐÔ£¬Ö¼ÔÚÍ¨¹ýÕâÐ©ÌØÐÔÔ¤²â²úÆ·ÐÔÄÜ¡£ÑÐ¾¿¶Ô±ÈÁË²Î±ÈÖÆ¼ÁEMLAÈé¸à¼°Æä·ÂÖÆÒ©¡¢OraqixÄý½ºµÄQ3ÌØÐÔ£¬·¢ÏÖÈé¸à²úÆ·¼äµÄQ3ÌØÐÔÏàËÆ£¬¶øÄý½ºÔÚpHÖµ¡¢Õô·¢ÂÊµÈ·½ÃæÓÐËù²»Í¬¡£ÌåÍâÉøÍ¸ÓëÌåÄÚÎ¢¹à×¢ÑÐ¾¿¾ùÏÔÊ¾£¬Èé¸à²úÆ·ÉúÎïµÈÐ§£¬¶øÄý½ºÓëÈé¸àÉúÎï²»µÈÐ§£¬Ö¤ÊµÁËQ3ÌØÐÔÓëÆ¤·ôÒ©´ú¶¯Á¦Ñ§µÄ¹ØÁª£¬ÓÐÖúÓÚÔ¤²âÉúÎïµÈÐ§ÐÔºÍÉúÎïÀûÓÃ¶È¡£
+2024ÄêÖÐÒ©ÐÐÒµ72¼ÒÉÏÊÐ¹«Ë¾ÖÐ±¨ÏÔÊ¾£¬ÕûÌåÓªÊÕ1894.34ÒÚÔª£¬¹éÄ¸¾»ÀûÈóÔ¼230.06ÒÚÔª¡£ÔÆÄÏ°×Ò©ÒÔ31.89ÒÚÔª¾»ÀûÈó³ÉÎª×î×¬Ç®ÖÐÒ©ÆóÒµ£¬°×ÔÆÉ½ÔòÒÔ410.4ÒÚÔªÓªÊÕÎ»¾Ó°ñÊ×¡£Áù¼Ò¹«Ë¾¾»ÀûÈó³¬10ÒÚ£¬ÏÔÊ¾¡°Ç¿ÕßºãÇ¿¡±¸ñ¾Ö¡£ÐÐÒµ³ÊÏÖÎÈ¶¨Ôö³¤Ì¬ÊÆ£¬ÁúÍ·ÆóÒµµÄÁÁÑÛ³É¼¨·´Ó³³öÖÐÒ©ÐÐÒµµÄÈÍÐÔºÍ·¢Õ¹Ç±Á¦£¬Î´À´ÔÚ½¡¿µÐèÇóÔö³¤ºÍÕþ²ßÖ§³ÖÏÂ£¬Ç°¾°¿ÉÆÚ¡£
+¹ú¼Ò¼¯²É·¶Î§²»¶ÏÀ©´ó£¬Ô¤¼ÆÐÂÅú´Î½«º­¸Ç¸ü¶àÖÎÁÆÁìÓòÒ©Æ·£¬ÖØµã¹Ø×¢»¯Ò©¡£ÊÐ³¡·ÖÎöÏÔÊ¾£¬²»Í¬Ò©Æ·ÔÚÒ½ÔºÖÕ¶ËÓëÒ©µêÁãÊÛµÄ±íÏÖ¸÷Òì£¬²¿·ÖÒ©Æ·ÏúÁ¿ÓëÏúÊÛ¶î³Ê·´Ïò²¨¶¯£¬·´Ó³¼Û¸ñµ÷ÕûÓ°Ïì¡£ÇøÓòÏúÊÛÊý¾ÝÏÔÊ¾£¬±±¾©¡¢É½¶«µÈµØÊÐ³¡±íÏÖÍ»³ö£¬ÓÈÆä¿¹¸ÐÈ¾Ò©ÎïÈçÍ·æßËûà¤°¢Î¬¡¢ÑÇ°·ÅàÄÏÎ÷Ë¾Ëû¶¡±íÏÖÁ¼ºÃÇÒ¾ßÓÐÔö³¤Ç±Á¦¡£¼¯²ÉÕþ²ßµ¼ÏòÊ¡¼¶ÁªÃËÓë¹ú¼Ò¼¯²É½áºÏ£¬³ÖÐøÍÆ¶¯Ò©Æ·¼Û¸ñºÏÀí»¯ÓëÒ½ÁÆ×ÊÔ´ÓÅ»¯¡£Ò©ÈÚÔÆÊý¾Ý¿âÎªÉîÈëÁË½âÒ©Æ·ÊÐ³¡Ìá¹©·á¸»Êý¾ÝÖ§³Ö¡£
+¸ÃÄÚÈÝÎªÒ»Ôò¹ã¸æÐû´«£¬ÍÆ¹ãÃûÎª¡°Ò©ÈÚÔÆ¡±µÄÆ½Ì¨£¬Ìá¹©°üÀ¨Ò©Æ·ÊÐ³¡·ÖÎö¡¢ÑÐ·¢Çé±¨¡¢¸öÈË¼°ÆóÒµ°æÊý¾Ý¿â·þÎñµÈ£¬Éæ¼°ÉúÎïÒ½Ò©ÐÐÒµÈ«Á´ÌõÊý¾ÝÖ§³Ö¡£ÓÃ»§¿ÉÍ¨¹ýÉ¨Âë¹Ø×¢Î¢ÐÅ»ñÈ¡¸ü¶à·þÎñÓëÀñÆ·¡£ÓÉÓÚÐÅÏ¢Ö÷ÒªÎªÐû´«ÐÔÖÊ£¬Î´Éæ¼°¾ßÌå¹ÛµãÌÖÂÛ¡£
+ÒøÐ¼²¡£¬Ë×³ÆÅ£Æ¤Ñ¢£¬ÊÇÒ»ÖÖÃâÒß½éµ¼µÄÂýÐÔ¼²²¡£¬Ó°ÏìÈ«Çò³¬1ÒÚÈË¡£ÑÐ¾¿ÏÔÊ¾£¬IL-17/IL-23Í¨Â·ÔÚÆä·¢²¡»úÖÆÖÐÖÁ¹ØÖØÒª£¬ÍÆ¶¯ÁËÉúÎïÖÆ¼ÁºÍÐ¡·Ö×Ó°ÐÏòÒ©µÄÑÐ·¢¡£ÉúÎïÖÆ¼Á£¬ÈçIL-17ÒÖÖÆ¼Á£¬ÒÑÒýÁìÒøÐ¼²¡½øÈë°ÐÏòÖÎÁÆÊ±´ú£¬ÏÔÖø¸ÄÉÆ»¼ÕßÔ¤ºó£¬¶à¼ÒÆóÒµÈçºãÈðÒ½Ò©¡¢°Ù°ÂÌ©ÉúÎïµÈ¾ùÓÐ²úÆ·ÉÏÊÐ»òÁÙ½üÉÏÊÐ¡£Ð¡·Ö×Ó°ÐÏòÒ©ÈçJAKÒÖÖÆ¼ÁÒ²ÔÚÑ¸ËÙ·¢Õ¹£¬Îª»¼ÕßÌá¹©¸ü¶àÖÎÁÆÑ¡Ïî¡£¹úÄÚ´´ÐÂÒ©ÎïÑÐ·¢»îÔ¾£¬°ÐÏòTYK2¡¢JAK1µÈ³ÉÎªÈÈµã£¬Ô¤Ê¾×ÅÒøÐ¼²¡ÖÎÁÆÎ´À´½«¸ü¼Ó¸öÐÔ»¯ºÍ¸ßÐ§¡£
+È«Çò³©Ïú¹Â¶ùÒ©TOP10Ô¤²â³öÂ¯£¬ÁîÈËÕñ·ÜµÄÊÇ£¬ÆäÖÐÓÐÁ½¿î¹ú²úÒ©ÎïÈë°ñ¡£Õâ²»½öÕÃÏÔÁËÖÐ¹úÖÆÒ©ÐÐÒµµÄ´´ÐÂÊµÁ¦Óë¹ú¼Ê¾ºÕùÁ¦µÄÌáÉý£¬Ò²Îªº±¼û²¡»¼Õß´øÀ´ÁË¸ü¶àÏ£Íû¡£Ëæ×ÅÊÐ³¡¶Ô¹Â¶ùÒ©ÐèÇóµÄÔö³¤ºÍÑÐ·¢Õþ²ßµÄÖ§³Ö£¬Ô¤¼ÆÎ´À´½«ÓÐ¸ü¶à¹ú²ú¹Â¶ùÒ©ÔÚÈ«ÇòÊÐ³¡ÉÏÈ¡µÃÁÁÑÛ³É¼¨¡£
+ÖÐ¹úCAR-TÏ¸°ûÖÎÁÆÊÐ³¡¾ºÕù¼¤ÁÒ£¬ÓÉ¸´ÐÇ¿­ÌØ¡¢Ò©Ã÷¾ÞÅµ¡¢Ñ±Â¹ÉúÎï¡¢ºÏÔ´ÉúÎï¡¢¿Æ¼ÃÉúÎï¼°ÄÏ¾©´«ÆæÉúÎïÁù¼ÒÆóÒµÖ÷µ¼¡£¾¡¹ÜÃæÁÙÒ©¼Û¸ß°ººÍÊÊÓ¦Ö¢ÏÞÖÆ£¬ÊÐ³¡ÕýÍ¨¹ýÉÌÒµ±£ÏÕºÍ´´ÐÂÖ§¸¶ÌáÉý»¼Õß¿É¼°ÐÔ¡£¸´ÐÇ¿­ÌØ×÷ÎªÏÈÐÐÕß£¬Æä²úÆ·ÞÈ¿­´ïÒÑ³ÉÎªÖÐ¹úÊ×¸öÉÏÊÐµÄCAR-TÁÆ·¨£¬Õ¹ÏÖ³öÁ¼ºÃµÄÉÌÒµ»¯Ç±Á¦£¬µ«Í¬Ê±ÃæÁÙ×Å¸ßÑÐ·¢Í¶Èëµ¼ÖÂµÄ¿÷ËðÎÊÌâ¡£¸÷¹«Ë¾Õý»ý¼«ÍØÕ¹ÑÐ·¢¹ÜÏß£¬Î´À´ÊÐ³¡ÉÌÒµ»¯Ç°¾°ÀÖ¹Û£¬µ«³É±¾¿ØÖÆÓëÁÆÐ§ÌáÉýÈÔÊÇ¹Ø¼ü¡£
+µÂÇúÍ×Öéµ¥¿¹£¨DS-8201£©ÊÇ°¢Ë¹Àû¿µÓëµÚÒ»Èý¹²ºÏ×÷¿ª·¢µÄ´´ÐÂHER2°ÐÏò¿¹ÌåÅ¼ÁªÒ©Îï£¬ÒÑÔÚ¶à¹ú»ñÅúÓÃÓÚ¶àÖÖHER2ÑôÐÔ°©Ö¢ÖÎÁÆ£¬°üÀ¨ÈéÏÙ°©¡¢Î¸°©¼°·ÇÐ¡Ï¸°û·Î°©£¬Õ¹ÏÖ³ö×¿Ô½ÁÆÐ§¡£2023ÄêÆð£¬¸ÃÒ©ÎïÔÚÖÐ¹ú¼ÓËÙ»ñÅú¶à¸öÊÊÓ¦Ö¢£¬²»½öÕë¶ÔHER2¸ß±í´ï£¬Ò²¸²¸ÇµÍ±í´ï»¼Õß£¬´òÆÆÖÎÁÆ¾ÖÏÞ¡£¾¡¹Ü¼Û¸ñ¸ß°º£¬Î´½øÈëÒ½±££¬µ«Í¨¹ý¼Û¸ñµ÷ÕûºÍÏÔÖøµÄÁÙ´²¼ÛÖµ£¬Ô¤Ê¾×ÅÎ´À´ÊÐ³¡Ç±Á¦ºÍ»¼Õß¿É¼°ÐÔÌáÉýµÄ»ý¼«Ç÷ÊÆ¡£Æä¶ÀÌØµÄ½á¹¹Éè¼ÆºÍ×÷ÓÃ»úÖÆ£¬Èç¸ßÒ©Îï¿¹Ìå±È¡¢¸ßÐ§ÔØÒ©´«µÝ£¬³É¾ÍÁËÆäÔÚADCÁìÓòµÄÁìÏÈµØÎ»£¬ÊÐ³¡±íÏÖÇ¿¾¢£¬ÏúÊÛ¶îÑ¸ËÙÔö³¤£¬Ô¤ÆÚ½«³ÉÎªÄêÏú³¬30ÒÚÃÀÔªµÄÖØ°õÒ©Îï¡£
+´Ó2000ÖÁ2024Äê¼ä£¬FDA¹²Åú×¼ÁË26¿î¾Ö²¿Æ¤·ôÓÃÄý½º¼Á£¬Äê¾ùÒ»¿î£¬ÆäÖÐ¿¨²¨Ä·ÊÇ×î³£ÓÃµÄÄý½º»ùÖÊ£¬Õ¼64%¡£²úÆ·Ö÷ÒªÕë¶ÔÑ°³£ðî´¯µÈÆ¤·ô¼²²¡£¬Ð¡·Ö×ÓÒ©ÎïÎªÖ÷£¬Òà²»·¦´´ÐÂ½á¹¹Ò©Îï¼°¹Ì¶¨¼ÁÁ¿×éºÏ¸´·½£¬Õ¹ÏÖ³öÄý½º¼ÁÔÚ¾Ö²¿ÖÎÁÆÖÐµÄ¶àÑùÐÔºÍ·¢Õ¹Ç±Á¦¡£
+IDEAYA×÷ÎªÇ±Á¦¾Þ´óµÄÒ½Ò©ÑÐ·¢¹«Ë¾£¬ÒýÆðÖÚ¶à¶¥¼¶Ò©ÆóºÏ×÷ÐËÈ¤£¬Æä¶À¼Ò»ñµÃ°Ù°ÂÈüÍ¼´´ÐÂADCÏîÄ¿È«ÇòÐí¿ÉÈ¨£¬±êÖ¾×Å¹«Ë¾ÔÚÖ×ÁöÖÎÁÆÁìÓòÂõ³öÖØÒªÒ»²½¡£´ËºÏ×÷²»½öÔöÇ¿IDEAYAµÄÑÐ·¢¹ÜÏß£¬Ò²Í¹ÏÔÆä¼¼ÊõÊµÁ¦»ñµÃÐÐÒµÈÏ¿É¡£ÔÚÉúÎïÒ½Ò©¸ß¶È¾ºÕùµÄ»·¾³ÏÂ£¬ÕâÑùµÄºÏ×÷¶ÔÓÚ¼ÓËÙÐÂÒ©¿ª·¢¡¢ÓÅ»¯ÖÎÁÆ·½°¸¾ßÓÐ»ý¼«ÒâÒå¡£
+ÖÐÒ©´´ÐÂÔÚÕþ²ßÖ§³ÖÓëÊÐ³¡ÐèÇóµÄË«ÖØÍÆ¶¯ÏÂÓ­À´ÈÈ³±£¬¾­µäÃû·½ÖÆ¼ÁµÄ×¢²áÉêÇëÏÔÖøÔö³¤¡£Õâ·´Ó³³öÐÐÒµ¶ÔÓÚ´«Í³ÖÐÒ©ÏÖ´ú»¯¸ÄÔì¼°ÐÂÒ©ÑÐ·¢µÄÖØÊÓ¡£Í¨¹ýÀûÓÃÕþ²ßºìÀûÓëÊÐ³¡µ¼Ïò£¬ÆóÒµÕý»ý¼«²ÉÓÃÐÂ¼¼ÊõÍÆ½øÖÐÒ©ÑÐ·¢£¬Ö¼ÔÚÌáÉýÒ©Æ·ÖÊÁ¿Óë°²È«ÐÔ£¬Âú×ã¹«ÖÚ½¡¿µÐèÇó¡£´ËÇ÷ÊÆÓÐÍû´Ù½øÖÐÒ½Ò©ÐÐÒµµÄ×ªÐÍÉý¼¶Óë¹ú¼Ê»¯·¢Õ¹¡£
+±¾ÎÄÌ½ÌÖÁËÉ«Æ×·ÖÎöÖÐ»ý·Ö·½·¨µÄÉèÖÃ¶Ô¶¨Á¿×¼È·ÐÔµÄÓ°Ïì£¬ÌØ±ð¹Ø×¢ÁËÍâ±ê·¨¡¢·åÃæ»ý¹éÒ»»¯·¨ÒÔ¼°Ö÷³É·Ö×ÔÉí¶ÔÕÕ·¨ÖÐµÄ»ý·Ö¼¼ÇÉ¡£ÔÚÍâ±ê·¨¶¨Á¿ÖÐ£¬ºÏÀíÉèÖÃ·å¿íºÍãÐÖµÈ·±£Ö÷³É·ÖºÍÔÓÖÊ×¼È·»ý·ÖÊÇ¹Ø¼ü£»·åÃæ»ý¹éÒ»»¯·¨ÐèÏ¸ÖÂ´¦Àí»ùÏß²¨¶¯£¬±ÜÃâ·Ç·åÇøÓòÎó»ý·Ö£»Ö÷³É·Ö×ÔÉí¶ÔÕÕ·¨Ç¿µ÷´ý²âÔÓÖÊÓë¶ÔÕÕ·åÃæ»ýµÄºÏÀí»ý·Ö¡£×÷ÕßÇ¿µ÷£¬Àí½â²»Í¬¶¨Á¿·½·¨µÄ»ý·ÖÐþ»ú£¬¶ÔÈ·±£Êý¾ÝÕæÊµÐÔ¼°ºÏÀíÐÔÖÁ¹ØÖØÒª£¬ÇÒÔÚÌØ¶¨Çé¿öÏÂÁé»îÔËÓÃ»ý·ÖÊÂ¼þ¹¦ÄÜ£¨ÈçÇ¿ÆÆ·å¡¢°´Ê±¼äÇ¿ÆÈ»ùÏß£©ÄÜÓÐÐ§½â¾öÎÊÌâ¡£ÕûÌå¶øÑÔ£¬±¾ÎÄÎªÒ©Îï·ÖÎöÁìÓò´ÓÒµÕßÌá¹©ÁËÊµÓÃµÄ»ý·Ö·½·¨Ö¸µ¼¡£
+2024ÄêÒ©Æ·ÊÐ³¡ÅÌµãÏÔÊ¾£¬24¿î´´ÐÂÒ©³É¹¦ÉÏÊÐ£¬³¬¹ý40¸öÆ·ÖÖÏíÊÜÓÅÏÈÉóÆÀ´ýÓö£¬ÆäÖÐÖÐÒ©±íÏÖÍ»³ö¡£Õý´óÌìÇçÒÔ4¿î´´ÐÂÒ©ÁìÏÈ»ñÅú°ñ£¬º­¸Ç·Î°©ÖÎÁÆµÈÁìÓò¡£±¾Äê¶È£¬3¿î1ÀàÖÐÒ©´´ÐÂÒ©ÉÏÊÐ£¬·´Ó³ÖÐÒ©ÑÐ·¢»îÁ¦ÔöÇ¿¡£ÓÅÏÈÉóÆÀ·½Ãæ£¬¿¹Ö×ÁöºÍÃâÒßµ÷½ÚÒ©ÎïÕ¼±È½Ï¸ß£¬Õ¹ÏÖÕâÐ©ÁìÓòµÄÑÐ·¢ÈÈ¶È¡£ÕûÌå¶øÑÔ£¬Ò½Ò©ÐÐÒµ´´ÐÂÊÆÍ·Ç¿¾¢£¬Õþ²ßÖ§³Ö¼ÓËÙÁËÐÂÒ©ÉÏÊÐ½ø³Ì¡£
+ÖÆÒ©ÐÐÒµÈËÔ±ÃæÁÙ×ÅÖî¶à½¡¿µ·çÏÕ£¬ÎÄÕÂ½ÒÊ¾ÁËÕâÐ©Òþ»¼²¢Ì½ÌÖÓ¦¶Ô²ßÂÔ¡£ÓÉÓÚÐÅÏ¢ÒÔÍ¼ÏñÐÎÊ½³ÊÏÖ£¬¾ßÌåÄÚÈÝÎ´ÄÜÖ±½Ó¸ÅÊö¡£µ«´ÓURLºÍ±êÌâÍÆ²â£¬ÄÚÈÝ¹ØºõÖÆÒ©ÐÐÒµ¹¤×÷ÕßµÄ½¡¿µÎÊÌâ¼°½â¾ö·½°¸£¬¿ÉÄÜ°üÀ¨¹¤×÷»·¾³¡¢»¯Ñ§±©Â¶¡¢Ñ¹Á¦¹ÜÀíµÈ¡£Õë¶Ô´Ë£¬½¨Á¢ÓÐÐ§µÄÖ°Òµ½¡¿µ¹ÜÀíÌåÏµ£¬ÌáÉý¸öÈË·À»¤ÒâÊ¶£¬ÒÔ¼°ÀûÓÃÊý¾Ý·ÖÎö¹¤¾ßÓÅ»¯¹¤×÷Á÷³Ì£¬ÊÇÎ¬»¤ÖÆÒ©ÈË½¡¿µµÄ¹Ø¼ü¡£ÒÅº¶µÄÊÇ£¬¾ßÌå½¨ÒéÐè²Î¿¼Ô­ÎÄ»òÖ±½Ó×ÉÑ¯Ìá¹©·þÎñµÄÆ½Ì¨¡£
+°¢·¥Çú²´ÅÁÊÇ¹úÄÚÊ×¸öÓÃÓÚÖÎÁÆÂýÐÔ¸Î²¡»¼ÕßÑªÐ¡°å¼õÉÙÖ¢µÄ¿Ú·þÒ©Îï£¬Ìî²¹ÁË¸ÃÁìÓòÓÃÒ©¿Õ°×¡£×÷ÎªTPO-RAÀàÒ©Îï£¬ËüÄÜÓÐÐ§ÌáÉýÑªÐ¡°å¼ÆÊý£¬½µµÍ³öÑª·çÏÕ¡£¸ÃÒ©ÒÑÔÚÖÐ¹úÉÏÊÐ£¬²¢ÄÉÈëÒ½±££¬ÏÔÖøÌá¸ßÁË»¼Õß¿É¸ºµ£ÐÔºÍÖÎÁÆ±ãÀûÐÔ¡£ÊÐ³¡·´Ó¦»ý¼«£¬ÏúÊÛ¶î³ÖÐøÔö³¤£¬Í¬Ê±¶à¼ÒÆóÒµµÄ·ÂÖÆÒ©Ò²ÒÑÉÏÊÐ£¬Ôö¼ÓÁËÊÐ³¡¾ºÕùÁ¦¡£°¢·¥Çú²´ÅÁµÄ³öÏÖÎªÑªÐ¡°å¼õÉÙÖ¢»¼ÕßÌá¹©ÁËÐÂµÄÖÎÁÆÑ¡Ôñ£¬Æä¿ìËÙ¡¢³Ö¾ÃÇÒ°²È«µÄÁÆÐ§ÌØµãÊÜµ½ÈÏ¿É¡£
+Ò©Æ·¼¯²ÉÍ¨¹ýÒÔÁ¿»»¼Û´ó·ù½µµÍÁË»¼ÕßÖÎÁÆ³É±¾£¬Èç¸ßÑªÑ¹¡¢°×Ñª²¡»¼ÕßËùÐèÒ©Îï·ÑÓÃÏÔÖø¼õÉÙ£¬×î¸ß½µ·ù´ï90%ÒÔÉÏ¡£¼¯²É²¢Î´ÎþÉüÒ©Æ·ÖÊÁ¿£¬ËùÓÐÈëÑ¡Ò©Æ·¾ùÍ¨¹ýÒ»ÖÂÐÔÆÀ¼Û£¬È·±£ÓëÔ­ÑÐÒ©Í¬µÈÐ§ÓÃ¡£Õþ¸®ÑÏ¸ñ¼à¹ÜÈ·±£Ò©Æ·ÖÊÁ¿£¬¿ªÕ¹ÕæÊµÊÀ½çÑÐ¾¿ÑéÖ¤ÁÆÐ§Óë°²È«ÐÔ¡£¼¯²É²»½ö»Ý¼°»¼Õß£¬¼õÇá¾­¼Ã¸ºµ££¬»¹´Ù½øÁËÒ½±£»ù½ðµÄ¿É³ÖÐøÐÔ£¬¼¤ÀøÒ½Ò©ÐÐÒµ´´ÐÂ£¬ÍÆ¶¯²úÒµ½á¹¹Éý¼¶¡£ÕûÌå¶øÑÔ£¬¼¯²ÉÊÇÀûÃñ¡¢ÀûÒ½±£¡¢ÀûÐÐÒµµÄÖØ´ó¸Ä¸ï´ëÊ©¡£
+ÍÐÀ³Î÷µ¥¿¹×÷Îª¹ú²úPCSK9ÒÖÖÆ¼ÁµÄ´ú±í£¬±»³ÆÎªÐÄÑª¹Ü¼²²¡ÖÎÁÆµÄ¡°¹ú»õÖ®¹â¡±¡£Ãæ¶ÔÐÄÑª¹Ü¼²²¡¸ß·¢ÓëÑªÖ¬Òì³£µÄÑÏ¾þÌôÕ½£¬¸ÃÒ©Îï´òÆÆÁË´«Í³ËûÍ¡ÀàÒ©ÎïµÄ½µÖ¬¾ÖÏÞ£¬ÄÜ¸ü´ó·ù¶È½µµÍLDL-C£¬ÇÒ°²È«ÐÔÁ¼ºÃ¡£ÍÐÀ³Î÷µ¥¿¹Æ¾½èÆä³¤°ëË¥ÆÚºÍÁé»î¸øÒ©·½°¸£¬ÓÐÐ§¿ØÖÆÑªÖ¬£¬ÒÑÔÚ¹úÄÚ»ñÅúÉÏÊÐ²¢»ñµÃÁÙ´²×¨¼ÒÈÏ¿É¡£Æä¼´½«²ÎÓëÒ½±£Ì¸ÅÐ£¬ÓÐÍû½øÒ»²½ÌáÉý»¼Õß¿É¼°ÐÔ£¬¼õÇá¾­¼Ã¸ºµ££¬¶Ô´Ù½ø¹«ÖÚÐÄÑª¹Ü½¡¿µ¾ßÓÐÖØÒªÒâÒå¡£
+°°Ê¯ÉúÎï¿Æ¼¼ÍÆ³öMETÒÖÖÆ¼Á²®ÈðÌæÄá£¬Ö¼ÔÚ¼ÓËÙ·Î°©ÖÎÁÆÒ©ÎïµÄ¿É¼°ÐÔ£¬ÆäÇ×Ãñ¶¨¼Û²ßÂÔÓÐÍû¼õÇá»¼Õß¾­¼Ã¸ºµ£¡£´Ë¾Ù´ë²»½öÏìÓ¦ÁËÊÐ³¡¶Ô¸ßÐ§·Î°©ÖÎÁÆ·½·¨µÄÐèÇó£¬Í¬Ê±Ò²ÕÃÏÔÁËÆóÒµÔÚ´´ÐÂÒ©Îï¿ª·¢ÖÐ¼æ¹ËÉç»áÔðÈÎµÄÅ¬Á¦¡£ÔÚµ±Ç°Ò½Ò©ÁìÓò£¬ÈçºÎÆ½ºâÁÆÐ§¡¢¿É¼°ÐÔºÍ³É±¾£¬ÊÇÍÆ¶¯Ò½Ò©½¡¿µ¿É³ÖÐø·¢Õ¹µÄÖØÒªÒéÌâ¡£
+Ò©Æ··´Â¢¶ÏÖ¸ÄÏ³öÂ¯£¬Ö¼ÔÚÈ«ÁìÓò¸²¸ÇÒ©Æ·ÊÐ³¡£¬´Ù½ø¹«Æ½¾ºÕù¡£¸ÃÖ¸ÄÏ°üº¬Æß´ó·½Ãæ£¬ÏêÏ¸²ûÊöÁË·´Â¢¶ÏÔ­Ôò¡¢Â¢¶ÏÐ­Òé¡¢ÀÄÓÃÊÐ³¡Ö§ÅäµØÎ»¡¢¾­ÓªÕß¼¯ÖÐÉó²é¡¢¹«Æ½¾ºÕùÉó²é¡¢ÐÐÕþÈ¨Á¦ÀÄÓÃ¼°·¨ÂÉÔðÈÎ£¬ÒÔ·¨ÂÉÊÖ¶ÎÏ¸»¯ºÍ¹æ·¶Ò©Æ·ÐÐÒµµÄ¾ºÕùÐÐÎª¡£Õâ·´Ó³³ö¼à¹Ü²¿ÃÅ¶ÔÓÚÒ½Ò©ÐÐÒµÂ¢¶ÏÎÊÌâµÄÖØÊÓ£¬Ö¼ÔÚÍ¨¹ýÃ÷È·¹æÔò£¬¶ôÖÆÂ¢¶ÏÐÐÎª£¬±£»¤Ïû·ÑÕßÀûÒæ£¬¹ÄÀø´´ÐÂ£¬Î¬»¤ÊÐ³¡»îÁ¦¡£Ëæ×ÅÖ¸ÄÏµÄÊµÊ©£¬Ô¤ÆÚ½«ÔöÇ¿Ò©Æ·ÊÐ³¡µÄ¾ºÕù¹«ÕýÐÔ£¬ÍÆ¶¯ÐÐÒµ½¡¿µ·¢Õ¹¡£
+ÏÂÔÂÆð£¬ºþÄÏÊ¡½«Ö´ÐÐ¾Å´óÀàÒ½ÓÃºÄ²ÄµÄ½µ¼ÛÕþ²ß£¬Æ½¾ù½µ¼Û·ù¶È´ï83.46%£¬Éæ¼°ÈË¹¤¾§Ìå¡¢ÔË¶¯Ò½Ñ§ºÄ²ÄµÈ¶à¸öÁìÓò¡£´Ë¾ÙÖ¼ÔÚÍ¨¹ýºÄ²Ä¼¯²É½µµÍÒ½ÁÆ³É±¾£¬»Ý¼°»¼Õß¡£²É¹ºÖÜÆÚ¸÷Òì£¬´Ó1ÄêÖÁ3Äê²»µÈ£¬ÇÒÇ¿µ÷ÁË»õ¿î½áËãµÄ¼°Ê±ÐÔ£¬ÒÔ½µµÍ½»Ò×³É±¾¡£´ËÂÖ½µ¼ÛÌåÏÖÁËÒ½ÁÆ¸Ä¸ïµÄÉîÈë£¬¼°¶ÔÃñÉú¸£ìíµÄ»ý¼«Ó°Ïì¡£
+¹ú¼ÒÐÂ¹æÖ¼ÔÚ³¹µ×½â¾ö¹«Á¢Ò½Ôº¶ÔÖÐÐ¡ÆóÒµµÄÇ·¿îÎÊÌâ£¬Í¨¹ýÐÞ¶©Ö§¸¶ÌõÀý£¬¼ÓÇ¿¼à¹ÜÓë³Í·£´ëÊ©£¬°üÀ¨¶¨ÆÚ±¨¸æÇ·¿îÇé¿ö¡¢¹«¿ªÓâÆÚÖ§¸¶ÐÅÏ¢¼°½¨Á¢Í¶ËßÆ½Ì¨µÈ£¬È·±£¿îÏî¼°Ê±Ö§¸¶¡£¼ªÁÖ·¨ÔºÊµÀýÕÃÏÔÁË½â¾öÕâÒ»ÎÊÌâµÄ¾öÐÄ£¬¶ø¹úÎñÔº×îÐÂÖ¸ÁîÒªÇó30ÌìÄÚÍê³É»Ø¿î£¬ÏÔÖøËõ¶Ì»Ø¿îÖÜÆÚ£¬ÎªÒ½Ò©ÆóÒµ¼õÑ¹¡£ÕâÐ©¾Ù´ëÓÐÍûÏÔÖø¸ÄÉÆÖÐÐ¡ÆóÒµÊÕ¿î»·¾³£¬´Ù½øÆä½¡¿µ·¢Õ¹£¬ÖúÁ¦¾­¼Ã·±ÈÙ¡£
+¹ú¼ÒÒ½±£¾ÖÏÂ·¢Í¨Öª£¬½«¶ÔÈ«¹ú·¶Î§ÄÚµÄ´óÐÍÒ½ÁÆÉè±¸½øÐÐÑÏ¸ñ¼ì²é¡£ÕâÒ»¾Ù´ëÖ¼ÔÚ¹æ·¶Ò½ÁÆÉè±¸Ê¹ÓÃ£¬·ÀÖ¹×ÊÔ´ÀÄÓÃ£¬±£ÕÏÒ½±£×Ê½ðºÏÀí·ÖÅä¡£¶ÔÓÚÐÐÒµ¶øÑÔ£¬Õâ¼ÈÊÇÌôÕ½Ò²ÊÇ»úÓö£¬¿É´Ù½øÒ½ÁÆÆ÷ÐµÊÐ³¡µÄ½¡¿µ·¢Õ¹£¬ÌáÉýÒ½ÁÆ·þÎñÖÊÐ§¡£¸÷Ò½ÁÆ»ú¹¹Ó¦»ý¼«Ó¦¶Ô£¬È·±£Éè±¸²É¹º¡¢Ê¹ÓÃ·ûºÏ¹æ¶¨£¬Í¬Ê±£¬Ïà¹ØÆóÒµÐèÃÜÇÐ¹Ø×¢Õþ²ß¶¯Ì¬£¬µ÷Õû²ßÂÔÒÔ·ûºÏ¹ú¼Ò¼à¹ÜÒªÇó¡£
+±±¾©·¢²¼ÐÂÕþ²ß£¬Ö§³ÖÏ¸°û»ùÒòÖÎÁÆ£¨CGT£©Ò©ÎïµÈÇ°ÑØ¼¼ÊõÁìÓò¿ìËÙ·¢Õ¹£¬Ö¼ÔÚ´ßÉú¿ÆÑ§·¢ÏÖºÍ¼¼ÊõÍ»ÆÆ£¬¼ÓËÙ²úÒµÔöÁ¿¡£Õþ²ßÇ¿µ÷¼ÓÇ¿»ùÒò±à¼­ÑÐ¾¿£¬Ö§³ÖÊÐ³¡Ç±Á¦´óµÄÏ¸°ûÁÆ·¨¡¢»ùÒòÒ©Îï·¢Õ¹£¬ÒÔ¼°È«ÐÂ°ÐµãÒ©ÎïµÄÑÐ·¢£¬Ä¿±êµ½2026ÄêÊµÏÖÒ½Ò©½¡¿µ²úÒµ×Ü¹æÄ£³¬1.25ÍòÒÚÔª¡£´Ë¾Ù±íÃ÷±±¾©ÖÂÁ¦ÓÚ´òÔì¾ßÓÐÈ«ÇòÓ°ÏìÁ¦µÄÒ½Ò©½¡¿µ²úÒµ¼¯Èº£¬ÍÆ¶¯Ò½Ò©ÐÐÒµ´´ÐÂÓë¸ßÖÊÁ¿·¢Õ¹¡£
+×¢Éä¼ÁÓÃ¸²Ä¤½ºÈûÒòÆä¶ÔÃô¸ÐÒ©Îï±£»¤¼°»¯Ñ§ÎÈ¶¨ÐÔ¼Ñ¶ø¹ã·ºÓ¦ÓÃ£¬ÌØ±ðÊÇÉúÎïÖÆ¼Á°ü×°¡£¸²Ä¤½ºÈûÍ¨¹ýÔÚÏð½º±íÃæ¸²¸ÇÒ»²ãÄ¤²ÄÔöÇ¿ÃÜ·âÐÔÓë¶èÐÔ£¬Ö÷ÒªÊ¹ÓÃº¬·úÄ¤²Ä£¬ÈçPTFE£¬ÒòÆäÄÍ¸ßÎÂ¡¢»¯Ñ§ÎÈ¶¨¼°ÉúÎï¶èÐÔ¡£È»¶ø£¬¸²Ä¤½ºÈû´æÔÚ×Ô·âÐÔ²»×ãºÍ´©´ÌÂäÐ¼ÎÊÌâ£¬ÐèÍ¨¹ýÓÅ»¯Ïð½ºÅä·½¼°Éú²ú¹¤ÒÕ½â¾ö¡£ÐÐÒµÓ¦¹Ø×¢²¢¸Ä½øÕâÐ©ÎÊÌâ£¬È·±£²úÆ·ÖÊÁ¿£¬×ñÑ­GMP¹æ·¶£¬±£ÕÏ¹«ÖÚ½¡¿µ¡£
+¹ú¼ÒÎÀÉú½¡¿µÎ¯µÈ¶à²¿ÃÅÁªºÏ·¢²¼¡¶µÚÈýÅú¹ÄÀø·ÂÖÆÒ©Æ·Ä¿Â¼¡·£¬Ö¼ÔÚ½â¾ö×¨Àûµ½ÆÚ¼°ÁÙ´²¹©Ó¦¶ÌÈ±Ò©ÎïÎÊÌâ£¬¹²ÄÉÈë39¸öÆ·ÖÖ£¬º­¸Ç¶àÖÖÖÎÁÆÁìÓò¡£Ïà¹Ø²¿ÃÅ½«´ÓÁÙ´²ÊÔÑéµ½ÉóÅú»·½Ú¸øÓèÖ§³Ö£¬¼ÓËÙÕâÐ©Ò©Æ·ÉÏÊÐ¡£´ËÇ°Á½ÅúÄ¿Â¼ÒÑ´Ù³É33¸öÆ·ÖÖ³É¹¦ÉÏÊÐ£¬ÓÐÐ§´Ù½øÁËÒ©Æ·¹©Ó¦ºÍÊÐ³¡¾ºÕù£¬½µµÍÁË»¼Õß¸ºµ£¡£´Ë¾Ù´ëÕ¹ÏÖÁË¶ÔÌáÉý¹úÃñ½¡¿µË®Æ½µÄ³ÖÐø³ÐÅµ£¬Í¨¹ý¹ÄÀø·ÂÖÆÒ©Éú²ú£¬È·±£Ò©Îï¿É¼°ÐÔ£¬ÌØ±ðÊÇ¶Ôº±¼û²¡»¼Õß¶øÑÔ£¬ÒâÒåÖØ´ó¡£
+¸£½¨µÚËÄÅú»¯Ñ§Ò©Æ·¼¯ÖÐ²É¹º½á¹ûÏÔÊ¾£¬¼ä±½Èý·Ó×¢ÉäÒº¼Û¸ñ´ó·ù½µµÍ92%£¬½ö½­ËÕÍò¸ßÒ»¼ÒÖÐÑ¡¡£³¬¹ý30¼ÒÆóÒµ²ÎÓë¸ÃÒ©Æ·µÄÉê±¨£¬Ô¤Ê¾×ÅÎ´À´ÊÐ³¡¾ºÕù½«¸ü¼Ó¼¤ÁÒ¡£¼ä±½Èý·Ó×÷ÎªÒ»ÖÖÓÐÐ§»º½â¼±ÐÔÎ¸³¦Ñ×µÈÒýÆðµÄ¾·ÂÎÐÔ¸¹Í´µÄÒ©Îï£¬ÆäÊÐ³¡¹Ø×¢¶ÈºÍ¾ºÕùÌ¬ÊÆÏÔÖøÔöÇ¿¡£´ËÂÖ¼¯²ÉÌåÏÖÁËÒ©Æ·½µ¼ÛÇ÷ÊÆ¼°ÆóÒµ»ý¼«²ÎÓë´øÁ¿²É¹ºµÄ¾ºÕù¸ñ¾Ö¡£
+¹ú¼ÒÒ©¼à¾ÖÐû²¼ÐÂ¡¶Ò©Îï·ÇÁÙ´²ÑÐ¾¿ÖÊÁ¿¹ÜÀí¹æ·¶ÈÏÖ¤¹ÜÀí°ì·¨¡·½«ÓÚ7ÔÂ1ÈÕÊµÊ©£¬Éæ¼°GLPÈÏÖ¤Á÷³Ìµ÷Õû¼°µç×Ó»¯¹ÜÀí£¬Ö¼ÔÚÌáÉý¹¤×÷Ð§ÂÊÓëÑÐ¾¿ÖÊÁ¿¡£ÏÖÓÐGLP»ú¹¹Ðè°´¹æ¶¨ÆÚÏÞÉêÇëÑÓÐøÈÏÖ¤£¬ÓâÆÚÎ´ÉêÇëÕß½«±»×¢ÏúÈÏÖ¤¡£¸÷µØ·½Ò©¼à¾ÖÐè×éÖ¯Ñ§Ï°ÐÂ°ì·¨£¬Ç¿»¯ÈÕ³£¼à¹Ü£¬È·±£Ò©Îï·ÇÁÙ´²°²È«ÐÔÆÀ¼ÛÑÐ¾¿µÄÖÊÁ¿£¬²¢½«GLP»ú¹¹¼ì²éÄÉÈë¹¤×÷¼Æ»®¡£ÕâÌåÏÖÁË¶ÔÒ©Æ·ÑÐ·¢Ç°ÆÚÑÐ¾¿ÑÏ¸ñ¼à¹ÜµÄÇ÷ÊÆ£¬ÓÐÀûÓÚ±£ÕÏ¹«ÖÚ½¡¿µºÍÍÆ¶¯Ò½Ò©ÐÐÒµ¹æ·¶»¯·¢Õ¹¡£
+¡¶ÖÐ¹úÒ©µä¡·Í¨Ôò0102¹ØÓÚ×¢Éä¼ÁµÄÐÞ¶©ÒýÆð¹Ø×¢£¬ÌáÊ¾ÐÐÒµÐèÁôÒâ¸üÐÂÄÚÈÝ¡£ÎªÊÊÓ¦ÊÐ³¡±ä»¯ÓëÒ©ÎïÑÐ·¢ÐèÇó£¬ÆóÒµÓ¦¼°Ê±¸ú½ø±ê×¼±ä¶¯£¬È·±£²úÆ·ÖÊÁ¿Óë°²È«¡£Ò©ÈÚÔÆÌá¹©Ïà¹ØÊý¾Ý¿âÓë×ÉÑ¯·þÎñ£¬ÖúÁ¦ÆóÒµ°ÑÎÕÊÐ³¡¶¯Ì¬£¬¼ÓËÙÒ©Æ·ÑÐ·¢½ø³Ì¡£¸öÈË¹Ûµã£º±ê×¼ÐÞ¶©ÊÇ±£ÕÏ¹«ÖÚ½¡¿µµÄÖØÒª¾Ù´ë£¬ÆóÒµÊÊÓ¦ÐÂ¹æÊÇÔðÈÎÒ²ÊÇ»úÓö£¬ÀûÓÃ×¨Òµ¹¤¾ßÓÅ»¯ÑÐ·¢²ßÂÔ±äµÃÓÈÎªÖØÒª¡£
+6ÔÂ12ÈÕ£¬CDE·¢²¼11ÏîÒ©Æ·ÉóÆÀÉóÅú¼°MAH±ä¸üµÈÏà¹Ø¼¼ÊõÎÊÌâ¸üÐÂ£¬Éæ¼°¶à¸öÒ©Æ·µÄÑÐ·¢½øÕ¹ºÍÉúÎïµÈÐ§ÐÔÊÔÑé£¬ÏÔÊ¾Ò½Ò©ÐÐÒµ³ÖÐø´´ÐÂÓë¹æ·¶·¢Õ¹¡£´ËÍâ£¬¶à¼ÒÒ½Ò©ÆóÒµ»ñµÃ²»Í¬½×¶ÎµÄÈÚ×Ê£¬·´Ó³×Ê±¾ÊÐ³¡¶ÔÒ½Ò©½¡¿µ²úÒµµÄ»ý¼«Ì¬¶ÈºÍÖ§³ÖÁ¦¶È¡£Õâ±íÃ÷ÖÐ¹úÒ½Ò©ÁìÓòÔÚ¼ÓÇ¿¼à¹ÜµÄÍ¬Ê±£¬Õý¼ÓËÙÐÂÒ©ÑÐ·¢ÓëÆóÒµÈÚ×Ê½ø³Ì£¬´Ù½øÐÐÒµ»îÁ¦Óë¾ºÕùÁ¦ÌáÉý¡£
+Ìì¼ªÉúÎï³É¹¦ÑÐÖÆGLP-1ÊÜÌå¼¤¶¯¼ÁË¾ÃÀ¸ñÂ³ëÄµÄ¹Ø¼ü¸¨ÁÏSNAC£¬²¢Íê³ÉµÇ¼Ç£¬±êÖ¾×ÅÆäÔÚÔ­¸¨ÁÏÈ«²úÒµÆ½Ì¨µÄÍêÕû´òÔìÉÏÂõ³öÖØÒªÒ»²½¡£SNAC×÷ÎªÏÈ½ø³¦ÉøÍ¸´Ù½ø¼Á£¬ÄÜÏÔÖøÌáÉýË¾ÃÀ¸ñÂ³ëÄ¿Ú·þÎüÊÕÓëÉúÎïÀûÓÃ¶È£¬Ìì¼ªÉúÎïÒ²Òò´Ë³ÉÎª¹úÄÚÊ×¸öÉê±¨Ë¾ÃÀ¸ñÂ³ëÄÔ­ÁÏÒ©ÉÏÊÐÐí¿ÉµÄÆóÒµ¡£ÕâÒ»½øÕ¹²»½öÔ¤Ê¾×ÅÌì¼ªÉúÎïÔÚ¶àëÄÒ©ÎïÁìÓòµÄ¼¼ÊõÊµÁ¦ÓëÊÐ³¡¾ºÕùÁ¦µÄÔöÇ¿£¬Ò²ÎªÆäÎ´À´ÔÚ·ÂÖÆÒ©ÊÐ³¡µÄ·¢Õ¹µì¶¨¼áÊµ»ù´¡£¬Õ¹ÏÖ³ö¹ãÀ«µÄ³É³¤Ç±Á¦¡£
+±êÌâ£ºÒ½±£Ä¿Â¼µ÷Õû¹«¿ªÕ÷Ñ¯Òâ¼û
+
+ÄÚÈÝ¸ÅÊö£º½üÆÚ£¬¹ØÓÚÒ½±£Ä¿Â¼µ÷ÕûµÄ·½°¸ÕýÃæÏòÉç»á¹«¿ªÕ÷Çó·´À¡Òâ¼û£¬±êÖ¾×ÅÒ½±£ÌåÏµ½«½øÒ»²½ÓÅ»¯Éý¼¶£¬Ö¼ÔÚ¸üºÃµØ·þÎñ¹«ÖÚÒ½ÁÆÐèÇó£¬È·±£Ò©Îï¿É¸ºµ£ÐÔÓëÒ½ÁÆ×ÊÔ´ºÏÀí·ÖÅä¡£¸÷½ç¿É»ý¼«²ÎÓë£¬¹²Í¬ÎªÒ½±£Õþ²ßµÄÍêÉÆ½¨ÑÔÏ×²ß¡£
+
+¸öÈË¹Ûµã£º´Ë¾ÙÌåÏÖÁËÕþ²ßÖÆ¶¨µÄ¿ª·ÅÐÔºÍ°üÈÝÐÔ£¬ÓÐÖúÓÚÊÕ¼¯¶àÔªÒâ¼û£¬Ê¹Ò½±£Ä¿Â¼¸ü¼Ó¿ÆÑ§¡¢ºÏÀí£¬ÆÚ´ýµ÷ÕûºóµÄÒ½±£Õþ²ßÄÜÓÐÐ§¼õÇá»¼Õß¾­¼Ã¸ºµ££¬´Ù½øÒ½Ò©ÐÐÒµ½¡¿µ·¢Õ¹¡£
+2023ÄêÖÐ¹ú¿ÆÑ§ÔººÍÖÐ¹ú¹¤³ÌÔº¹«²¼ÔºÊ¿ÔöÑ¡¼Æ»®£¬¹²¼ÆÔöÑ¡Ô¼170ÃûÔºÊ¿¡£ÆäÖÐ£¬ÖÐ¿ÆÔºÔöÑ¡79Ãû£¬¹¤³ÌÔº²»³¬¹ý90Ãû¡£Ò©¼ÁÑ§ÔÚ¹¤³ÌÔºÒ½Ò©ÎÀÉúÑ§²¿±»ÁÐÎªÓÅÏÈÑ§¿Æ·½Ïò£¬·´Ó³³ö¶ÔÒ½Ò©ÁìÓò´´ÐÂÓëÓ¦ÓÃ×ª»¯µÄÖØÊÓ¡£ÔºÊ¿ÖÆ¶ÈÖ¼ÔÚ±íÕÃ½Ü³öÈË²Å£¬´Ù½ø¿Æ¼¼·¢Õ¹£¬ÔöÑ¡×¢ÖØºòÑ¡ÈËµÄÑ§Êõ¹±Ï×¡¢µÀµÂÆ·ÖÊ¼°¶Ô¹ú¼ÒÐèÇóµÄ¹±Ï×£¬ÌØ±ðÊÇÔÚÐÂÐË½»²æÑ§¿ÆºÍ¹ú¼ÒÕ½ÂÔÁìÓò¡£´Ë¾ÙÓÐÍû½øÒ»²½ÍÆ¶¯ÎÒ¹ú¿ÆÑÐ´´ÐÂºÍÒ½Ò©ÐÐÒµ·¢Õ¹¡£
+CDE·¢²¼Í¨ÖªÕ÷ÇóGCPÖ¸µ¼Ô­ÔòÒâ¼û£¬Ö¼ÔÚÓÅ»¯Ò©Æ·ÑÐ·¢Á÷³Ì¡£Ò©ÈÚÔÆÌá¹©¶à°æ±¾Êý¾Ý¿â·þÎñ£¬Ö§³ÖÊÐ³¡·ÖÎö¡¢Ò©Æ·ÑÐ·¢Çé±¨µÈ£¬Í¨¹ý¹ÙÍø¡¢Î¢ÐÅ¼°Ð¡³ÌÐòµÈÇþµÀ£¬±ãÀûÓÃ»§»ñÈ¡ÉúÎïÒ½Ò©ÐÐÒµÈ«ÃæÐÅÏ¢¡£´Ë¾Ù´ë·´Ó³ÐÐÒµ¶Ô¹æ·¶ÓëÐ§ÂÊ²¢ÖØµÄ×·Çó£¬ÎÒÔÞÍ¬´ËÀà¹«¿ªÕ÷ÇóÒâ¼ûµÄ×ö·¨£¬ËüÄÜ´Ù½øÕþ²ß¸üÌùºÏÊµ¼Ê£¬Çý¶¯ÐÐÒµ½¡¿µ·¢Õ¹¡£
+¹ú¼ÒÎÀ½¡Î¯·¢²¼µÚËÄÅú¹ÄÀøÑÐ·¢Éê±¨¶ùÍ¯Ò©Æ·Çåµ¥£¬°üº¬29¸öÎ´ÔÚ¹úÄÚÉÏÊÐµ«ÁÙ´²¼±ÐèµÄ¶ùÍ¯ÓÃÒ©£¬Ö¼ÔÚ·á¸»¶ùÍ¯Ò©Æ·ÖÖ¡¢¼ÁÐÍºÍ¹æ¸ñ£¬Âú×ã¶ù¿ÆÐèÇó¡£´Ë¾Ù´ëÏìÓ¦ÁË±£ÕÏ¶ùÍ¯ÓÃÒ©Õþ²ß£¬ÓÉ¶à²¿ÃÅÐ­×÷£¬¾­×¨¼ÒÂÛÖ¤£¬¹«Ê¾5¸ö¹¤×÷ÈÕ½ÓÊÜÒìÒé¡£Õâ·´Ó³³ö¹ú¼Ò¶Ô¶ùÍ¯ÓÃÒ©ÑÐ·¢µÄÖØÊÓºÍÖ§³Ö£¬½«´Ù½øÒ½Ò©ÐÐÒµÕë¶Ô¶ùÍ¯ÈºÌåµÄ´´ÐÂÓëÉú²ú£¬ÊÇ»ý¼«µÄÕþ²ßµ¼Ïò¡£
+¹ú¼ÒÒ©¼à¾ÖÆ÷ÉóÖÐÐÄ·¢²¼ÁËÁ½Ïî¹ØÓÚÖØ×é½ºÔ­µ°°×µÄÖ¸µ¼Ô­Ôò£¬·Ö±ðÕë¶ÔÖØ×é½ºÔ­µ°°×´´Ãæ·óÁÏµÄ×¢²áÉó²éºÍÖØ×éÈËÔ´»¯½ºÔ­µ°°×Ô­²ÄÁÏµÄÆÀ¼Û£¬Ö¼ÔÚ¹æ·¶Ïà¹ØÒ½ÁÆÆ÷Ðµ¹ÜÀí£¬´Ù½øÒ½ÓÃ½ºÔ­µ°°×²úÆ·µÄ°²È«ÓÐÐ§Ó¦ÓÃ¡£Õâ·´Ó³³öÒ½ÃÀÐÐÒµÖÐÖØ×é½ºÔ­µ°°×ÁìÓòµÄ¹æ·¶»¯·¢Õ¹Ç÷ÊÆ£¬¶ÔÆóÒµÑÐ·¢ºÍ²úÆ·×¢²á¾ßÓÐÖØÒªÖ¸µ¼ÒâÒå¡£
+¹ú¼ÒÒ©¼à¾Ö·¢²¼¡¶¹ØÓÚ¼ÓÇ¿Î¯ÍÐÉú²úÒ©Æ·ÉÏÊÐÐí¿É³ÖÓÐÈË¼à¹Ü¹¤×÷µÄÍ¨Öª£¨Õ÷ÇóÒâ¼û¸å£©¡·£¬Ö¼ÔÚÇ¿»¯Î¯ÍÐÉú²úÒ©Æ·³ÖÓÐÈËµÄÖÊÁ¿°²È«ÔðÈÎ£¬¼ÓÇ¿¼à¹Ü¡£Õ÷ÇóÒâ¼û¸åÃ÷È·ÁËÎ¯ÍÐÉú²úÐí¿É¡¢ÖÊÁ¿¹ÜÀí¡¢¼à¶½¼ì²éµÈ·½ÃæµÄÒªÇó£¬Ç¿µ÷³ÖÓÐÈËÐèÈ·±£Ò©Æ·È«Á´ÌõÖÊÁ¿¿ØÖÆ£¬¹ÄÀø×Ô²éºÍÍêÉÆÖÊÁ¿ÌåÏµ¡£Òâ¼û·´À¡½ØÖ¹ÖÁ2023Äê6ÔÂ23ÈÕ¡£´Ë¾Ù´ë·´Ó³ÁË¶ÔÒ©Æ·Î¯ÍÐÉú²ú»·½Ú¼à¹ÜµÄÊÕ½ôºÍ¹æ·¶»¯½ø³Ì£¬ÒâÔÚ±£ÕÏ¹«ÖÚÓÃÒ©°²È«¡£
+CDE·¢²¼ÁË¹ØÓÚÎÞ²Î±ÈÖÆ¼ÁÆ·ÖÖ·ÂÖÆÑÐ¾¿µÄ¹«¸æÕ÷ÇóÒâ¼û¸å£¬Ö¼ÔÚÕ÷Çó¸÷½ç¶ÔÈçºÎ»ý¼«¿ªÕ¹´ËÀà·ÂÖÆÑÐ¾¿µÄÒâ¼û¡£¹«¸æÇ¿µ÷ÁËÁÙ´²¼ÛÖµµÄÖØÒªÐÔ£¬²¢»¶Ó­¸÷·½ÔÚÒ»¸öÔÂÄÚÌá³ö±¦¹óÒâ¼û£¬ÒÔ½øÒ»²½ÍêÉÆÕþ²ß¡£Õâ±íÃ÷¼à¹Ü»ú¹¹ÕýÅ¬Á¦ÎªÈ±·¦²Î±ÈÖÆ¼ÁµÄÒ©Æ··ÂÖÆÌá¹©Ö¸µ¼£¬´Ù½øÒ½Ò©ÐÐÒµµÄ½¡¿µ·¢Õ¹¡£
+È«¹úÖÐ³ÉÒ©¼¯ÖÐ²É¹ºÕýÊ½ÎÄ¼þ·¢²¼£¬±êÖ¾×ÅÖÐ³ÉÒ©½øÈë¹ú¼Ò¼¯²ÉÌåÏµ£¬Ö¼ÔÚÍ¨¹ý´ó¹æÄ£²É¹º½µµÍÒ©Æ·¼Û¸ñ£¬»Ý¼°»¼Õß¡£´Ë¾Ù»ò½«ÖØËÜÖÐÒ½Ò©ÊÐ³¡¸ñ¾Ö£¬´Ù½øÒ©Æ·ÑÐ·¢´´ÐÂÓë³É±¾¿ØÖÆ¡£¶ÔÓÚÐÐÒµ¶øÑÔ£¬¼ÈÊÇÌôÕ½Ò²ÊÇ»úÓö£¬ÆóÒµÐè¼ÓÇ¿¾ºÕùÁ¦£¬ÊÊÓ¦Õþ²ßµ¼Ïò£¬¶ø»¼ÕßÓÐÍû»ñµÃ¸üÊµ»ÝµÄÖÐÒ½ÖÎÁÆ·½°¸¡£
+2024Äê8ÔÂ£¬Ò½Ò©ÁìÓò»îÔ¾£¬143¿îÐÂÒ©»ñÁÙ´²Åú×¼£¬½ÏÉÏÔÂÔö³¤£¬¿¹Ö×Áö¼°ÃâÒßµ÷½ÚÒ©ÎïÕ¼Ö÷µ¼¡£È«Çò46¿îÒ©ÎïÓ®µÃÌØÊâÈÏ¶¨£¬¼Ó¿ì´´ÐÂÒ©½ø³Ì¡£¶à¼ÒÆóÒµÈçÐÅ´ïÉúÎï¡¢¿µÁú»¯³ÉÈ¡µÃÐÂÒ©ÉÏÊÐ³É¹û£¬Éæ¼°°©Ö¢¡¢ÒøÐ¼²¡ÖÎÁÆ¡£°Ý¶ú¡¢»ÔÈðµÈ¹«Ë¾µÄÁÙ´²ÊÔÑéÕ¹ÏÖ»ý¼«½á¹û£¬ÍÆ¶¯¼²²¡ÖÎÁÆ½ø²½¡£ºãÈðÒ½Ò©¡¢º£Ë¼¿ÆµÈÖÐ¹úÒ©ÆóÒàÔÚ´´ÐÂÒ©ÑÐ·¢ÖÐÈ¡µÃÖØÒª½øÕ¹¡£Ò©ÈÚÔÆÈ«ÇòÔÚÑÐÐÂÒ©ÔÂ±¨ÎªÐÐÒµÌá¹©±¦¹óÐÅÏ¢×ÊÔ´¡£
+±¾ÖÜÈ«Çò´´ÐÂÒ©ÑÐ·¢ÁÁµã·×³Ê£¬Éæ¼°¶à¸ö¼²²¡ÁìÓò¡£ÆäÖÐ°üÀ¨º£´´Ò©ÒµµÄNASHÖÎÁÆÐÂÒ©»ñÅúÁÙ´²£¬ÖÇÏè½ðÌ©µÄÒøÐ¼²¡ÖÎÁÆÒ©ÎïÉÏÊÐ£¬°Ù¼ÃÉñÖÝµÄBTK°ÐÏò½µ½â¼Á»ñFDA¿ìËÙÍ¨µÀ×Ê¸ñ£¬ÒÔ¼°ÖÊëÄÉúÎïµÄ¿Ú·þGLP-1ÐÂÒ©Éê±¨ÁÙ´²µÈ¡£´ËÍâ£¬»¹ÓÐ¶à¼ÒÆóÒµµÄ´´ÐÂÒ©ÎïÔÚÁÙ´²ÑÐ¾¿ÖÐÈ¡µÃ»ý¼«³É¹û£¬ÈçÔÙÉúÔªºÍÈüÅµ·ÆµÄDupixentÔÚCOPDÖÎÁÆÉÏµÄÓÐÐ§ÐÔºÍ°²È«ÐÔÊý¾Ý£¬ÒÔ¼°Åµ»ªLeqvioÔÚ½µµÍµ¨¹Ì´¼·½ÃæµÄ»ý¼«3ÆÚÊÔÑé½á¹û¡£ÕâÐ©½øÕ¹²»½öÕ¹Ê¾ÁËÒ½Ò©ÁìÓòÅî²ªµÄ´´ÐÂÁ¦£¬Ò²Îª»¼Õß´øÀ´ÁË¸ü¶àÖÎÁÆÏ£Íû¡£
+ÔÚ2024ÄêµÚ34ÖÜ£¨08.26-09.01£©£¬È«ÇòÒ½Ò©´ó½¡¿µÐÐÒµÍ¶ÈÚ×Ê»îÔ¾£¬Éæ¼°ÆóÒµÈÚ×Ê¡¢ÉÏÊÐ¡¢Õ½ÂÔ partnership µÈ¶à¸ö·½Ãæ¡£ÆäÖÐ£¬ÉÏº£Ð¡·½ÖÆÒ©³É¹¦ÉÏÊÐ£¬Ä¼¼¯×Ê½ð½«ÓÃÓÚÉú²úÀ©ÕÅÓëÑÐ·¢£»°²ËÙ¿µÒ½ÁÆºÍÎ¢ÔªºÏ³ÉÉúÎï¼¼Êõ·Ö±ð»ñµÃÒÚÔªÈÚ×Ê£¬ÍÆ½ø´´ÐÂÒ½ÁÆÆ÷ÐµÓëºÏ³ÉÉúÎïÑ§Ó¦ÓÃ¡£Õ½ÂÔºÏ×÷·½Ãæ£¬Navigator MedicinesÈÚ×Ê1ÒÚÃÀÔª²¢»ñµÃÇ±ÔÚbest-in-classÁÆ·¨ÊÚÈ¨£»°Ý¶úÓëNextRNA TherapeuticsºÏ×÷¿ª·¢¿¹°©Ð¡·Ö×ÓÁÆ·¨£»»ÔÈðÀ©´óÓëFlagshipºÏ×÷£¬¾Û½¹ÐÄÑª¹ÜÓëÉö²¡ÐÂ°Ðµã¡£ÕâÐ©¶¯Ì¬Õ¹Ê¾ÁËÒ½Ò©ÐÐÒµµÄ´´ÐÂ»îÁ¦Óë×Ê±¾¹Ø×¢¶È£¬Ô¤Ê¾×ÅÎ´À´ÔÚÖÎÁÆÊÖ¶Î¡¢¼²²¡¹ÜÀí¼°½¡¿µ¿Æ¼¼·½ÃæµÄ³ÖÐø½ø²½¡£
+ÔÚ2024ÄêµÚ34ÖÜ£¨08.26-09.01£©£¬¹úÄÚÒ½Ò©´ó½¡¿µÐÐÒµÖØµã¹Ø×¢Á½ÏîÕþ²ß·¨¹æ¶¯Ì¬£ºÒ»ÊÇCDE·¢²¼¡¶»¯Ñ§Ò©Æ·¿ÚÈÜÄ¤¼ÁÒ©Ñ§ÑÐ¾¿¼¼ÊõÖ¸µ¼Ô­Ôò£¨Õ÷ÇóÒâ¼û¸å£©¡·£¬Ö¼ÔÚÖ¸µ¼¿ÚÈÜÄ¤¼ÁÑÐ·¢£¬ÊÊÓ¦ÍÌÑÊÀ§ÄÑ»¼ÕßµÈÌØÊâÐèÇó£»¶þÊÇ·¢²¼¡¶Ô¤·ÀÓÃºï¶»²¡¶¾ÒßÃçÒ©Ñ§ÑÐ¾¿ÆÀ¼Û¼¼ÊõÒªµã£¨Õ÷ÇóÒâ¼û¸å£©¡·£¬ÒÔ´Ù½øºÍ¹æ·¶ºï¶»ÒßÃçÑÐ·¢£¬Ó¦¶ÔÈ«Çò¹«¹²ÎÀÉú°²È«ÌôÕ½¡£ÕâÐ©¾Ù´ëÌåÏÖÁË¶ÔÒ½Ò©ÁìÓò´´ÐÂÓë¹«¹²ÎÀÉúÓ¦¼±×¼±¸µÄÖØÊÓ¡£
+ÔÚ2024ÄêµÚ34ÖÜ£¨08.26-09.01£©£¬¹úÄÚ·ÂÖÆÒ©ÓëÉúÎïÀàËÆÎïµÄÉê±¨ÓëÉóÅú¶¯Ì¬ÏÔÊ¾£¬Éñ¾­ÏµÍ³Ò©ÎïÌØ±ðÊÇ×¢Éä¼Á³ÉÎª¹ýÆÀ/ÊÓÍ¬¹ýÆÀµÄÖØµã£¬ÆäÖÐ×¢ÉäÓÃ°±ÜÐÎ÷ÁÖÄÆÊæ°ÍÌ¹ÄÆÊÜÀíºÅÊýÁ¿×î¶à£¬Éæ¼°¶à¼ÒÆóÒµÈçºþÄÏ¿ÆÂ×ÖÆÒ©µÈ¡£¸ÃÖÜÄÚ£¬4¼ÒÆóÒµ¸÷ÓÐ2ÖÖ²úÆ·¹ýÆÀ/ÊÓÍ¬¹ýÆÀ£¬ÕûÌåÌåÏÖÁËÒ½Ò©ÐÐÒµµÄ»îÔ¾ÑÐ·¢Ì¬ÊÆ¼°Õþ²ßµ¼ÏòÏÂµÄÒ»ÖÂÐÔÆÀ¼Û½øÕ¹¡£´ËÍâ£¬±¨¸æÌá¼°Í¬ÆÚµÄ´´ÐÂÒ©¶¯Ì¬¡¢Õþ²ß·¨¹æ»ã×Ü¼°È«ÇòÒ½Ò©½¡¿µÐÐÒµÍ¶ÈÚ×ÊÇé¿ö£¬Í¹ÏÔÁËÒ½Ò©ÊÐ³¡µÄÈ«Ãæ¶´²ìÐèÇó¡£
+ÔÚ2024ÄêµÚ34ÖÜ£¨08.26-09.01£©£¬¹úÄÚÒ½Ò©ÁìÓò»îÔ¾£¬39¿î´´ÐÂÒ©/¸ÄÁ¼ÐÍÐÂÒ©»ñÁÙ´²ÊÔÑéÄ¬Ê¾Ðí¿É£¬º­¸Ç»¯Ñ§Ò©¡¢ÉúÎïÒ©¼°ÖÐÒ©¡£ÁÁµã°üÀ¨º£´´Ò©ÒµµÄ·Ç¾Æ¾«ÐÔÖ¬·¾ÐÔ¸ÎÑ×ÖÎÁÆÒ©ÎïHP515Æ¬¡¢¿µ·½ÉúÎïÕë¶Ô»¯ÁÆÓÕµ¼µÄÖÜÎ§Éñ¾­²¡±äÐÂÒ©AK135×¢ÉäÒº£¬ÒÔ¼°Í¨ÈðÉúÎïµÄÇ°ÁÐÏÙ°©ÖÎÁÆÒ©Îï177Lu-TR0471×¢ÉäÒº¡£´ËÍâ£¬±¾ÖÜÓÐ4¿îÐÂÒ©»ñÅúÉÏÊÐ£¬Éæ¼°ÐÅ´ïÉúÎï¡¢ºãÈðÒ½Ò©¡¢ÖÇÏè½ðÌ©¼°´«ÆæÉúÎïµÄ²úÆ·£¬ÖÎÁÆÁìÓò°üÀ¨·Î°©¡¢ÒøÐ¼²¡¼°¶à·¢ÐÔ¹ÇËèÁö£¬ÏÔÊ¾³öÖÐ¹úÔÚ´´ÐÂÒ©ÑÐ·¢ÓëÉóÅú·½ÃæµÄÏÔÖø½øÕ¹¡£
+2024Äê8ÔÂ£¬·ÂÖÆÒ©ÁìÓò»îÔ¾£¬¹²183¸öÆ·ÖÖ¹ýÆÀ£¬ÆäÖÐÒ»ÖÂÐÔÆÀ¼Û¹ýÆÀ43¸ö£¬ÊÓÍ¬Í¨¹ý146¸ö¡£µ±ÔÂ£¬33¸öÆ·ÖÖÒ»ÖÂÐÔÆÀ¼ÛÉêÇë»ñ³Ð°ì£¬461ÏîÐÂ×¢²á·ÖÀà·ÂÖÆÒ©ÉêÇë£¬¾Û½¹Ïû»¯ÏµÍ³Ò©Îï£¬Æ¬¼ÁÎªÖ÷¡£ÁòËá°¢Ã×¿¨ÐÇ×¢ÉäÒºÓë±ÈË÷Âå¶û°±ÂÈµØÆ½Æ¬µÈ³ÉÎªÈÈÃÅÉêÇëÆ·ÖÖ¡£ÖµµÃ×¢ÒâµÄÊÇ£¬×¢ÉäÓÃÍ·æßßòë¿ÄÆºÍ°ÂÉ³Àû²¬×¢ÉäÒº¾ºÕù¼¤ÁÒ£¬Î÷ÄÏÒ©ÒµºÍÆëÂ³ÖÆÒ©¡¢»ãÓîÖÆÒ©¡¢ºãÈðÒ½Ò©ÔÚ¸÷×ÔÁìÓò±íÏÖÍ»³ö¡£Ò©ÈÚÔÆÃ¿ÔÂÍÆ³öµÄ·ÂÖÆÒ©ÔÂ±¨ÎªÒµÄÚÌá¹©ÁËÏêÊµµÄÉê±¨¼°»ñÅúÐÅÏ¢¸ÅÀÀ¡£
+ÉÏÖÜÈ«Çò´´ÐÂÒ©ÑÐ·¢»îÔ¾£¬¶à¼ÒÆóÒµÈ¡µÃÏÔÖø½øÕ¹¡£º²É­ÖÆÒ©¡¢¿ÆÂ×²©Ì©¡¢ÆëÂ³ÖÆÒ©µÈ¹«Ë¾ÓÐÐÂÒ©»òÐÂÊÊÓ¦Ö¢Éê±¨ÉÏÊÐ£¬Õë¶Ô·Î°©¡¢ÈéÏÙ°©µÈ¼²²¡¡£ÆäÖÐ£¬º²É­ÖÆÒ©µÄ¼×»ÇËá°¢ÃÀÌæÄáÆ¬ÐÂÔöÊÊÓ¦Ö¢ÉêÇë£¬¿ÆÂ×²©Ì©µÄADCÐÂÒ©×¢ÉäÓÃÂ«¿µÉ³Í×Öéµ¥¿¹Õë¶Ô·Î°©Ìá½»ÉÏÊÐÉêÇë¡£°Ù¼ÃÉñÖÝ¡¢ÖÐÃÀÈð¿µ¡¢µ¤ÇæÒ½Ò©µÈÆóÒµµÄÒ©Îï»ñµÃÁÙ´²Åú×¼£¬Éæ¼°ÈéÏÙ°©¡¢¼¡ÓªÑø²»Á¼Ö¢¡¢ÊµÌåÁöµÈ¡£ÀñÀ´¹«Ë¾µÄtirzepatideÔÚ3ÆÚÁÙ´²ÖÐÏÔÖø½µµÍÌÇÄò²¡·çÏÕ²¢´Ù½øÌåÖØÏÂ½µ£¬Õ¹ÏÖÆäÔÚ·ÊÅÖºÍÌÇÄò²¡ÁìÓòµÄÇ±Á¦¡£×ÜÌå¶øÑÔ£¬ÕâÐ©½øÕ¹ÕÃÏÔÁËÈ«ÇòÒ½Ò©ÐÐÒµÔÚ´´ÐÂÒ©ÎïÑÐ·¢ÉÏµÄ²»¶ÏÍÆ½ø£¬Îª»¼Õß´øÀ´¸ü¶àÖÎÁÆÏ£Íû¡£
+ÔÚ2024ÄêµÚ33ÖÜ£¬È«ÇòÒ½Ò©´ó½¡¿µÐÐÒµÍ¶ÈÚ×Ê»îÔ¾£¬ÓÈÆäÊÇÕã½­Í¬Ô´¿µÒ½Ò©³É¹¦ÉÏÊÐ¸Û¹É£¬Ä¼µÃÔ¼5.79ÒÚ¸ÛÔª£¬½«Ö÷ÒªÓÃÓÚºËÐÄ²úÆ·ÑÐ·¢¼°ÉÌÒµ»¯¡£´ËÍâ£¬Oblique TherapeuticsÓëÀñÀ´ºÏ×÷¿ª·¢Õë¶ÔÄÑ³ÉÒ©°ÐµãµÄ¿¹Ìå£¬ÒÔ¼°Borealis BiosciencesÓëÅµ»ªµÄÕ½ÂÔºÏ×÷£¬¾Û½¹RNAÁÆ·¨ÖÎÁÆÉöÔà¼²²¡£¬ÕÃÏÔÁËÐÐÒµÔÚ¼¼Êõ´´ÐÂºÍºÏ×÷ÉÏµÄÉî»¯£¬ÍÆ¶¯ÐÂÁÆ·¨µÄ¼ÓËÙµ½À´¡£ÕâÐ©¶¯Ì¬²»½öÌåÏÖÁËÒ½Ò©ÐÐÒµµÄÅî²ª·¢Õ¹£¬Ò²·´Ó³ÁË×Ê±¾¶Ô´´ÐÂÒ½ÁÆ½â¾ö·½°¸µÄ³ÖÐø¹Ø×¢ºÍÖ§³Ö¡£
+2024ÄêµÚ33ÖÜ£¬¹úÄÚÒ½Ò©´ó½¡¿µÐÐÒµÕþ²ß¶¯Ì¬°üÀ¨¹ú¼ÒÎÀ½¡Î¯¹ØÓÚÔ¤·À³öÉúÈ±ÏÝÈÕµÄÖ÷ÌâÐû´«»î¶¯Í¨Öª£¬Ç¿µ÷³öÉúÈ±ÏÝÔ¤·ÀÓë½¡¿µÉúÓý£»CDE·¢²¼¿¹HIV-1¸ÐÈ¾Ò©ÎïÁÙ´²ÑÐ¾¿¼°Êý¾ÝµÝ½»Ö¸µ¼Ô­Ôò²Ý°¸£¬Ö¼ÔÚ¹æ·¶¸ÃÁìÓòÒ©ÎïÑÐ·¢¡£ÕâÐ©¾Ù´ëÌåÏÖÁË¶Ô¹«ÖÚ½¡¿µÓëÒ©Îï´´ÐÂÖÊÁ¿µÄÖØÊÓ£¬ÍÆ¶¯ÐÐÒµÏò¿ÆÑ§»¯¡¢¹æ·¶»¯·½Ïò·¢Õ¹¡£
+2024ÄêµÚ33ÖÜ£¨08.19-08.25£©¹úÄÚ·ÂÖÆÒ©ÓëÉúÎïÀàËÆÎïµÄÉê±¨ºÍÉóÅúÊý¾ÝÏÔÊ¾£¬ÏµÍ³ÓÃ¿¹¸ÐÈ¾Ò©ÎïÎªÖ÷Òª½¹µã£¬ÌØ±ðÊÇ×¢Éä¼ÁÐÍ£¬Èç×¢ÉäÓÃÍ·æßßòë¿ÄÆºÍ×¢ÉäÓÃÇàÃ¹ËØÄÆ£¬¸÷ÓÐ3¸öÊÜÀíºÅ¹ýÆÀ/ÊÓÍ¬¹ýÆÀ£¬ÇÒÃ¿Æ·ÖÖ¾ùÓÐ1¼ÒÆóÒµ»ñµÃ¹ýÆÀ¡£±¾ÖÜÎÞÐÂÆ·Ê×´Î¹ýÆÀ»ò¹ýÆÀÆóÒµÊý´ï5¼ÒµÄÇé¿ö¡£Ò©ÈÚÔÆÌá¹©Ïà¹ØÊý¾Ý¿â²éÑ¯·þÎñ£¬²¢Ìá¼°ÁËÍ¬ÆÚÆäËûÒ½Ò©ÐÐÒµ¶¯Ì¬¡£
+ÔÚ2024ÄêµÚ33ÖÜ£¨08.19-08.25£©£¬¹úÄÚ¹²ÓÐ60¿î´´ÐÂÒ©/¸ÄÁ¼ÐÍÐÂÒ©»ñµÃÁÙ´²ÊÔÑéÄ¬Ê¾Ðí¿É£¬º­¸Ç»¯Ñ§Ò©¡¢ÉúÎïÒ©¼°ÖÐÒ©£¬Í¹ÏÔÁËÎÒ¹úÒ½Ò©ÁìÓò´´ÐÂ»îÁ¦¡£ÆäÖÐ£¬BC011¿¹Ìå×¢ÉäÒº¡¢BexotegrastÆ¬¡¢DAT-2645Æ¬µÈÒ©Îï·Ö±ðÕë¶ÔÍíÆÚÊµÌåÁö¡¢ÌØ·¢ÐÔ·ÎÏËÎ¬»¯¼°DNAËðÉËÐÞ¸´È±ÏÝÖ×Áö£¬Õ¹Ê¾ÁËÖÎÁÆÁìÓòµÄ¶àÑùÐÔÓëÕë¶ÔÐÔ¡£±¾ÖÜ»¹ÓÐ2¿îÐÂÒ©»ñÅúÉÏÊÐ£¬ÓÃÓÚÏø´­ºÍÄòÂ·ÉÏÆ¤°©ÖÎÁÆ£¬Ç¿µ÷ÁË´ÓÑÐ·¢µ½Ó¦ÓÃµÄ¿ìËÙÍÆ½ø¡£ÕâÐ©½øÕ¹²»½ö·á¸»ÁË»¼ÕßÖÎÁÆÑ¡Ôñ£¬Ò²´Ù½øÁËÒ½Ò©²úÒµµÄ½ø²½¡£Ò©ÈÚÔÆÊý¾Ý¿âÌá¹©ÁËÏê¾¡µÄÒ©Æ·ÑÐ·¢ÐÅÏ¢£¬ÎªÐÐÒµÑÐ¾¿ÓëÍ¶×ÊÌá¹©±¦¹ó×ÊÔ´¡£
+ÉÏÖÜÈ«Çò´´ÐÂÒ©ÑÐ·¢¶¯Ì¬°üÀ¨¶à¼ÒÆóÒµµÄÐÂÒ©»ñÅúÁÙ´²¡¢Éê±¨ÉÏÊÐ¼°»ý¼«ÁÙ´²½á¹û¹«²¼¡£ÄÏ¾©¼ªÂõÉúÎïµÄHPVÏà¹ØÐÂÒ©LY01620½øÈëÁÙ´²£»»ÔÈðµÄÂíËþÎ÷µ¥¿¹Õë¶ÔÑªÓÑ²¡Éê±¨ÉÏÊÐ£»°ÂÈü¿µÒ©Òµ¡¢ÈÙ²ýÉúÎï¡¢°Ù¼ÃÉñÖÝµÈ¹«Ë¾µÄÐÂÒ©·Ö±ðÕë¶ÔNSCLC¡¢ÖØÖ¢¼¡ÎÞÁ¦¡¢ÌØÓ¦ÐÔÆ¤Ñ×µÈ¼²²¡È¡µÃ½øÕ¹£»IncyteºÍSyndaxºÏ×÷µÄ¿¹ÌåÁÆ·¨NiktimvoÔÚÃÀ¹ú»ñÅú¡£´ËÍâ£¬»ÔÈð¡¢atai Life SciencesµÈÆóÒµµÄÁÙ´²ÊÔÑéÏÔÊ¾³ö»ý¼«Êý¾Ý£¬ÎªÖÎÁÆRSV¸ÐÈ¾¡¢¾«Éñ¼²²¡¼°¶àÖÖ°©Ö¢Ìá¹©ÁËÐÂµÄ¿ÉÄÜÐÔ¡£ÕâÐ©½øÕ¹ÕÃÏÔÁËÈ«ÇòÒ½Ò©ÁìÓòÔÚ´´ÐÂÒ©Îï¿ª·¢ÉÏµÄÑ¸ËÙÍÆ½ø£¬ÓÐÍûÎª»¼Õß´øÀ´¸üÓÐÐ§µÄÖÎÁÆ·½°¸¡£
+ÔÚ2024ÄêµÚ32ÖÜ£¬È«ÇòÒ½Ò©´ó½¡¿µÐÐÒµÍ¶ÈÚ×Ê»îÔ¾£¬¾ßÌåÊý¾ÝÏêÇé¿É²éÔÄÒ©ÈÚÔÆÊý¾Ý¿â¡£ÁÁµãÊÇ¹úÄÚÅ·¿µÎ¬ÊÓÉúÎïÓë°®¶û¿µ´ï³ÉÖØÒªºÏ×÷£¬Éæ¼°8¿îÑÛ¿Æ²úÆ·ÊÚÈ¨£¬Ö¼ÔÚ¼ÓÇ¿¸ÉÑÛÖ¢ÖÎÁÆÁìÓò£¬ÌåÏÖÁËÐÐÒµÄÚ²¿ºÏ×÷¼ÓËÙ²úÆ·²¼¾ÖµÄÇ÷ÊÆ¡£´Ë´ÎºÏ×÷²»½öÀ©´óÁËÅ·¿µÎ¬ÊÓµÄ²úÆ·¹ÜÏß£¬»¹È·Á¢ÁË°®¶û¿µ×÷ÎªÆäÖØÒª¹É¶«µÄµØÎ»£¬Ë«·½Î´À´µÄºÏ×÷Ç±Á¦¾Þ´ó¡£´ËÍâ£¬¸ÃÖÜ»¹ÓÐ¶àÏî¹ØÓÚÒ©Æ·ÑÐ·¢¶¯Ì¬ºÍÕþ²ß·¨¹æµÄ»ã×Ü£¬Õ¹ÏÖÁËÒ½Ò©ÐÐÒµµÄÈ«Ãæ½øÕ¹¡£¶ÔÓÚÐÐÒµ¹Û²ìÕß¶øÑÔ£¬Ò©ÈÚÔÆÌá¹©µÄÖÜ±¨ÊÇ»ñÈ¡×îÐÂ×ÊÑ¶µÄ±¦¹ó×ÊÔ´¡£
+ÔÚ2024ÄêµÚ32ÖÜ£¬¹úÄÚÒ½Ò©´ó½¡¿µÁìÓòÓ­À´Á½ÏîÖØÒªÕþ²ß¸üÐÂ£ºÒ»ÊÇÖÐ¼ìÔº·¢²¼¹ØÓÚÐÂ°æGB 9706ÏµÁÐÒ½ÁÆÉè±¸±ê×¼¼ìÑé×ÊÖÊÈÏ¶¨¹«¸æ£¬Ö¼ÔÚÍÆ½øÐÂ±ê×¼ÊµÊ©£¬È·±£Ò½ÁÆÆ÷Ðµ°²È«£»¶þÊÇ¹ú¼ÒÒ©¼à¾Ö°ä²¼¡¶»¯×±Æ·±ê×¼»¯¼¼ÊõÎ¯Ô±»áÕÂ³Ì¡·£¬Ö¼ÔÚÌáÉý»¯×±Æ·ÖÊÁ¿Óë°²È«±ê×¼¡£ÕâÐ©¾Ù´ë·´Ó³³ö¼à¹Ü²¿ÃÅ¶Ô¹«ÖÚ½¡¿µ°²È«µÄÖØÊÓ¼°ÐÐÒµ¹æ·¶»¯¹ÜÀíµÄ¼ÓÇ¿£¬ÓÐÀûÓÚ´Ù½øÐÐÒµ½¡¿µ·¢Õ¹¡£Í¬Ê±£¬¸ÃÖÜÄÚ»¹ÓÐ¶àÏî¹ØÓÚÒ©Æ·ÑÐ·¢¡¢·ÂÖÆ¡¢Í¶ÈÚ×Ê¼°È«Çò´´ÐÂÒ©¶¯Ì¬µÄ»ã×Ü·ÖÎö£¬ÎªÐÐÒµÌá¹©ÁËÈ«ÃæµÄÐÅÏ¢×ÊÔ´¡£
+¸ÃÄÚÈÝÎªÒ©ÈÚÔÆÆ½Ì¨µÄÐû´«ÍÆ¹ã£¬¸ÅÊöÁËÔÚ2024ÄêµÚ32ÖÜ£¨08.12-08.18£©ÆÚ¼ä£¬¹ØÓÚ¹úÄÚ·ÂÖÆÒ©ÓëÉúÎïÀàËÆÎïµÄÉê±¨ºÍÉóÅúÊý¾Ý·ÖÎö·þÎñ¡£Ò©ÈÚÔÆÍ¨¹ýÌá¹©ÆóÒµ°æÔÚÏß×ÉÑ¯·þÎñ¡¢È«ÃæµÄÉúÎïÒ½Ò©Êý¾ÝÆ½Ì¨¡¢Î¢ÐÅ»¥¶¯¼°Ð¡³ÌÐòµÈ¶àÇþµÀ·½Ê½£¬Ö¼ÔÚ°ïÖúÓÃ»§ÉîÈë¶´²ìÒ½Ò©ÊÐ³¡¶¯Ì¬£¬¸¨ÖúÒ©Æ·ÑÐ·¢¾ö²ß¡£Æä·þÎñ¸²¸Ç´ÓÊÐ³¡¸ñ¾Ö·ÖÎöµ½¸öÐÔ»¯Êý¾Ý¿â·ÃÎÊ£¬Ö§³Ö²»Í¬ÐèÇóµÄÓÃ»§ÈºÌå£¬°üÀ¨¸öÈË¡¢ÆóÒµºÍÑ§Êõ»ú¹¹µÈ¡£
+
+¸öÈË¹Ûµã£ºÒ©ÈÚÔÆ¹¹½¨µÄ×ÛºÏÐÔÐÅÏ¢·þÎñÆ½Ì¨¶ÔÓÚÒ½Ò©ÐÐÒµ´ÓÒµÕß¶øÑÔÊÇ¸ö±¦¹ó×ÊÔ´£¬ÄÜ¹»¸ßÐ§»ñÈ¡×îÐÂÐÐÒµ¶¯Ì¬ºÍ×¨ÒµÊý¾Ý£¬¼ÓËÙÒ©Æ·ÑÐ·¢½ø³Ì²¢ÓÅ»¯ÊÐ³¡²ßÂÔ£¬ÖµµÃÏà¹Ø×¨ÒµÈËÊ¿Ì½Ë÷Ê¹ÓÃ¡£²»¹ý£¬¾ßÌå·þÎñÖÊÁ¿ÓëÊý¾Ý×¼È·ÐÔÐèÓÃ»§Êµ¼ÊÌåÑéºó·½¿ÉÆÀÅÐ¡£
+ÔÚ2024ÄêµÚ32ÖÜ£¨08.12-08.18£©£¬¹úÄÚ¹²ÓÐ19¿î´´ÐÂÒ©/¸ÄÁ¼ÐÍÐÂÒ©»ñµÃÁÙ´²ÊÔÑéÄ¬Ê¾Ðí¿É£¬º­¸Ç»¯Ñ§Ò©ÓëÉúÎïÒ©ÁìÓò£¬ÁÁµã°üÀ¨ÂÌÒ¶ÖÆÒ©µÄHPVÏà¹Ø¼²²¡ÖÎÁÆÒ©ÎïLY01620¡¢Ô¶´óÈüÍþÐÅµÄÖØ×éÆÆÉË·çÒßÃçÒÔ¼°°Ù¼ÃÉñÖÝÕë¶ÔÌØÓ¦ÐÔÆ¤Ñ×µÄBGB-45035Æ¬¡£Í¬Ê±£¬±¾ÖÜÓÐÒ»¿îÐÂÒ©°¢µØäåï§ÎüÈë·ÛÎí¼Á»ñÅúÉÏÊÐ£¬ÓÃÓÚÂýÐÔ×èÈûÐÔ·Î²¡ÖÎÁÆ¡£ÕâÐ©½øÕ¹ÕÃÏÔÁË¹úÄÚÒ½Ò©´´ÐÂ»îÁ¦¼°¼ÓËÙÐÂÒ©ÉÏÊÐµÄÇ÷ÊÆ¡£
+7ÔÂ·ÂÖÆÒ©ÁìÓò»îÔ¾£¬±¨¸æÏÔÊ¾¹²43¸öÆ·ÖÖÉêÇëÒ»ÖÂÐÔÆÀ¼Û£¬276¸öÐÂ×¢²á·ÖÀà·ÂÖÆÒ©ÉêÇë»ñ³Ð°ì¡£µ±ÔÂÁÁµã°üÀ¨252¸öÆ·ÖÖÍ¨¹ý/ÊÓÍ¬Í¨¹ýÒ»ÖÂÐÔÆÀ¼Û£¬ÆäÖÐ38¸öÎªÊ×¼Ò¹ýÆÀ£¬15¸öÆ·ÖÖ¹ýÆÀÆóÒµ´ïÎå¼Ò¡£Î¬ÉúËØB6×¢ÉäÒºÓë²¼ÈðßßßòÆ¬·Ö±ð³ÉÎªÉêÇë×î¶àµÄÒ»ÖÂÐÔÆÀ¼ÛÓëÐÂ×¢²á·ÖÀà·ÂÖÆÒ©Æ·ÖÖ¡£¸Ã±¨¸æÓÐÖúÓÚÒµÄÚÈ«ÃæÁË½â·ÂÖÆÒ©ÊÐ³¡¶¯Ì¬£¬°ÑÎÕÐÐÒµÇ÷ÊÆ¡£
+2024Äê7ÔÂ£¬Ò½Ò©ÁìÓòÓ­À´ÖØ´ó½øÕ¹£¬¹²ÓÐ140¿îÐÂÒ©»ñµÃÁÙ´²Åú×¼£¬5¿î´´ÐÂÒ©³É¹¦»ñÅúÉÏÊÐ£¬Éæ¼°ÆóÒµ°üÀ¨ÐÅÁ¢Ì©¡¢Ò©»ªÒ½Ò©µÈ¡£´ËÏûÏ¢·´Ó³³öÒ½Ò©ÐÐÒµµÄ¿ìËÙ·¢Õ¹Óë´´ÐÂ»îÁ¦£¬¶ÔÌáÉýÒ½ÁÆË®Æ½¡¢Âú×ã»¼Õß¶àÑù»¯µÄÖÎÁÆÐèÇó¾ßÓÐÖØÒªÒâÒå¡£Ò©ÈÚÔÆÆ½Ì¨Í¨¹ýÌá¹©È«ÃæµÄÒ½Ò©Êý¾Ý·þÎñÓëÊÐ³¡·ÖÎö¹¤¾ß£¬ÖúÁ¦ÐÐÒµÄÚÍâÈËÊ¿°ÑÎÕÊÐ³¡¶¯Ì¬£¬´Ù½øÒ©Æ·ÑÐ·¢ÓëÍ¶×Ê¾ö²ßµÄ¾«×¼ÐÔ¡£
+ÉÏÖÜÈ«Çò´´ÐÂÒ©ÑÐ·¢ÁÁµã·×³Ê£¬¶à¼ÒÆóÒµÈ¡µÃÖØÒª½øÕ¹¡£ºãÈðÒ½Ò©¡¢½ðÈüÒ©Òµ¡¢º£Ë¼¿Æ¡¢º£´´Ò©ÒµµÈÖÐ¹úÆóÒµÔÚ×ÔÉíÃâÒß¼²²¡¡¢º±¼û²¡¼°°©Ö¢ÖÎÁÆÁìÓòÓÐÐÂÒ©»ñÅúÁÙ´²£»µÂç÷Ò½Ò©¡¢Ó¢ÎùÖÇÄÜµÄ¿¹°©Ò©ÎïÔÚº£Íâ»ñÅúÐÂ½øÕ¹£»Ê¯Ò©¼¯ÍÅµÄCAR-TÁÆ·¨ÍØÕ¹ÖÁ×ÔÉíÃâÒß¼²²¡ÁÙ´²£»GSKµÄ¿¹PD-1ÁÆ·¨ÓÚÐÂ¼ÓÆÂ»ñÅúÐÂÊÊÓ¦Ö¢¡£´ËÍâ£¬¶à¼ÒÆóÒµµÄÁÙ´²ÊÔÑé½á¹û»ý¼«£¬°Ý¶ú¡¢ServierµÈ¹«Ë¾µÄ¡°first-in-class¡±ÁÆ·¨Õ¹ÏÖÏÔÖøÁÆÐ§£¬Îª»¼Õß´øÀ´ÐÂµÄÖÎÁÆÏ£Íû¡£ÕâÐ©½øÕ¹²»½öÍÆ¶¯ÁËÈ«ÇòÒ½ÁÆ½¡¿µÁìÓòµÄ´´ÐÂ£¬Ò²Í¹ÏÔÁËÖÐ¹úÒ©ÆóÔÚÐÂÒ©ÑÐ·¢ÁìÓòµÄÇ¿¾¢ÊÆÍ·¡£
+µÚÎå½ìCMC-ChinaÖÐ¹ú¹ú¼ÊÉúÎï&»¯Ñ§ÖÆÒ©²©ÀÀ»áÔÚ2023Äê8ÔÂ³É¹¦¾Ù°ì£¬»ã¾ÛÁËÒ½Ò©ÐÐÒµ¸÷½ç¾«Ó¢£¬Ì½ÌÖÉúÎïÒ½Ò©Ç°ÑØ»°Ìâ¡£»áÒéÉæ¼°´´ÐÂÒ©¡¢·ÂÖÆÒ©µÈ¶àÁìÓò£¬´Ù½øÁËË¼Ïë½»Á÷ÓëºÏ×÷¡£Ò©ÈÚÔÆ×÷ÎªÊý¾Ý·þÎñÉÌ£¬ÆäÆ½Ì¨Í¨¹ý´óÊý¾Ý·ÖÎöÖúÁ¦Ò½Ò©ÆóÒµ¾ö²ß£¬¼ÓËÙ²úÒµÉý¼¶¡£»áÒéÇ¿µ÷ÁË¸ÄÁ¼ÐÍÐÂÒ©µÄÊÐ³¡Ç±Á¦¼°¿¹ÌåÒ©ÎïµÄ¿ª·¢Ç÷ÊÆ£¬Ö¸³öÊý¾ÝÇý¶¯¶ÔÓÚÑ°ÕÒÐÂ°ÐµãµÄÖØÒªÐÔ¡£Ò©ÈÚÔÆÌá¹©µÄÈ«·½Î»Êý¾Ý·þÎñºÍÖ§³Ö£¬ÕýÍÆ¶¯ÖÐ¹úÒ½Ò©ÐÐÒµÏò¸üÉî²ã´ÎµÄ´´ÐÂÂõ½ø¡£
+¾ýÊ¥Ì©Ìá½»IPOÉêÇë£¬×¨×¢ÓÚ´úÐ»¼²²¡ÁìÓò£¬º£ÆÕÈðÎªÆäÖØÒª¹É¶«¡£´Ë¶¯Ì¬·´Ó³Ò½Ò©ÐÐÒµ¶Ô´úÐ»¼²²¡ÑÐ¾¿µÄÖØÊÓ¼°×Ê±¾ÊÐ³¡µÄÖ§³Ö¡£Ò©ÈÚÔÆÆ½Ì¨Ìá¹©¶àÑù·þÎñ£¬°üÀ¨ÊÐ³¡·ÖÎö¡¢Ò©Æ·ÑÐ·¢Çé±¨¼°Êý¾Ý¿â·ÃÎÊ£¬ÖúÁ¦ÐÐÒµÄÚÍâ»ñÈ¡ÐÅÏ¢Óë¶´²ì¡£
+
+¸öÈË¹Ûµã£º¾ýÊ¥Ì©µÄIPO¾Ù´ë¿ÉÄÜÍÆ¶¯´úÐ»¼²²¡ÖÎÁÆÁìÓòµÄ´´ÐÂÓë·¢Õ¹£¬¶øÒ©ÈÚÔÆ×÷ÎªÊý¾Ý·þÎñÆ½Ì¨£¬¶Ô¹Ø×¢Ò½Ò©½¡¿µÁìÓòµÄÆóÒµºÍ¸öÈË¶øÑÔ£¬ÊÇ»ñÈ¡×îÐÂ×ÊÑ¶ºÍÉî¶È·ÖÎöµÄ±¦¹ó×ÊÔ´¡£
+µÚËÄ½ìÖÐ¹úAPI Summit½«ÓÚ8ÔÂ3-4ÈÕÔÚËÕÖÝ¾ÙÐÐ£¬¾Û½¹Ô­ÁÏÒ©ÐÐÒµÃæÁÙµÄÌôÕ½Óë»úÓö£¬Èçº£Íâ¶©µ¥×ªÒÆ¡¢Ó¡¶È¾ºÕù¡¢²úÄÜ¹ýÊ£µÈ¡£»áÒéÖ¼ÔÚÍ¨¹ý¸ß²ã¶Ô»°¡¢ºÏ×÷ÁªÃË¹¹½¨£¬ÔöÇ¿ÐÐÒµÈÍÐÔ¡£ÒéÌâ¸²¸ÇÐÐÒµÇ÷ÊÆ¡¢ÔöÁ¿»ú»á¼°¹©Ó¦Á´²ßÂÔ£¬°üÀ¨MAHÖÆ¶ÈÏÂµÄÔ­ÁÏÖÆ¼ÁÒ»Ìå»¯µÈ¡£»áÒéÑûÇëÉÏÊÐ¹«Ë¾CEO¡¢ÐÐÒµ¾«Ó¢·ÖÏí¼û½â£¬Ìá¹©ÏîÄ¿Â·ÑÝÆ½Ì¨£¬ÖúÁ¦ÆóÒµºÏ×÷Óë´´ÐÂ¡£²Î»áÃæÏòÉúÎïÒ½Ò©ÐÐÒµÈ«Á´ÌõÈËÊ¿£¬¸öÈË²Î»áÃâ·Ñ¡£±¨Ãû»ðÈÈ½øÐÐÖÐ£¬ÏêÇé¼°ÁªÏµÐÅÏ¢¼ûÔ­ÎÄ¡£
+ÔÚÐÂ»·¾³ÏÂ£¬Ãæ¶ÔÒ½Ò©ÐÐÒµÕþ²ß±ä»¯£¬ÈçÒ»ÖÂÐÔÆÀ¼Û¡¢¼¯²É¼°Ò½±£¸Ä¸ï£¬Ò©ÆóÕý»ý¼«ÍØÕ¹ÔºÍâÊÐ³¡£¬ÓÈÆäÊÇ¾ßÓÐOTC£¨·Ç´¦·½Ò©£©ÌØÕ÷µÄÏû·Ñ¶ËÊÐ³¡¡£Ëæ×ÅÒ©Æ·×ªOTCÇ÷ÊÆ¼ÓÇ¿£¬ÊÐ³¡À©ÈÝ£¬Ô¤¼Æµ½2025ÄêÖÐ¹úOTCÊÐ³¡¹æÄ£½«³¬3500ÒÚÈËÃñ±Ò£¬Äê¾ùÔö³¤6%ÒÔÉÏ¡£Õþ²ßÖ§³Ö¡¢Ïû·ÑÕß×ÔÎÒÕïÁÆÒâÊ¶ÌáÉý¼°ÈË¿ÚÀÏÁä»¯Çý¶¯ÁËÕâÒ»Ôö³¤¡£ÆóÒµÐè°ÑÎÕOTCÐÂÆ·ÑÐ·¢»úÓö£¬Í¨¹ý²¢¹ºÖØ×éÊµÏÖ¸ßÖÊÁ¿·¢Õ¹£¬²¢×¢ÖØÆ·ÅÆ½¨Éè£¬ÕùÈ¡¹ú¼ÊÊÐ³¡·Ý¶î¡£¼´½«¾Ù°ìµÄ¡¾ÖÐ¹ú·ÂÖÆÒ©ÆóÒµ¼Ò¾ö²ß²ã±ÕÃÅ»á¡¿½«ÉîÈëÌ½ÌÖ¸ÃÁìÓòÕ½ÂÔ×ªÐÍÓëºÏ×÷»ú»á£¬ÎªÐÐÒµÌá¹©½»Á÷Æ½Ì¨¡£
+±êÌâËùÊö£¬½üÆÚÓÐ10¸öÒ©Æ·µÄÒ»ÖÂÐÔÆÀ¼ÛÊÜÀíºÅ»ñµÃÅú×¼£¬ÆäÖÐ°üÀ¨¶à¼ÒÆóÒµµÄÖØµã²úÆ·¡£ÖµµÃ×¢ÒâµÄÊÇ£¬»ª±±ÖÆÒ©µÄ×¢ÉäÓÃãúÍÐÀ­ßòÄÆÒÑÓÐ36¼ÒÆóÒµÍ¨¹ýÒ»ÖÂÐÔÆÀ¼Û£¬Í¹ÏÔÁË¸ÃÒ©Æ·ÊÐ³¡µÄ¸ß¶È¾ºÕùÐÔ¡£Ò©ÈÚÔÆÊý¾Ý¿âÌá¹©È«ÃæµÄÒ©Æ·ÐÅÏ¢²éÑ¯·þÎñ£¬ÖúÁ¦ÆóÒµºÍÑÐ¾¿ÈËÔ±°ÑÎÕÊÐ³¡¶¯Ì¬¡¢¸¨Öú¾ö²ß¡£·ÃÎÊÒ©ÈÚÔÆ¿ÉÉêÇëÃâ·ÑÊÔÓÃ¡£
+
+¸öÈË¹Ûµã£ºÒ»ÖÂÐÔÆÀ¼ÛµÄ¼¯ÖÐ»ñÅú·´Ó³³öÖÐ¹úÒ½Ò©ÐÐÒµÕý¼ÓËÙÌáÉýÒ©Æ·ÖÊÁ¿±ê×¼£¬ÔöÇ¿¹úÄÚÒ©Æ·¾ºÕùÁ¦£¬¶Ô»¼Õß¶øÑÔÊÇ»ý¼«ÐÅºÅ¡£Í¬Ê±£¬ÆóÒµÓ¦¹Ø×¢Êý¾Ý¿âÐÅÏ¢£¬ÒÔ±ãÔÚ¼¤ÁÒµÄÊÐ³¡¾ºÕùÖÐ×÷³ö¸ü¼Ó¾«×¼µÄÕ½ÂÔ²¼¾Ö¡£
+ºÏ³ÉÉúÎïÑ§ÊÐ³¡Ô¤¼Æ2026Äê½«´ïµ½336.3ÒÚÃÀÔª£¬ÕýÉî¿Ì¸Ä±äÒ½Ò©¡¢»¯¹¤¡¢ÄÜÔ´µÈ¶à¸öÁìÓò¡£ÎªÌ½ÌÖÕâÒ»ÁìÓòµÄ¼¼Êõ´´ÐÂÓëÓ¦ÓÃ£¬2023ÖÐ¹ú£¨ËÕÖÝ£©ºÏ³ÉÉúÎïÑ§´´ÐÂ·å»á½«ÓÚ8ÔÂ¾ÙÐÐ£¬Ö¼ÔÚ´Ù½ø²úÑ§ÑÐºÏ×÷£¬ÍÆ¶¯ÐÐÒµ·¢Õ¹¡£»áÒéº­¸ÇÔ­ÁÏÒ©ºÏ³É¡¢¶àëÄÒ©Îï¡¢Ò½ÃÀ½¡¿µµÈÖ÷Ìâ£¬²¢ÉèÓÐÏîÄ¿Â·ÑÝ»·½Ú£¬ÑûÇë¸÷ÁìÓò×¨¼ÒÓëÆóÒµ²ÎÓë¡£²»¶®ºÏ³ÉÉúÎïÑ§µÄÖÆÒ©ÈË¿ÉÄÜÃæÁÙÂäºó·çÏÕ£¬Í»ÏÔ¸ÃÁìÓòÔÚÏÖ´úÒ½Ò©ÑÐ·¢ÖÐµÄÖØÒªÐÔ¡£
+¸ÃÄÚÈÝÎªÒ»Ôò¹ØÓÚ³É¶¼¾ÙÐÐµÄ½»Á÷»áÒé¹ã¸æ£¬¾Û½¹Ð¡·Ö×ÓÒ©ÎïµÄ¹¤ÒÕ¿ª·¢ÓëÖÊÁ¿·ÖÎö¿ÆÑ§¡£Ìá¹©ÁËÃâ·ÑÊÔÓÃÆóÒµ°æ¡¢ÔÚÏß×ÉÑ¯¡¢¿Í·þµç»°µÈÁªÏµ·½Ê½£¬²¢Ðû´«ÁËÆäÉúÎïÒ½Ò©Êý¾Ý¿âÆ½Ì¨£¬¸²¸ÇÊÐ³¡¶´²ì¡¢Ò©Æ·ÑÐ·¢Çé±¨µÈ·þÎñ¡£×îºó£¬ÁÐ³öÁËÍøÕ¾¸÷Ö÷Òª°å¿éÁ´½Ó£¬°üÀ¨¸öÈË°æ¡¢ÆóÒµ°æ¡¢×ÊÑ¶¡¢Í¶ÈÚ×ÊµÈÄÚÈÝ¡£
+
+¸öÈË¹Ûµã£º´ËÐÅÏ¢Õ¹Ê¾ÁËÒ©ÈÚÔÆÆ½Ì¨ÔÚ´Ù½øÒ½Ò©ÐÐÒµ½»Á÷ÓëÖªÊ¶·ÖÏí·½ÃæµÄÅ¬Á¦£¬ÌØ±ðÊÇ¶ÔÓÚ¹Ø×¢Ð¡·Ö×ÓÒ©ÎïÑÐ·¢µÄ×¨ÒµÈËÊ¿¶øÑÔ£¬ÊÇÒ»¸ö»ñÈ¡×îÐÂ×ÊÑ¶ºÍ¼¼Êõ½»Á÷µÄ±¦¹ó»ú»á¡£Í¬Ê±£¬ÆäÌá¹©µÄ¶àÔª»¯·þÎñºÍÊý¾Ý¿â×ÊÔ´£¬ÓÐÀûÓÚ´Ù½øÐÐÒµÄÚÍâµÄÐÅÏ¢Á÷Í¨ºÍºÏ×÷¡£
+ð¤Ä¤¸øÒ©ÖÆ¼ÁÊÐ³¡Õ¹ÏÖ³öÇ¿¾¢Ôö³¤£¬2022ÄêÈ«¹úÖØµãÊ¡ÊÐ¹«Á¢Ò½ÔºÏúÊÛ¶î´ï266ÒÚÔª£¬ÆäÖÐÎüÈëÖÆ¼ÁÕ¼±È³¬¹ý90%¡£¸ÃÁìÓòÓÉ°¢Ë¹Àû¿µ¡¢ÉÏº£ºãÈðÒ½Ò©¡¢¸ðÀ¼ËØÊ·¿ËµÈÆóÒµÁìÅÜ¡£ð¤Ä¤ÖÆ¼ÁÒòÄÜ±ÜÃâÊ×¹ýÐ§Ó¦¡¢Ìá¸ßÉúÎïÀûÓÃ¶È¼°¸øÒ©±ãÀûÐÔµÈÓÅÊÆ£¬³ÉÎª¸ÄÁ¼ÐÍÐÂÒ©ÑÐ·¢µÄÈÈµã¡£Õë¶ÔÕâÒ»Ç÷ÊÆ£¬¼´½«ÕÙ¿ªµÄ¡°¸ÄÁ¼ÐÍÐÂÒ©¼°¸´ÔÓÖÆ¼ÁÊµÕ½°¸ÀýË½Ïí»á¡±½«ÉîÈëÌ½ÌÖÏà¹Ø¼¼ÊõºÍ°¸Àý£¬ÎªÒµ½çÌá¹©½»Á÷Æ½Ì¨¡£
+8ÔÂËÕÖÝ¼´½«¾ÙÐÐÖÐ¹úÂÌÉ«ÖÆÒ©¼¼Êõ´ó»á£¬Ö¼ÔÚÌ½ÌÖÂÌÉ«ÖÆÒ©µÄ×îÐÂ½øÕ¹ÓëÓ¦ÓÃ£¬´Ù½øÖÆÒ©ÐÐÒµ¿É³ÖÐø·¢Õ¹¡£»áÒé½«ÑûÇë¼¼Êõ×¨¼Ò¡¢ÆóÒµÁìÐäµÈ¹²ÉÌÂÌÉ«ÖÆÒ©ÏÖ×´¡¢Ç÷ÊÆ¼°ÌôÕ½£¬Éæ¼°´ß»¯¼ÁÓ¦ÓÃ¡¢Ã¸´ß»¯¡¢Á¬ÐøÁ÷Éú²úµÈÒéÌâ¡£¶ÔÉúÎïÒ½Ò©ÐÐÒµÈËÔ±Ãâ·Ñ¿ª·Å£¬Ìá¹©½»Á÷Æ½Ì¨£¬¼ÓËÙÂÌÉ«¼¼ÊõÉý¼¶£¬ÍÆ¶¯ÎÒ¹úÖÆÒ©Òµ¸ßÖÊÁ¿·¢Õ¹¡£
+»ùÒòÖÎÁÆ×÷ÎªÉúÎïÒ½Ò©¸ïÃüÐÔÁìÓò£¬½üÄêÀ´ÔÚÈ«Çò·¶Î§ÄÚÑ¸ËÙ·¢Õ¹£¬Ô¤¼Æµ½2025ÄêÊÐ³¡¹æÄ£½«´ó·ùÔö³¤¡£ÖÐ¹úÒ©ÆóÔÚ¸ÃÁìÓòÃæÁÙ·¢Õ¹»úÓö£¬µ«Ò²´æÔÚ¼¼Êõ¡¢¹©Ó¦Á´¡¢·¨¹æ¼°ÈË²ÅµÈÌôÕ½¡£ÒªÊµÏÖÍäµÀ³¬³µ£¬¹úÄÚÆóÒµÐè¹Ø×¢²ßÂÔ²¼¾Ö£º¼Ó´óÑÐ·¢Í¶Èë£¬ÌáÉý×ÔÖ÷ÑÐ·¢ÄÜÁ¦£»¼ÓÇ¿²úÒµÁ´½¨Éè£¬Ìá¸ßºËÐÄÔ­²ÄÁÏ¼°Éè±¸¹ú²ú»¯ÂÊ£»»ý¼«²ÎÓë¹ú¼Ê½»Á÷ºÏ×÷£¬½ô¸úÈ«Çò¼¼ÊõÇ÷ÊÆ£»×¢ÖØºÏ¹æÓë±ê×¼»¯½¨Éè£¬Ó¦¶Ô¼à¹ÜÒªÇó£»¶àÔª»¯ÖÎÁÆÁìÓòÌ½Ë÷£¬ÌØ±ðÊÇº±¼û²¡ÓëÖ×Áö·½Ïò£»¹Ø×¢×¨Àû²¼¾Ö£¬¹æ±Ü·¨ÂÉ·çÏÕ£»Í¬Ê±£¬ÀûÓÃÕþ²ßºìÀû£¬°ÑÎÕÊÐ³¡»úÓö¡£Í¨¹ý²Î¼Ó×¨ÒµÂÛÌ³¡¢¼ÓÉîÐÐÒµ½»Á÷£¬Ò²ÊÇ»ñÈ¡×îÐÂ¶¯Ì¬¡¢´Ù½øºÏ×÷·¢Õ¹µÄÖØÒªÍ¾¾¶¡£
+¸ÄÁ¼ÐÂÒ©×÷Îª½éÓÚ´´ÐÂÒ©Óë·ÂÖÆÒ©Ö®¼äµÄÁìÓò£¬ÒòÆä½Ï¶ÌµÄ¿ª·¢ÖÜÆÚ¡¢Ïà¶Ô½ÏµÍµÄ³É±¾¼°½Ï¸ßµÄ³É¹¦ÂÊ£¬ÕýÈÕÒæÊÜµ½Ò½Ò©ÐÐÒµµÄÖØÊÓ¡£ÆóÒµÇãÏòÓÚ¿ª·¢2.2ÀàÐÂ¼ÁÐÍÓë2.4ÀàÐÂÊÊÓ¦Ö¢£¬Á¢ÏîÊ±¼æ¹Ë¼¼ÊõÆ½Ì¨ÓëÁÙ´²ÐèÇó¡£×¨Àû±£»¤²ßÂÔ¶àÑù£¬¼ÈÒªÎ§ÈÆ²úÆ·Ò²Òª¿¼ÂÇºËÐÄ¼¼Êõ¡£Í¶×ÊÕßÆÀ¹ÀÏîÄ¿Ê±£¬ÖØÊÓÉÌÒµ»¯ÄÜÁ¦¡¢ÊÐ³¡Ç±Á¦¡¢¼¼ÊõÃÅ¼÷¼°¶¨¼Û»ù´¡¡£Ãæ¶ÔÇ±ÔÚµÄ¼¤ÁÒ¾ºÕù£¬ÆóÒµÐè¹¹½¨¼¼ÊõºÍÉÌÒµË«ÖØ±ÚÀÝ£¬Ì½Ë÷ÈçÁ¬Ðø»¯Éú²ú¡¢×éºÏ¿ª·¢µÈ´´ÐÂÄ£Ê½£¬ÒÔ±£³Ö¾ºÕùÓÅÊÆ¡£´ËÁìÓò·¢Õ¹Ðè³ÖÐø¹Ø×¢Õþ²ßµ¼Ïò¡¢¼¼Êõ´´ÐÂ¼°ÊÐ³¡ÐèÇó¶¯Ì¬¡£
+¸Ã´ó»á¾Û½¹¿¹Ìå¡¢Ð¡·Ö×Ó¡¢Ï¸°û»ùÒòÁÆ·¨¡¢ºËËáµÈÁìÓò£¬Õ¹ÏÖÁËÕâÐ©ÁìÓòÄÚ²îÒì»¯¾ºÕùÓëºÏ×÷µÄÏÖ×´¡£Í¨¹ý¶àÔª»¯µÄ½»Á÷Æ½Ì¨£¬´Ù½øÁËÒ½Ò©ÐÐÒµÄÚµÄ´´ÐÂÓëÐÅÏ¢¹²Ïí¡£¶ÔÓÚ×¨ÒµÈËÊ¿¶øÑÔ£¬Ìá¹©ÁË±¦¹óµÄ»ú»á¼ÓÉîÊÐ³¡Àí½â£¬¼ÓËÙÒ©Æ·ÑÐ·¢½ø³Ì¡£¸öÈË¹Ûµã£¬´ËÀàÊ¢»áÊÇÍÆ¶¯Ò½Ò©½¡¿µÁìÓò½ø²½µÄÖØÒª¶¯Á¦£¬¼ÓÇ¿¿çÁìÓòºÏ×÷¶Ô´Ù½øÒ½ÁÆ¼¼Êõ´´ÐÂÓÈÎªÖØÒª¡£
+±¾ÖÜÎå£¬Ì©ÖÝ½«¾Ù°ìÄÉÃ×¿¹ÌåÐÂÒ©ÂÛÌ³£¬¾Û½¹ÄÉÃ×¿¹ÌåÑÐ·¢¡¢¹¤ÒÕ¡¢ÊÐ³¡Ç÷ÊÆ¼°Ó¦ÓÃ¡£»áÒé»ã¼¯ÐÐÒµ×¨¼Ò£¬Ì½ÌÖ¸ÃÁìÓòµÄ×îÐÂ½øÕ¹ÓëÎ´À´·½Ïò£¬°üÀ¨ÄÉÃ×¿¹ÌåÔÚÒ©Îï¿ª·¢¡¢Ö×ÁöÃâÒßÖÎÁÆ¡¢ÄÔ¿ÆÑ§Ó¦ÓÃµÈ¡£´ËÍâ£¬ÂÛÌ³»¹½«Éæ¼°ÉÌÒµ»¯Éú²úºÍ°²È«ÐÔÆÀ¼ÛµÈÄÚÈÝ¡£´Ë»î¶¯¶ÔÊÜÑû¼Î±öÃâ·Ñ£¬Ö¼ÔÚ´Ù½ø²úÑ§ÑÐ½»Á÷£¬ÍÆ¶¯ÄÉÃ×¿¹Ìå¼¼Êõ½ø²½ºÍ²úÒµºÏ×÷¡£
+¸ÃÄÚÈÝÊÇ¹ØÓÚÒ»³¡¼´½«ÔÚÊ¯¼Ò×¯¾ÙÐÐµÄÒ½Ò©ÐÐÒµ»áÒéÔ¤¸æ£¬»áÒéÊ±¼äÎª2023Äê5ÔÂ11ÈÕÖÁ12ÈÕ£¬¾Û½¹ÍâÓÃÖÆ¼Á¡¢¸ß¶Ë×¢Éä¼Á¡¢¸ÄÁ¼ÐÂÒ©Óë¸´ÔÓÖÆ¼ÁµÈÁìÓò¡£»áÒéÌØµã°üÀ¨Ãâ±¨Ãû·Ñ¡¢ÏÞ¶¨Ãâ·ÑÃû¶î¡¢¶à³¡×¨ÌâÂÛÌ³¼°ÐÐÒµ×¨¼ÒÑÝ½²¡£»áÒéÏêÏ¸°²ÅÅÁËÁ½ÌìµÄÈÕ³Ì£¬º­¸ÇÕþ²ß·¨¹æ¡¢ÖÐÒ©¡¢MAHÊµ²Ù¡¢ÍâÓÃÖÆ¼Á¡¢¸ß¶Ë×¢Éä¼ÁÒÔ¼°¸ÄÁ¼ÐÂÒ©ÁÙ´²Óë¸´ÔÓÖÆ¼ÁµÈ¶à¸öÖ÷Ìâ¡£´ËÍâ£¬Ìá¹©ÁËÏêÏ¸µÄ²Î»áÈËÔ±¶¨Î»¡¢±¨Ãû·½Ê½¡¢½»Í¨Ö¸ÄÏ¡¢ÖÜ±ß×¡ËÞÐÅÏ¢¼°ÉÌÎñºÏ×÷ÁªÏµ·½Ê½¡£´Ë»áÒéÖ¼ÔÚÎªÒ½Ò©ÐÐÒµÈËÊ¿Ìá¹©Ñ§Ï°½»Á÷¡¢ÉÌÎñ¶Ô½ÓµÄÆ½Ì¨£¬´Ù½øÖÆÒ©ÐÐÒµµÄ´´ÐÂ·¢Õ¹ÓëºÏ×÷¡£
+6ÔÂ14-15ÈÕ£¬³É¶¼½«¾Ù°ìÒ©Îï¹¤ÒÕ¿ª·¢¼°ÖÊÁ¿¿ØÖÆÒªµã·å»á£¬¾Û½¹Ò©ÎïÑÐ·¢¹ý³ÌÖÐµÄ¼¼ÊõÓ¦ÓÃÓëÊµ²Ù°¸Àý£¬ÖúÁ¦½â¾ö·ÇÁÙ´²¿ª·¢ÄÑÌâ¡£»áÒéÑûÇëÐÐÒµ×¨¼Ò£¬Ìá¹©±¦¹ó¼û½â¡£ÓÐÒâ²ÎÓëÕß¿ÉÁªÏµ»áÎñ×éÁË½âÏêÇé¡£´Ë»î¶¯ÓÉÒ©ÈÚÈ¦Ö÷°ì£¬¸ÃÆ½Ì¨ÖÂÁ¦ÓÚÉúÎïÒ½Ò©ÆóÒµÆ·ÅÆÍÆ¹ãÓëÉÌÎñÍØÕ¹·þÎñ£¬¾­Ñé·á¸»£¬Ôø³É¹¦¾Ù°ì¶à³¡´óÐÍ×¨Òµ»áÒé¡£
+µÚÎå½ìCMC-ChinaÖÆÒ©²©ÀÀ»áÒÔ"ÒÔÒ©ÎªÈÚ"ÎªÖ÷Ìâ£¬Ö¼ÔÚ´Ù½øÒ½Ò©ÐÐÒµµÄ¿ç½çÈÚºÏÓë´´ÐÂ·¢Õ¹¡£Õ¹»á¾Û¼¯ÁËÍòÓàÃûÒ½Ò©×¨ÒµÈËÊ¿£¬º­¸Ç´ÓÑÐ·¢µ½ÊÐ³¡µÄÈ«²úÒµÁ´£¬Í¨¹ýÂÛÌ³¡¢Õ¹ÀÀ¡¢ÏîÄ¿¶Ô½ÓµÈÐÎÊ½£¬Ì½ÌÖÐÐÒµÇ÷ÊÆ¡¢ÑÐ·¢´´ÐÂ¡¢Õþ²ß·¨¹æµÈÈÈµã»°Ìâ¡£»î¶¯µÃµ½Ò©ÈÚÈ¦µÄÇ¿Á¦Ö§³Ö£¬Ò©ÈÚÈ¦×÷ÎªÒ»¸öÒ½Ò©ÐÐÒµ½»Á÷Æ½Ì¨£¬ÖÂÁ¦ÓÚÁ¬½ÓÐÐÒµ×ÊÔ´£¬¼ÓËÙ²úÒµÉý¼¶¡£´Ë²©ÀÀ»á²»½öÎª²ÎÓëÕßÌá¹©ÁË·á¸»µÄÑ§Ï°ºÍ½»Á÷»ú»á£¬»¹´Ù½øÁËÉÌÎñºÏ×÷ÓëÇ±ÔÚÏîÄ¿µÄ·¢¾ò£¬¶ÔÍÆ¶¯ÖÐ¹úÉúÎïÒ½Ò©²úÒµµÄ·±ÈÙ·¢Õ¹¾ßÓÐ»ý¼«×÷ÓÃ¡£
+±êÌâ£º¼ÓÈëµÚ¶þ½ìº¼ÖÝ¹ú¼ÊÒ½Ò©Ô´Í·´´ÐÂÂÛÌ³
+
+ÄÚÈÝ£ºÓÉÕã½­´óÑ§µÈ»ú¹¹Ö÷°ìµÄ"µÚ¶þ½ìº¼ÖÝ¹ú¼ÊÒ½Ò©Ô´Í·´´ÐÂÂÛÌ³ôßÁÙÆ½·å»á"½«ÓÚ2023Äê5ÔÂ26-27ÈÕÔÚº¼ÖÝ¾ÙÐÐ£¬Ö÷ÌâÎª"¾Û½¹Ô´Í··õ»¯£¬ÒýÁìÒ½Ò©´´ÐÂ"¡£»áÒé»ã¾Û¹úÄÚÍâÔºÊ¿¡¢×¨¼Ò£¬Ì½ÌÖÉúÎïÒ½Ò©Ô´Í·´´ÐÂÇ÷ÊÆ¡¢ÌôÕ½ÓëºÏ×÷²ßÂÔ¡£³ÏÑû¸÷½ç²ÎÓë£¬¹²Í¬´Ù½øÖÐ¹úÉúÎïÒ½Ò©´´ÐÂÓë·¢Õ¹¡£´ËÍâ£¬Ò©ÈÚÔÆÆ½Ì¨Ìá¹©ÉúÎïÒ½Ò©È«Á´ÌõÊý¾Ý·þÎñÓëÆ·ÅÆÍÆ¹ã½â¾ö·½°¸£¬ÏÖ¿ª·ÅÔÞÖúÉêÇë£¬»¶Ó­ÆóÒµºÏ×÷¡£
+
+¸öÈË¹Ûµã£º´ËÂÛÌ³¾Û¼¯¶¥¼âÐÐÒµ×ÊÔ´£¬ÎªÍÆ¶¯Ò½Ò©´´ÐÂÓëºÏ×÷Ìá¹©ÁË±¦¹óÆ½Ì¨£¬¶Ô¼ÓËÙÉúÎïÒ½Ò©ÁìÓò·¢Õ¹¾ßÓÐ»ý¼«×÷ÓÃ¡£
+ÄÉÃ×¿¹Ìå×÷ÎªÉúÎïÒ©ÁìÓòµÄÐÂÐËÈüµÀ£¬ÔÚ¹ýÈ¥30ÄêÀïÕ¹ÏÖÁËÆä¶ÀÌØÓÅÊÆ£¬Èç¸ßÎÈ¶¨ÐÔ¡¢Ç¿´©Í¸Á¦¼°¶ÔÄÑ³É°Ð¿¹Ô­µÄÊ¶±ðÄÜÁ¦£¬ÒÑÔÚ¿ÆÑÐ¡¢Õï¶Ï¼°ÖÎÁÆÁìÓòÊµÏÖÓ¦ÓÃ¡£Ëæ×ÅÊ×¸öÄÉÃ×¿¹ÌåÒ©ÎïCabliviµÄ³É¹¦ÉÌÒµ»¯£¬¸ÃÁìÓòÕýÎüÒýÖÚ¶àÆóÒµºÍÑÐ¾¿»ú¹¹µÄÍ¶Èë£¬Èç¿µÄþ½ÜÈð¡¢ÐÅ´ïÉúÎïµÈ¡£È»¶ø£¬¹æÄ£»¯Éú²ú¡¢¶Ì°ëË¥ÆÚºÍÃâÒßÔ­ÐÔµÈÎÊÌâÈÔÊÇÆäÃæÁÙµÄÌôÕ½¡£Î´À´£¬Ëæ×Å¼¼Êõ½ø²½ºÍÓ¦ÓÃÍØÕ¹£¬ÄÉÃ×¿¹ÌåÓÐÍû¿ª±Ù¸ü¹ãÀ«µÄÊÐ³¡Ç°¾°£¬ÌØ±ðÊÇÔÚ¼²²¡ÖÎÁÆÉÏµÄ´´ÐÂÓ¦ÓÃ£¬Èç¿¹¸ÐÈ¾¡¢Ö×Áö°ÐÏòÖÎÁÆ¼°CAR-TÁÆ·¨µÈ¡£¼´½«µ½À´µÄ¹ú¼Ê¸ß·åÂÛÌ³½«½øÒ»²½Ì½ÌÖ¸ÃÁìÓòµÄÑÐ·¢½øÕ¹ÓëÎ´À´·½Ïò¡£
+Ê¯¼Ò×¯MAH&DDSÖÆ¼ÁºÏ×÷´ó»áÏÞÊ±Ãâ·Ñ±¨ÃûÖÐ£¬¾Û¼¯ÐÐÒµ×¨¼Ò£¬Ì½ÌÖÒ©ÆóÔÚÒ½±£¸Ä¸ï¡¢¼¯²ÉÑ¹Á¦ÏÂµÄ´´ÐÂ×ªÐÍ£¬ÌØ±ðÊÇMAHÖÆ¶ÈÏÂµÄ·¢Õ¹»úÓöÓëÊµ²Ù²ßÂÔ¡£»áÒéº­¸ÇÕþ²ß·¨¹æ¡¢ÖÐÒ©´´ÐÂ¡¢Êµ²ÙÖ¸µ¼¼°ÐÐÒµÇ÷ÊÆµÈÒéÌâ£¬Ö¼ÔÚ´Ù½øÆóÒµ½»Á÷ÓëºÏ×÷£¬¼ÓËÙMAH²úÒµ»¯½ø³Ì¡£´ËÍâ£¬´ó»áÌá¹©ÉÌÎñºÏ×÷»ú»á£¬¿ª·Å¶àÖÖÐû´«Õ¹Ê¾ÐÎÊ½£¬²¢½ÓÊÜÕ¹Î»Ô¤¶©¡£ÓÐÒâ²ÎÓëÕß¿ÉÍ¨¹ýÉ¨Âë±¨Ãû£¬ÏíÊÜÏÞÊ±Ãâ·ÑÓÅ»Ý¡£
+"¸ÄÁ¼ÐÍÐÂÒ©Ç÷ÊÆÓëºÏ×÷½»Á÷´ó»á³É¹¦½áÊø£¬¾Û½¹ÉúÎïÒ½Ò©ÁìÓòÐÂÒ©ÑÐ·¢¶¯Ì¬£¬´Ù½øÒµ½çºÏ×÷¡£»áÒéÇ¿µ÷ÊÐ³¡¶´²ìÄÜÁ¦ÓëÒ©Æ·ÑÐ·¢Çé±¨µÄÖØÒªÐÔ£¬Í¬Ê±£¬Ò©ÈÚÔÆÆ½Ì¨Ìá¹©ÆóÒµ°æÊÔÓÃ¡¢ÔÚÏß×ÉÑ¯¼°¿Í·þÈÈÏß£¨18983288589£©£¬²¢ÍÆ³öÉúÎïÒ½Ò©¸öÈË°æÊý¾Ý¿âµÄÕÆÉÏÓ¦ÓÃ£¬ÖúÁ¦ÐÐÒµÐÅÏ¢»ñÈ¡Óë½»Á÷¡£ÕâÒ»ÏµÁÐ¾Ù´ë»ý¼«´Ù½øÁËÒ½Ò©ÐÐÒµµÄ×ÊÔ´¹²ÏíÓë´´ÐÂ·¢Õ¹¡£"
+°Ù¼ÃÉñÖÝµÄÐÂÐÍPRMT5ÒÖÖÆ¼ÁBGB-58067Æ¬ÁÙ´²ÊÔÑéÉêÇëÒÑ±»ÊÜÀí£¬¸ÃÒ©ÎïÕë¶ÔMTAPÈ±Ê§µÄÖ×Áö£¬Í¨¹ý¡°ºÏ³ÉÖÂËÀ¡±»úÖÆÒÖÖÆ°©Ï¸°ûÉú³¤£¬Ô¤ÆÚÓÃÓÚÖÎÁÆ·ÇÐ¡Ï¸°û·Î°©ºÍÏû»¯µÀÖ×ÁöµÈ¡£´Ë¾Ù±êÖ¾×Å°Ù¼ÃÉñÖÝÔÚ¿¹°©Ò©ÎïÑÐ·¢ÁìÓòµÄÓÖÒ»ÖØÒª½øÕ¹£¬Ô¤¼Æ2024Äê½øÈëÁÙ´²ÑÐ¾¿¡£È«Çò·¶Î§ÄÚ£¬PRMT5ÒÖÖÆ¼ÁµÄÑÐ¾¿ÕýÖð²½ÍÆ½ø£¬Õ¹ÏÖ¶Ô¿¹°©Ö¢µÄÇ±Á¦¡£
+Ñï×Ó½­Ò©Òµ¼¯ÍÅ¹ãÖÝº£ÈðÒ©ÒµµÄ¸´·½¾ÛÒÒ¶þ´¼µç½âÖÊÉ¢£¨III£©ÐÂÒ©»ñÅúÉÏÊÐ£¬¸ÃÒ©ÎïÓÃÓÚÄÚ¿ú¾µ¼ì²éºÍ´ó³¦ÊÖÊõÇ°³¦µÀ×¼±¸£¬ÊÐ³¡Ç±Á¦¾Þ´ó£¬Ô¤¼ÆÏúÊÛ×Ü¶î½«³¬¹ý10ÒÚÔª¡£´ËÍâ£¬¶à¼ÒÒ©ÆóÕý»ý¼«²¼¾Ö¸Ã²úÆ·µÄ·ÂÖÆ£¬ÕÃÏÔÁËÊÐ³¡µÄ¸ß¶È¹Ø×¢¡£Ñï×Ó½­Ò©Òµ½üÄêÀ´»îÔ¾ÓÚÒ©Æ·ÑÐ·¢£¬ÒÑÌá½»¶à¸öÆ·ÖÖµÄ·ÂÖÆÉêÇë£¬Õ¹ÏÖÆäÔÚÒ½Ò©ÁìÓòµÄÇ¿¾¢ÑÐ·¢ÊÆÍ·¡£
+¿Æ¼ÃÒ©Òµ2024ÖÐÆÚÒµ¼¨ÏÔÊ¾£¬¹«Ë¾¾»¿÷ËðÊÕÕ­ÖÁ3.52ÒÚÈËÃñ±Ò£¬Ïà±ÈÈ¥ÄêÓÐËù¸ÄÉÆ£¬Ö÷ÒªµÃÒæÓÚÐ½³ê³É±¾ÏÂ½µºÍÑÐ·¢¿ªÖ§¼õÉÙ¡£¹«Ë¾ºËÐÄ²úÆ·ÈüâýÔóÒÑÔÚÖÐ¹úÉÏÊÐ£¬ÓÃÓÚÖÎÁÆ¸´·¢»òÄÑÖÎÐÔ¶à·¢ÐÔ¹ÇËèÁö£¬Óë»ª¶«Ò½Ò©ºÏ×÷ÍÆ¶¯ÉÌÒµ»¯½ø³Ì¡£ÑÐ·¢·½Ãæ£¬¿Æ¼ÃÒ©ÒµÔÚCAR-TÏ¸°ûÁÆ·¨ÁìÓò³ÖÐøÁìÏÈ£¬ÓµÓÐ¶à¸ö´¦ÓÚ²»Í¬½×¶ÎµÄÑÐ·¢¹ÜÏß£¬Õë¶ÔÑªÒº¶ñÐÔÖ×ÁöºÍÊµÌåÁö£¬ÇÒÔÚ¼¼Êõ´´ÐÂÈçCycloCAR¡¢THANK-uCARÆ½Ì¨ÉÏÈ¡µÃ½øÕ¹£¬Ö¼ÔÚ½â¾öÊµÌåÁöÖÎÁÆÌôÕ½¡¢Ìá¸ßÁÆ·¨¿É¼°ÐÔºÍ½µµÍ³É±¾¡£¹«Ë¾ÏÖ½ð´¢±¸³ä×ã£¬Ô¤¼ÆÖ§³ÖÔËÓªÖÁ2027Äê¡£ÕûÌå¶øÑÔ£¬¿Æ¼ÃÒ©ÒµÔÚCAR-TÁìÓò±£³ÖÇ¿¾¢ÑÐ·¢ÊÆÍ·£¬ÉÌÒµ»¯Â·¾¶Öð²½ÇåÎú£¬Î´À´Ôö³¤Ç±Á¦½Ï´ó¡£
+ÐÂÑ¿»ùÒòµÄ¼î»ù±à¼­Ò©ÎïGEN6050XÔÚÊ×ÀýDMD»¼ÕßÉíÉÏÍê³ÉÈËÌå¸øÒ©£¬±êÖ¾×Å»ùÒò±à¼­ÁÆ·¨ÔÚDMDÖÎÁÆÉÏµÄÖØ´ó½øÕ¹¡£¸ÃÒ©ÎïÖ¼ÔÚÍ¨¹ýÒ»´ÎÐÔÈ«Éí¸øÒ©ÓÀ¾ÃÐÞ¸´DMD»ùÒò£¬¼õÉÙÍÑ°Ð·çÏÕ£¬Ìá¹©Ç±ÔÚµÄÖÎÓú·½°¸¡£Ä¿Ç°£¬¸ÃÁÆ·¨ÕýÔÚÁÙ´²ÊÔÑé½×¶Î£¬ÐÂÑ¿»ùÒò¼Æ»®ÔÚÃÀ¹úºÍÖÐ¹úÍ¬²½Ìá½»INDÉêÇë¡£´Ë¾ÙÎªDMDÕâÒ»ÑÏÖØ¼²²¡´øÀ´ÖÎÁÆÐÂÏ£Íû£¬¼õÇá»¼Õß¼ÒÍ¥¸ºµ£¡£DMDÓ°Ïì¹ã·º£¬Æ½¾ùÃ¿3500ÖÁ5000ÃûÄÐÓ¤ÖÐ¾ÍÓÐ1Àý£¬¶øGEN6050XÕë¶ÔµÄÍâÏÔ×Ó50ÌøÔ¾ÖÎÁÆ¿ÉÄÜ»Ý¼°4%µÄDMD»¼Õß¡£ÐÂÑ¿»ùÒòµÄ´´ÐÂ¼¼ÊõÓÐÍû¿ªÆôDMDÖÎÁÆµÄÐÂ¼ÍÔª¡£
+µÚÊ®Åú¹ú¼ÒÒ©Æ·¼¯²ÉÔ¤ÈÈ£¬³¬¹ý170¸öÆ·ÖÖ´ïµ½ÄÉÈë±ê×¼£¬ÆäÖÐ65¸ö×¢Éä¼Á×¼±¸¾ÍÐ÷¡£±¶ÌØÒ©ÒµÔÚ±¸Õ½ÆóÒµÖÐÁìÏÈ£¬ÆëÂ³ÖÆÒ©½ôËæÆäºó¡£×¢Éä¼ÁÊÐ³¡¾ºÕù¼¤ÁÒ£¬Èç¼ä±½Èý·Ó×¢ÉäÒºµÈÆ·ÖÖ¶à¼ÒÆóÒµ¾ºÖð¡£¼¯²É²»½ö´ÙÊ¹Ò©Æ·¼Û¸ñÏÂ½µ£¬Ò²ÎªÏà¹ØÆóÒµÌá¹©ÁËÊÐ³¡Ï´ÅÆµÄ»úÓö¡£¹ú¼ÒÕþ²ßÕýÍÆ¶¯¼¯²ÉÒ©Æ·¸²¸ÇÀ©´óÖÁ»ù²ãÒ½ÁÆ»ú¹¹ºÍÒ©µê£¬ÈÃ¸ü¶àÃñÖÚÊÜÒæ¡£
+48¸öÒ©Æ·Æ·ÖÖÒÑÍ¨¹ýÆÀÉó£¬±êÖ¾×ÅËüÃÇ·ûºÏÏà¹ØÖÊÁ¿±ê×¼¡£ÕâÐ©Ò©Æ·À´×Ô¶à¼ÒÖªÃûÒ©Æó£¬ÈçÆëÂ³ÖÆÒ©¡¢Ê¯¼Ò×¯ËÄÒ©¡¢Ñï×Ó½­Ò©ÒµµÈ£¬Éæ¼°µÄ¼ÁÐÍÒÔ×¢Éä¼ÁÎªÖ÷¡£ÆäÖÐ£¬²¿·ÖÒ©Æ·Ê×´ÎÓÐÆóÒµÍ¨¹ýÆÀÉó£¬ÕÃÏÔÁËÆóÒµÔÚÒ©Æ·Ò»ÖÂÐÔÆÀ¼ÛÉÏµÄ½øÕ¹¡£Õâ²»½ö´Ù½øÁËÒ©Æ·ÊÐ³¡µÄ¾ºÕù£¬Ò²Ìá¸ßÁË»¼Õß»ñµÃ¸ßÖÊÁ¿Ò©Æ·µÄ»ú»á¡£
+Ò©ÈÚÔÆ¸üÐÂÁË1¸öÐÂÊý¾Ý¿â¡ª¡ªÖÐÒ©²ÄGAP»ùµØÊý¾Ý¿â£¬²¢¶Ô6´óÏÖÓÐÊý¾Ý¿â¹¦ÄÜ½øÐÐÓÅ»¯Éý¼¶£¬°üÀ¨È«ÇòÒ©Æ·×¨Àû¡¢Ò½ÔºÏúÊÛÊý¾ÝµÈ£¬ÌáÉýÊý¾Ý²éÑ¯¡¢·ÖÎö¼°µ¼³öÐ§ÂÊ¡£ÓÃ»§ÏÖ¿É¸ü±ã½ÝµØ»ñÈ¡ÊÐ³¡Çé±¨£¬ÖúÁ¦Ò©Æ·ÑÐ·¢Óë¾ö²ßÖÆ¶¨¡£Í¬Ê±£¬Êý¾Ý¿âÐÅÏ¢ÒÑ¸üÐÂÖÁ2024ÄêµÚÒ»¼¾¶È£¬È·±£Êý¾ÝÊ±Ð§ÐÔ¡£ÌåÑéÆóÒµ°æ»ò¸öÈË°æ£¬°ÑÎÕÒ½Ò©ÐÐÒµ×îÐÂ¶¯Ì¬¡£
+Terns PharmaceuticalsµÄ¿Ú·þÒ©ÎïTERN-601£¬ÔÚGLP-1R¼¤¶¯¼ÁµÄ¢ñÆÚÁÙ´²ÊÔÑéÖÐÕ¹ÏÖ³öÏÔÖø¼õÖØÐ§¹û£¬×î¸ß¼ÁÁ¿×éÆ½¾ùÌåÖØ¼õÇá´ï4.9%£¬ÇÒ67%²ÎÓëÕß¼õÖØ³¬¹ý5%¡£ÕâÒ»½á¹ûÓÅÓÚÄ³Ð©¿Ú·þ¾ºÕù¶ÔÊÖ£¬ÈçOrforglipronºÍDanuglipron¡£ÊÜ´Ë»ý¼«Êý¾ÝÓ°Ïì£¬Terns¹É¼ÛÉÏÕÇ16.77%£¬ÊÐÖµ´ï6.42ÒÚÃÀÔª¡£¹«Ë¾¼Æ»®ÔÚ2025ÄêÍÆ½øTERN-601ÖÁIIÆÚÁÙ´²¿ª·¢¡£
+»ùÒòÁÆ·¨ATSN-101ÔÚÖÎÁÆLeberÏÈÌìÐÔºÚëü1ÐÍ(LCA1)µÄ1/2ÆÚÁÙ´²ÊÔÑéÖÐÕ¹ÏÖ³öÏÔÖøÐ§¹û£¬¿ÉÊ¹»¼ÕßÊÓÁ¦ÌáÉýÍò±¶£¬ÆäÖÐ¸ß¼ÁÁ¿×é»¼ÕßÔÚÖÎÁÆºó28Ìì¼´¹Û²ìµ½ÊÓÍøÄ¤Ãô¸ÐÐÔ¸ÄÉÆ£¬ÇÒÐ§¹û³ÖÐøÖÁÉÙ12¸öÔÂ¡£¸ÃÁÆ·¨Í¨¹ýÏÙÏà¹Ø²¡¶¾5(AAV5)ÔØÌå´«µÝ¹¦ÄÜÐÔGUCY2D»ùÒòÖÁ¸Ð¹âÏ¸°û£¬°²È«ÐÔÁ¼ºÃ£¬¸±×÷ÓÃ¶àÎªÇáÖÐ¶ÈÇÒÓëÊÖÊõÏà¹Ø¡£ATSN-101ÓÐÍû³ÉÎªÊ×¸öÖÎÁÆLCA1µÄ»ùÒòÁÆ·¨£¬ÎªÒÅ´«ÐÔÊÓÍøÄ¤¼²²¡»¼Õß´øÀ´Ï£Íû¡£
+ÈðË³ÉúÎïµÄRJMty19×¢ÉäÒº£¬×÷ÎªÈ«ÇòÊ×¸öÎ´¾­»ùÒò±à¼­µÄÍ¨ÓÃÐÍCAR-DNTÏ¸°ûÁÆ·¨£¬»ñÖÐ¹úÒ©¼à¾ÖÅú×¼½øÈëÁÙ´²ÊÔÑé½×¶Î£¬½«ÓÃÓÚÖÎÁÆÏµÍ³ÐÔÓ²»¯²¡¡£¸ÃÁÆ·¨Ô´×Ô½¡¿µ¾èÔùÕß£¬¾ß±¸±ê×¼»¯ÖÆ±¸¡¢³É±¾µÍ¡¢¼´ÓÃµÈÓÅÊÆ£¬ÓÐÍû¸ïÐÂµ±Ç°×ÔÌåCAR-TÏ¸°ûÁÆ·¨ÊÐ³¡¡£ÈðË³ÉúÎï×¨×¢ÓÚDNTÏ¸°û¼¼ÊõÑÐ·¢£¬ÖÂÁ¦ÓÚÌá¹©´óÖÚ¿É¸ºµ£µÄ´´ÐÂÏ¸°ûÁÆ·¨¡£
+ÃÀ¹úÖÚÒéÔºÍ¨¹ý¡¶ÉúÎï°²È«·¨°¸¡·£¬Ö¼ÔÚÏÞÖÆÃÀ¹úÁª°î»ú¹¹ÓëÄ³Ð©Íâ¹úÉúÎï¼¼Êõ¹«Ë¾µÄºÏ×÷£¬ÌØ±ðµãÃû°üÀ¨Ò©Ã÷¿µµÂ¡¢Ò©Ã÷ÉúÎïÔÚÄÚµÄ5¼ÒÖÐ¹úÉúÎï¿Æ¼¼¹«Ë¾£¬ÈÏÎªËüÃÇ¿ÉÄÜ¶ÔÃÀ¹ú¹ú¼Ò°²È«¹¹³ÉÍþÐ²¡£¾¡¹ÜÕâÐ©¹«Ë¾·ñÈÏÏà¹ØÖ¸¿Ø£¬·¨°¸»¹Ðè²ÎÒéÔºÉóÒé¼°×ÜÍ³Ç©×Ö²ÅÄÜÉúÐ§¡£´Ë·¨°¸·´Ó³ÁËÃÀ¹ú¶Ô»ª¿Æ¼¼¾ºÕùµÄÉý¼¶£¬¼°ÆäÊÔÍ¼¼õÉÙ¶ÔÖÐ¹úÉúÎï¿Æ¼¼ÒÀÀµµÄÕþÖÎÒâÍ¼¡£
+ÆëÂ³ÖÆÒ©ÐÂÐÍ¿¹ÉúËØ×¢ÉäÓÃÃÀÂÞÅàÄÏÆÕÀ³°ÍÌ¹»ñÁÙ´²ÊÔÑéÐí¿É£¬Õë¶Ô¸´ÔÓÐÔ¸¹Ç»¸ÐÈ¾¡£¸ÃÒ©Îï½áºÏÁËÃÀÂÞÅàÄÏÓëÆÕÀ³°ÍÌ¹£¬Ö¼ÔÚÔöÇ¿¿¹¾úÐ§¹û¡£ÆëÂ³ÖÆÒ©³ÖÐø¼Ó´óÑÐ·¢Í¶×Ê£¬ÆäÔÚÑÐµÄ1ÀàÐÂÒ©³¬¹ý30¿î£¬¾Û½¹¿¹Ö×ÁöÒ©ÎïÎªÖ÷£¬Í¬Ê±ÍØÕ¹¿¹¸ÐÈ¾ÁìÓò£¬ÏÔÊ¾³ö¹«Ë¾ÔÚÒ½Ò©´´ÐÂ·½ÃæµÄÇ¿¾¢ÊÆÍ·¡£
+¿ÆÂ×²©Ì©µÄSKB571Ë«¿¹ADCÒ©ÎïINDÉêÇëÒÑ»ñÖÐ¹ú¹ú¼ÒÒ©Æ·¼à¶½¹ÜÀí¾Ö£¨NMPA£©ÊÜÀí£¬±êÖ¾×ÅÖ×ÁöÖÎÁÆÁìÓò¿ÉÄÜÓ­À´ÐÂÍ»ÆÆ¡£SKB571×÷ÎªÒ»ÖÖÐÂÐÍË«¿¹ADCÒ©Îï£¬Õ¹ÏÖ³ö¶Ô¿¹¶àÖÖÊµÌåÁöµÄÇ±Á¦£¬°üÀ¨·Î°©ºÍÏû»¯µÀÖ×Áö£¬ÇÒÔÚÁÙ´²Ç°ÑÐ¾¿ÖÐÏÔÊ¾³öÁ¼ºÃÁÆÐ§ºÍ°²È«ÐÔ¡£´Ë½øÕ¹½ô¸ú¿ÆÂ×²©Ì©ÓëÄ¬É³¶«ºÏ×÷ÏîÄ¿µÄ»ý¼«¶¯Ïò£¬ÕÃÏÔÁË¹«Ë¾ÔÚÖ×ÁöÒ©ÎïÑÐ·¢·½ÃæµÄÇ¿¾¢ÊÆÍ·¼°Æä·á¸»µÄ²úÆ·¹ÜÏß¡£
+»ªÈó¾ÅÐÂµÄ×¢ÉäÓÃÍ·æßßòÁÖÄÆË®ºÏÎïÔÚÈÕ±¾³É¹¦ÉÏÊÐ£¬±êÖ¾×Å¹«Ë¾Ê×¸ö¿¹ÉúËØ×¢Éä¼ÁÖÆ¼Á²úÆ·»ñµÃ¹ú¼ÊÊÐ³¡ÈÏ¿É¡£¸ÃÒ©ÎïÀú¾­ÑÏ¸ñÉóºË£¬ÆäÖÊÁ¿ÓëÁÆÐ§»ñµÃ¸ß¶ÈÆÀ¼Û£¬½øÒ»²½¹®¹ÌÁË»ªÈó¾ÅÐÂÔÚ¿¹¾úÒ©ÎïÑÐ·¢ÁìÓòµÄµØÎ»¡£´Ë´Î³É¹¦²»½öÕ¹Ê¾ÁËÆóÒµµÄÑÐ·¢ÊµÁ¦£¬Ò²ÎªÆä¹ú¼Ê»¯Õ½ÂÔÂõ³öÁËÖØÒªÒ»²½¡£
+°Ù°ÂÌ©ÉúÎïÖÆÒ©µÄ¶ÈÆÕÀûÓÈµ¥¿¹BAT2406»ñÖÐ¹úNMPAÅú×¼¿ªÕ¹ÁÙ´²ÊÔÑé£¬ÓÐÍûÓÃÓÚÖÎÁÆÌØÓ¦ÐÔÆ¤Ñ×µÈ¶àÖÖ¼²²¡£¬³ÉÎª¹úÄÚÊ×¸ö»ñ´ËÐí¿ÉµÄÉúÎïÀàËÆÒ©¡£¸ÃÒ©ÎïÍ¨¹ýÒÖÖÆ¹Ø¼üÏ¸°ûÒò×ÓÐÅºÅ´«µ¼£¬°ÐÏòÖÎÁÆÃâÒßÐÔ¼²²¡£¬±êÖ¾×ÅÖÐ¹úÔÚÉúÎïÀàËÆÒ©ÑÐ·¢ÁìÓòµÄ½ø²½¡£
+¿µ·½ÉúÎïµÄÒÀÎÖÎ÷µ¥¿¹£¬×÷ÎªÈ«ÇòÊ×¸öPD-1/VEGFË«ÌØÒìÐÔ¿¹ÌåÐÂÒ©£¬ÔÚIIIÆÚÁÙ´²ÑÐ¾¿ÖÐÕ¹ÏÖÏÔÖøÓÅÓÚÅÁ²©ÀûÖéµ¥¿¹µÄÁÆÐ§£¬ÓÈÆäÔÚÖÎÁÆPD-L1ÑôÐÔ·ÇÐ¡Ï¸°û·Î°©·½Ãæ£¬ÑÓ³¤ÁË»¼ÕßµÄÎÞ½øÕ¹Éú´æÆÚ£¬Ìá¸ßÁË»º½âÂÊºÍ¼²²¡¿ØÖÆÂÊ£¬ÇÒÔÚ¸÷ÑÇ×éÈËÈºÖÐ¾ùÏÔÊ¾³ö¸üÓÅÐ§¹û¡£¸ÃÒ©»¹¾ßÓÐÁ¼ºÃµÄ°²È«ÐÔ£¬Îª»¼ÕßÌá¹©ÁËÐÂµÄÖÎÁÆÑ¡Ôñ¡£´Ë³É¹û²»½öÍÆ¶¯ÁË¿µ·½ÉúÎï¹É¼ÛÉÏÕÇ14%£¬Ò²´ÙÊ¹¹«Ë¾¼Æ»®½øÒ»²½¿ªÕ¹È«Çò¶àÖÐÐÄIIIÆÚÁÙ´²ÊÔÑé£¬¼ÓËÙÒ©ÎïµÄ¹ú¼Ê»¯½ø³Ì¡£
+ºãÈðÒ½Ò©×ÔÖ÷ÑÐ·¢µÄ½µÖ¬ÐÂÒ©SHR-1918×¢ÉäÒºÄâ±»ÄÉÈëÍ»ÆÆÐÔÖÎÁÆÆ·ÖÖ£¬Õë¶Ô´¿ºÏ×Ó¼Ò×åÐÔ¸ßµ¨¹Ì´¼ÑªÖ¢¡£¸ÃÒ©ÔÚESCÄê»áÉÏÕ¹Ê¾µÄIÆÚÁÙ´²ÑÐ¾¿±íÃ÷£¬ÄÜÓÐÐ§½µµÍLDL-CºÍTGË®Æ½£¬¾ßÓÐÁ¼ºÃµÄ°²È«ÐÔºÍÄÍÊÜÐÔ£¬Ä¿Ç°Õý½øÐÐ¸ßÖ¬ÑªÖ¢»¼ÕßµÄIIÆÚÑÐ¾¿¡£Õâ±êÖ¾×ÅÖÐ¹úÔÚÐÄÑª¹Ü¼²²¡ÖÎÁÆÁìÓòµÄÒ»ÏîÖØÒª½øÕ¹¡£
+ÀñÀ´ÓëGenetic LeapºÏ×÷£¬Ö¼ÔÚÀûÓÃAIÍÆ¶¯Ò©Îï´´ÐÂ£¬¾Û½¹RNA°ÐÏòÁÆ·¨¿ª·¢¡£ÕâÒ»ºÏ×÷ÌåÏÖÁËAIÔÚ¼ÓËÙÒ©Îï·¢ÏÖ¡¢¸ÄÔìÒ½ÁÆÁìÓòµÄ¾Þ´óÇ±Á¦¡£Í¨¹ý¾«×¼µÄRNA°ÐÏò£¬ÓÐÍû½âËøÄÑÖÎ¼²²¡µÄÐÂÖÎÁÆ·½°¸£¬ÊÇÒ½Ò©½çµÄÒ»´ÎÖØÒª½ø²½¡£Ëæ×Å¼¼ÊõÈÚºÏ¼ÓÉî£¬Î´À´Ò©ÎïÑÐ·¢½«¸ü¼Ó¸ßÐ§¡¢¸öÐÔ»¯¡£
+Peter Marks£¬FDAÏ¸°ûºÍ»ùÒòÁÆ·¨¼à¹Ü¸ºÔðÈË£¬Ô¤¼ÆÎ´À´ÎåÄêÈ«Çò¼à¹Ü»ú¹¹½«¼ÓÇ¿ºÏ×÷£¬´Ù½ø»ùÒòÁÆ·¨Åú×¼Á÷³ÌµÄÍ³Ò»£¬Õâ½«ÌáÉýÕâÀàÁÆ·¨µÄ¿É¼°ÐÔ¡£ËûÉèÏëÈ«Çò¼à¹ÜÇ÷Í¬ÄÜ¼ò»¯ÇøÓòÉóÅú£¬½µµÍ³É±¾£¬ÈçÍ¬CRISPR¼¼ÊõÏà¶ÔÓÚAAVµÄ×ª±ä£¬ÓÐÍûÊµÏÖ¸ü¸ßÐ§µÄÉú²úºÍ³É±¾½µµÍ¡£Marks»¹ÌÖÂÛÁË»ùÓÚ»¼ÕßÈºÌå´óÐ¡µ÷Õû»ùÒòÁÆ·¨·çÏÕµÄ¿¼Á¿£¬Ð¡ÈºÌå¿ÉÄÜÈÝÈÌ¸ü¸ß·çÏÕÒÔ»»È¡Ç±ÔÚ¾Þ´ó¸£ìí¡£×ÜÌå¶øÑÔ£¬È«ÇòºÏ×÷Óë¼¼Êõ´´ÐÂÕý¼ÓËÙ»ùÒòÁÆ·¨µÄÆÕ¼°ºÍ½ø²½¡£
+ÉîÛÚÊÐÁªºÏ15¸öÊ¡·Ý£¬¼ÓÉÏÁíÍâ12¸öÊ¡·ÝµÄÁªÃË£¬Õý¼¯ÖÐ¹Ø×¢³¬Éùµ¶Í·ÓëÔ¤³äÊ½µ¼¹Ü³åÏ´Æ÷µÄÒ½ÁÆºÄ²Ä²É¹ºÐÂÇ÷ÊÆ¡£ÕâÒ»¾Ù´ëÒâÔÚÍ¨¹ý¼¯ÌåÌ¸ÅÐÔöÇ¿Òé¼ÛÄÜÁ¦£¬¿ÉÄÜÒýÁìÒ½ÁÆºÄ²Ä¼Û¸ñµÄÓÅ»¯ÓëÊÐ³¡¸ñ¾ÖµÄ±ä»¯¡£¶ÔÓÚÐÐÒµ¶øÑÔ£¬Õâ²»½öÊÇ¶Ô¹©Ó¦ÉÌ³É±¾¿ØÖÆÄÜÁ¦µÄ¿¼Ñé£¬Ò²ÊÇÍÆ¶¯Ò½ÁÆÆ÷ÐµÁìÓò¸ü¼Ó¹æ·¶»¯¡¢Í¸Ã÷»¯µÄÖØÒªÒ»²½¡£¶ÔÓÚ»¼ÕßºÍÒ½ÁÆ»ú¹¹À´Ëµ£¬ÔòÓÐÍû¼õÉÙ¿ªÖ§£¬Ìá¸ßÒ½ÁÆ·þÎñÐÔ¼Û±È¡£×ÜÌåÀ´¿´£¬ÕâÊÇÒ½ÁÆ²É¹º¸Ä¸ïµÄ»ý¼«½øÕ¹£¬ÓÐÖúÓÚ´Ù½øÐÐÒµ½¡¿µ·¢Õ¹¡£
+¹ú¼Ê¼²²¡·ÖÀà±àÂë(ICD)ÊÇÈ«ÇòÒ½ÁÆÐÅÏ¢±ê×¼»¯µÄºËÐÄ£¬¶ÔÌáÉýÒ½ÁÆ·þÎñ¡¢¿ÆÑÐ¼°¹«¹²ÎÀÉúÕþ²ßÖÁ¹ØÖØÒª¡£ICD-10¹ã·ºÓ¦ÓÃ£¬¶øICD-11×÷Îª×îÐÂ°æÒÑÉúÐ§¡£²éÑ¯ICD±àÂë¶ÔÓÚÊµÏÖÒ½ÁÆÊõÓï±ê×¼»¯¡¢´Ù½øÊý¾ÝÊÕ¼¯·ÖÎö¡¢ÓÅ»¯Ò½ÁÆ¹ÜÀí¾ö²ß¼°¼ÓÇ¿¹ú¼ÊºÏ×÷ÒâÒåÖØ´ó¡£³ýWHOÆ½Ì¨Íâ£¬»¹¿ÉÀûÓÃÈçÒ©ÈÚÔÆ-ICDÊý¾Ý¿âµÈÔÚÏß¹¤¾ß½øÐÐ¸ßÐ§²éÑ¯¡£ICD-11ÒýÈëµÄ×éºÏ±àÂë¹æÔò¼°Ô¤×éÅä¡¢ºó×éÅäÌØÐÔ£¬Ìá¸ßÁË¼²²¡ÃèÊöµÄ¾«È·¶ÈºÍ¸´ÔÓÐÔ´¦ÀíÄÜÁ¦¡£Ëæ×ÅÒ½ÁÆÐÅÏ¢»¯ÍÆ½ø£¬ÊìÁ·ÕÆÎÕICD²éÑ¯Óë¸üÐÂ£¬¶ÔÒ½ÁÆÖÊÁ¿Óë¿ÆÑ§½ø²½Ó°ÏìÉîÔ¶¡£
+Ò©ÈÚÔÆÍÆ³öÔÚÏßÃâ·Ñ²éÑ¯·þÎñ£¬º­¸Ç5Íò¶àÏîÈ«¹ú¸÷Ê¡ÊÐµÄÖÐÒ©ÒûÆ¬ÅÚÖÆ¹æ·¶¡£Ëæ×Å2022Äê¹ú¼ÒÖÐÒ©ÒûÆ¬ÅÚÖÆ¹æ·¶µÄÊµÊ©£¬¸÷Ê¡ÏàÓ¦¹æ·¶Ðè·ÏÖ¹£¬Í³Ò»¹ÜÀíÈ·±£±ê×¼»¯Éú²úÊ¹ÓÃ¡£¸ÃÊý¾Ý¿âÌá¹©±ã½ÝÒ»Õ¾Ê½²éÑ¯£¬°üº¬¸÷µØÀúÄê¹æ·¶ÐÅÏ¢£¬Ö§³ÖÃû³Æ¡¢À´Ô´µÈ¶àÖÖ¼ìË÷·½Ê½£¬¼«´ó±ãÀûÁËÒµ½çÍ¬ÈÊµÄ¹¤×÷Ð§ÂÊ¡£´Ë¾Ù·´Ó³ÁËÔÚ´«Í³Ò½Ò©ÁìÓò£¬Êý×Ö»¯¹¤¾ßÕýÖúÁ¦²úÒµÉý¼¶£¬Ìá¸ßÐÅÏ¢»ñÈ¡ËÙ¶ÈÓë×¼È·ÐÔ¡£
+2020¡¶ÖÐ¹úÒ©µä¡·µç×Ó°æÒÑÉÏÏßÒ©µäÎ¯¹ÙÍø£¬¿ÉÃâ·ÑÔÚÏß²éÑ¯£¬°üº¬ÊýÒÔÇ§¼ÆÒ©Æ·µÄÏêÏ¸±ê×¼ÓëÐÞ¶©Çé¿ö£¬Ö§³Ö°´Ò©Æ·ÀàÐÍÉ¸Ñ¡Óë¹Ø¼ü´ÊËÑË÷£¬¼«´ó±ãÀûÁË×¨ÒµÈËÊ¿¡£´ËÍâ£¬ÁË½â²»Í¬°æ±¾Ò©µä¼°¸÷¹úÒ©µä¶ÔÓÚÈ«Ãæ°ÑÎÕÒ©Æ·±ê×¼ÖÁ¹ØÖØÒª¡£Ò©ÈÚÔÆÆ½Ì¨²»½öÌá¹©Ò©µä²éÑ¯£¬»¹º­¸Ç×ÊÑ¶¡¢ÊÐ³¡¶´²ìµÈ·á¸»×ÊÔ´£¬ÖúÁ¦ÉúÎïÒ½Ò©ÁìÓòÑÐ¾¿Óë¿ª·¢¡£
+¸ÃÎÄÌá¹©ÁË²éÑ¯ÖÐ¹úÂýÐÔ¼²²¡Í³¼ÆÊý¾ÝµÄ28¸öÈ¨ÍþÍøÕ¾ÁÐ±í£¬°üÀ¨ÖÐ¹úÎÀÉúÍ³¼ÆÄê¼ø¡¢ÊÀ½çÎÀÉú×éÖ¯¡¢ÃÀ¹ú¼²²¡¿ØÖÆÓëÔ¤·ÀÖÐÐÄµÈ£¬Éæ¼°Á÷ÐÐ²¡Ñ§Êý¾Ý¡¢½¡¿µÍ³¼ÆÓëÑÐ¾¿±¨¸æ¡£ÎÄÕÂÍÆ¼öÊ¹ÓÃÒ©ÈÚÔÆ-Á÷ÐÐ²¡Ñ§Êý¾Ý¿â£¬¸ÃÆ½Ì¨ÕûºÏÈ«ÇòÊý¾Ý£¬Ö§³Ö×Ô¶¨Òå²éÑ¯¼²²¡·¢²¡ÂÊ¡¢»¼²¡ÂÊ¼°ËÀÍöÂÊµÈ£¬¸¨ÖúÒ½Ò©ÑÐ¾¿Óë¹«¹²ÎÀÉú¾ö²ß¡£´Ë×ÊÔ´¶ÔÓÚ¿ÆÑÐÈËÔ±¡¢Ò½Ò©ÆóÒµºÍ¹«¹²ÎÀÉú¹ÜÀíÈËÔ±¼«¾ß¼ÛÖµ¡£
+Ó¡¶È·ÂÖÆÒ©ÊÐ³¡ÅÓ´ó£¬ÓµÓÐ6ÍòÖÖÒ©Æ·£¬¸²¸Ç60¶àÖÖÖÎÁÆÁìÓò£¬¼ÛÖµ500ÒÚÃÀÔª¡£²éÑ¯Ó¡¶ÈÒ©Æ·ÐÅÏ¢ËäÒò¹ÙÍøÏÞÖÆÓö×è£¬µ«ÓÐÁ½ÖÖÍ¾¾¶£º1) Ö±½Ó·ÃÎÊCDSCO¹ÙÍø£¬ÊÊºÏÄÜ·­Ç½µÄÓÃ»§£¬¿É²é1961ÄêÀ´»ñÅúÒ©Æ·£»2) Ê¹ÓÃÒ©ÈÚÔÆÒ½Ò©Êý¾Ý¿â£¬ÊÊºÏÒ½Ò©ÐÐÒµÈËÊ¿£¬Ìá¹©¸üÏê¾¡µÄ¼ìË÷Óë¹ØÁªÐÅÏ¢²éÑ¯£¬º­¸ÇÉÏÊÐ¡¢½ø¿ÚÒ©Æ·¼°¼Û¸ñµÈ¡£¸öÈËÈÏÎª£¬µÚ¶þÖÖ·½·¨ÔÚ¹¦ÄÜÈ«ÃæÐÔºÍÓÃ»§ÌåÑéÉÏ¸üÓÅ£¬Á½Õß¾ùÄÜÓÐÐ§»ñÈ¡Ó¡¶ÈÒ©Æ·ÊÐ³¡Éî¶ÈÊý¾Ý¡£
+¹ú¼ÒÌ¸ÅÐÒ©Æ·ÊÇ¾­¹ú¼ÒÒ½±£¾ÖÌ¸ÅÐ½µµÍ¼Û¸ñ²¢ÄÉÈëÒ½±£±¨ÏúµÄ¸ß¼ÛÐÂÌØÒ©Æ·£»¼¯²ÉÒ©Æ·£¨¹ú¼Ò¼°µØ·½¼¶±ð£©Í¨¹ý¼¯ÖÐ´óÁ¿²É¹ºÌ¸ÅÐ½µ¼Û£¬Ö¼ÔÚ½µµÍ³É±¾¡¢Ìá¸ßÐ§ÂÊ£»¹ú¼Ò»ù±¾Ò©Æ·ÊÇÂú×ã»ù±¾Ò½ÁÆÐèÇó¡¢¼Û¸ñºÏÀíµÄ±Ø±¸Ò©Æ·¡£ÈýÕßËä²É¹º·½Ê½ÓëÖØµã¸÷Òì£¬µ«¹²Í¬ÖÂÁ¦ÓÚÌáÉýÒ©Æ·¿É¼°ÐÔÓë¿É¸ºµ£ÐÔ£¬ÔöÇ¿Ò½ÁÆ±£ÕÏÌåÏµÐ§ÄÜ¡£Ò©ÈÚÔÆÆ½Ì¨Ìá¹©Ïà¹ØÊý¾Ý¿âÃâ·Ñ²éÑ¯·þÎñ£¬±ãÀûÐÅÏ¢¼ìË÷Óë·ÖÎö¡£
+±¾ÎÄ½éÉÜÁË±£½¡Ê³Æ·±¸°¸Óë×¢²áµÄÇø±ð£¬ÒÔ¼°ÈçºÎÀûÓÃ¹ú¼ÒÊÐ³¡¼à¶½¹ÜÀí×Ü¾ÖµÄÔÚÏßÆ½Ì¨²éÑ¯Ïà¹Ø±¸°¸ÐÅÏ¢¡£±¸°¸ÊÊÓÃÓÚ°²È«ÐÔÒÑÆÀ¹À¡¢·ûºÏ¹ú¼Ò±ê×¼µÄ²úÆ·£¬Á÷³Ì½Ï¼ò¶Ì£»¶ø×¢²áÕë¶ÔÐÂÑÐ·¢²úÆ·£¬ÉóÅúÑÏ¸ñÇÒºÄÊ±½Ï³¤£¬¾ßÓÐ¸ü¸ß·¨ÂÉÐ§Á¦¡£ÎÄÕÂ»¹Ìá¼°£¬Í¨¹ýµÚÈý·½Êý¾Ý¿âÈçÒ©ÈÚÔÆ£¬ÆóÒµÄÜ¸ü¸ßÐ§µØ²éÑ¯ºÍ·ÖÎö±£½¡Ê³Æ·±¸°¸Êý¾Ý£¬ÖúÁ¦ÊÐ³¡²ßÂÔÓë²úÆ·ÑÐ·¢£¬ÒÔÊÊÓ¦Ïû·ÑÕßÐèÇóºÍÐÐÒµÇ÷ÊÆ¡£Õâ·´Ó³³öÔÚÔöÇ¿±£½¡Æ·ÊÐ³¡Í¸Ã÷¶ÈµÄÍ¬Ê±£¬Ò²´ÙÊ¹ÆóÒµÌáÉý¾ºÕùÁ¦ºÍÊÊÓ¦Á¦¡£
+ÌØÊâÒ½Ñ§ÓÃÍ¾Åä·½Ê³Æ·£¨ÌØÒ½Ê³Æ·£©ÊÇÎªÂú×ãÌØ¶¨¼²²¡×´Ì¬ÈËÈºµÄÓªÑøÐèÇóÉè¼ÆµÄÊ³Æ·£¬½ØÖÁ2024Äê4ÔÂ£¬¹²ÓÐ186¿î²úÆ·ÔÚÖÐ¹ú×¢²á»ñÅú£¬°üÀ¨¹ú²ú154¿îºÍ½ø¿Ú32¿î£¬º­¸Ç16ÖÖÀàÐÍ¡£²éÑ¯ÕâÐ©Ê³Æ·µÄ×¢²áÐÅÏ¢¿ÉÍ¨¹ýÁ½¸öÍ¾¾¶£ºÒ»ÊÇ·ÃÎÊ¹ú¼ÒÊÐ³¡¼à¶½¹ÜÀí×Ü¾Ö¹ÙÍø£¬ÀûÓÃÆäÌØÊâÊ³Æ·ÐÅÏ¢²éÑ¯Æ½Ì¨£»¶þÊÇÊ¹ÓÃ×¨ÒµÊý¾Ý¿âÈçÒ©ÈÚÔÆ-ÌØÊâÒ½Ñ§ÓÃÍ¾Åä·½×¢²áÊý¾Ý¿â£¬ºóÕßÌá¹©¸üÈ«Ãæ±ã½ÝµÄ¼ìË÷·þÎñ¡£ÌØÒ½Ê³Æ·ÊÐ³¡µÄ¶àÑùÐÔºÍ×¨Òµ²éÑ¯¹¤¾ßµÄ·¢Õ¹£¬·´Ó³ÁË¶Ô¾«×¼ÓªÑøÖ§³ÖÈÕÒæÔö³¤µÄÐèÇó¡£
+ÎÒ¹úÒ©Æ·¶¨¼Û»úÖÆÀú¾­´ÓÕþ¸®ÍêÈ«¿ØÖÆµ½ÊÐ³¡µ÷½ÚµÄ×ª±ä£¬ÏÖÐÐ»úÖÆ½áºÏÕþ¸®Ö¸µ¼ÓëÊÐ³¡ÒòËØ£¬Éæ¼°Õþ¸®Ö¸µ¼¼Û¡¢Ò½±£Ö§¸¶±ê×¼¡¢¼¯ÖÐ´øÁ¿²É¹ºÓëÑÏ¸ñ¼à¹ÜµÈ¡£Ò©Æ·¶¨¼ÛÐè×ÛºÏ¿¼ÂÇ³É±¾¡¢ÊÐ³¡ÐèÇó¡¢¾ºÕù×´¿ö¡¢Ò©Æ·Ð§¹û¼°Ò½±£Õþ²ßµÈ¶à·½ÃæÒòËØ£¬²ÉÓÃ¶àÑù»¯µÄ¶¨¼Û·½·¨ÒÔÊÊÓ¦²»Í¬Çé¾³¡£Ïà±ÈÃÀ¹úµÄ×ÔÓÉÊÐ³¡¡¢Å·ÖÞµÄÕþ¸®¼à¹ÜÓë²Î¿¼¶¨¼Û¡¢ÈÕ±¾µÄÑÏ¸ñÕþ¸®¹Ü¿Ø£¬ÎÒ¹úÎ´À´Ç÷ÊÆ½«²àÖØÒ½±£Ö÷µ¼¡¢¼Û¸ñºÏÀí»¯¡¢´´ÐÂÒ©¶¨¼Û»úÖÆÍêÉÆ¼°¼Û¸ñÐÅÏ¢Í¸Ã÷»¯£¬Ö¼ÔÚÆ½ºâ»¼Õß¡¢ÆóÒµºÍ¹«¹²½¡¿µÀûÒæ£¬ÍÆ¶¯Ò½Ò©ÐÐÒµ½¡¿µ·¢Õ¹¡£
+¸ÃÄÚÈÝÐû´«Ò©ÈÚÔÆµÄÖÐÒ©±£»¤Æ·ÖÖÊý¾Ý¿â£¬Ìá¼°¹ÙÍøÓµÓÐ³¬¹ý4000ÌõÄ¿Â¼ÐÅÏ¢£¬Ìá¹©ÊÐ³¡·ÖÎö¡¢Ò©Æ·ÑÐ·¢Çé±¨µÈ·þÎñ¡£ÓÃ»§¿ÉÉêÇëÆóÒµ°æÊÔÓÃ£¬Í¨¹ýÔÚÏß¡¢µç»°»òÎ¢ÐÅÇþµÀ»ñÈ¡·þÎñ£¬Í¬Ê±ÍÆ¹ãÆäÉúÎïÒ½Ò©¸öÈË°æÊý¾Ý¿âµÄÒÆ¶¯¶ËÊ¹ÓÃ¡£¸öÈË¹Ûµã£º¸ÃÆ½Ì¨ËÆºõÎªÒ½Ò©ÐÐÒµÑÐ¾¿Ìá¹©ÁË·á¸»µÄ×ÊÔ´ºÍ±ãÀûµÄ·ÃÎÊ·½Ê½£¬¶Ô´ÓÒµÕßÁË½âÊÐ³¡¶¯Ì¬ºÍ´Ù½øÑÐ·¢ÓÐ»ý¼«ÒâÒå¡£
+»¯Ñ§Ò©Æ·×¢²á·ÖÀàÌåÏµÏêÏ¸»®·ÖÎª´´ÐÂÒ©¡¢¸ÄÁ¼ÐÍÐÂÒ©¡¢·ÂÖÆÒ©¼°¾³ÍâÒ©Æ·¾³ÄÚÉÏÊÐËÄ´óÀà£¬¹²¼ÆÎåÖÖ·ÖÀà£¬Ö¼ÔÚÍ¨¹ýÃ÷È·µÄ·ÖÀà±ê×¼Ö¸µ¼Ò©Æ·ÑÐ·¢ÓëÉê±¨£¬È·±£Ò©Æ·°²È«ÓÐÐ§¡£¹Ø¼üÔÚÓÚÒ©Æ·µÄ´´ÐÂ³Ì¶È¡¢¸ÄÁ¼ÐÔÁÙ´²ÓÅÊÆ¼°ÓëÔ­ÑÐ²úÆ·µÄ¶Ô±È¡£Éê±¨Ê±Ðè×ñÑ­ÑÏ¸ñµÄ¼¼ÊõÒªÇóÓë×ÊÁÏÌá½»¹æ·¶£¬¿¼ÂÇÒ©Æ·µÄ¾³ÄÚÍâÉÏÊÐ×´Ì¬ÓëÁÙ´²¼ÛÖµ¡£¶ÔÓÚ³£¼ûÎÊÌâ£¬¹Ù·½Ìá¹©ÁËÏê¾¡µÄ´ðÒÉ£¬Ç¿µ÷·ÖÀà»ùÓÚÒ©Æ·ÌØÐÔ¶ø·Ç¹æ¸ñ£¬ÇÒ×¢²á·ÖÀàÒ»¾­È·¶¨£¬²»ËæÊÐ³¡±ä»¯¶ø±ä¶¯¡£ÕûÌå¿ò¼ÜÀûÓÚÐÐÒµÀí½âÓë×ñÑ­£¬´Ù½øÒ½Ò©²úÒµ½¡¿µ·¢Õ¹¡£
+¹ú¼ÒÒ©¼à¾Ö·¢²¼¡¶ÖÐÒ©×¢²á·ÖÀà¼°Éê±¨×ÊÁÏÒªÇó¡·£¬Ö¼ÔÚ´Ù½øÖÐÒ©´´ÐÂ·¢Õ¹£¬Ï¸»¯ÖÐÒ©×¢²áÁ÷³Ì¡£ÖÐÒ©±»·ÖÎª´´ÐÂÒ©¡¢¸ÄÁ¼ÐÍÐÂÒ©¡¢¹Å´ú¾­µäÃû·½ÖÆ¼ÁµÈ£¬ÆäÖÐ¹Å´ú¾­µäÃû·½½øÒ»²½Ï¸·ÖÒÔ¼ÓÇ¿ÑÐ¾¿Óë¹ÜÀí¡£ÐÂÒªÇóÇ¿µ÷ÁË´«Í³¹¤ÒÕÓëÖÐÒ½ÀíÂÛµÄÓ¦ÓÃ£¬Í¬Ê±Ã÷È·ÁË¸÷ÀàÖÐÒ©µÄ×¢²áÉê±¨Ï¸½ÚÓë×ÊÁÏÒªÇó£¬¹ÄÀøÖÐÒ©ÑÐ·¢Óë²úÒµÉý¼¶£¬×Ô2020ÄêÆðÊµÊ©¡£Õþ²ßµ÷ÕûÌåÏÖ¶ÔÖÐÒ©×¢²áµÄ¿ÆÑ§»¯¡¢¹æ·¶»¯¹ÜÀí£¬ÓÐÀûÓÚÌáÉýÖÐÒ©²úÆ·ÖÊÁ¿ÓëÊÐ³¡¾ºÕùÁ¦¡£
+Ò©ÈÚÔÆÖÐÒ½ÕïÁÆ·½°¸Êý¾Ý¿â»ã×ÜÁË400¶à¸öÀúÊ·°æ±¾µÄÖÎÁÆ·½°¸£¬º­¸Ç25¸ö×¨Òµ²¡ÖÖ·ÖÀà£¬°üÀ¨400ÖÖÀà±ð·ÖÀàÕïÁÆ·½°¸ºÍ48ÖÖ»¤Àí·½°¸¡£ÕâÐ©·½°¸ÓÉ¹ú¼ÒÎÀ½¡Î¯¡¢ÖÐÒ½Ò©¹ÜÀí¾ÖµÈÈ¨Íþ»ú¹¹·¢²¼£¬Ö¼ÔÚ¹æ·¶ÖÐÒ½ÕïÁÆ¡¢ÌáÉýÒ½ÁÆÖÊÁ¿Óë°²È«¡£Êý¾Ý¿âÖ§³Ö¶àÖÖÉ¸Ñ¡²éÑ¯£¬ÎªÖÐÒ½ÁÙ´²Êµ¼ùÌá¹©±ê×¼»¯Ö¸µ¼£¬´Ù½øÖÐÒ½Ò©·þÎñÖÊÁ¿ºÍÐ§¹ûµÄÌáÉý£¬ÖúÁ¦ÖÐÒ½Ò©·¢Õ¹¡£
+¸ÃÄÚÈÝÊÇÒ»¸ö¹ØÓÚÖÐÒ½ÁÙ´²ÕïÁÆÊõÓï×ÊÔ´µÄÍÆ¹ãÐÅÏ¢£¬»ã×ÜÁË4705¸ö¹Ù·½ÊõÓï¡£Ìá¹©ÁË¶àÖÖ·þÎñÈë¿Ú£¬°üÀ¨Ãâ·ÑÊÔÓÃÆóÒµ°æ¡¢ÔÚÏß×ÉÑ¯¡¢¿Í·þµç»°¡¢ÊÐ³¡·ÖÎö¡¢Ò©Æ·ÑÐ·¢Çé±¨¡¢ÉúÎïÒ½Ò©¸öÈË°æÊý¾Ý¿âµÈ¡£Í¬Ê±£¬Ò²ÁÐ³öÁËÆäÆ½Ì¨¸²¸ÇµÄ¶àÏî¹¦ÄÜÓëÐÅÏ¢·þÎñ£¬ÈçÖÐ¹úÁÙ´²ÊÔÑé×·×Ù¡¢Õþ²ß·¨¹æ²éÑ¯¡¢ÆóÒµÄê±¨·ÃÎÊµÈ£¬²¢Òýµ¼ÓÃ»§Í¨¹ýÉ¨Âë¹Ø×¢Î¢ÐÅ»ñÈ¡¸ü¶à×ÊÔ´¡£ÕûÌå¿´À´£¬ÕâÊÇÒ»¸öÖ¼ÔÚÎªÒ½Ò©ÐÐÒµÌá¹©È«·½Î»ÐÅÏ¢·þÎñµÄÆ½Ì¨Ðû´«¡£
+±¾ÎÄ½éÉÜ·¨¹úÒ©Æ·Êý¾Ý¿â²éÑ¯·½·¨£¬¸ÃÊý¾Ý¿âÊÕÂ¼ÁË·¨¹úÊÐ³¡ÉÏÏúÊÛ»òÍ£²ú²»ÂúÎåÄêÒ©Æ·ÐÅÏ¢£¬À´Ô´ÓÚ¶à¸ö¹Ù·½»ú¹¹¡£²éÑ¯¿ÉÍ¨¹ýÒ©ÈÚÔÆ¸öÈË°æÃâ·ÑÊý¾Ý¿â½øÐÐ¡£²éÑ¯·½Ê½°üÀ¨£º°´Ò©Æ·Ãû³Æ¡¢»îÐÔÎïÖÊÃû³Æ¡¢²¡ÀíÑ§ËÑË÷¡£Ã¿ÖÖ·½·¨¶¼ÏêÏ¸ËµÃ÷ÁË²Ù×÷²½Öè¡£ÓÃ»§¿É»ñÈ¡Ò©Æ·×´Ì¬¡¢¹ÜÀí¼°¿ÆÑ§ÐÅÏ¢¡¢»¼ÕßÐÅÏ¢´«µ¥µÈÏêÇé¡£¶ÔÓÚÑÐ¾¿·¨¹úÒ©Æ·ÊÐ³¡¡¢Ò©Æ·ÐÅÏ¢¾ßÓÐÊµÓÃ¼ÛÖµ¡£
+Sumitomo Pharma£¬Ê¼ÓÚ1885Äê£¬ÊÇÈÕ±¾°ÙÄê¶¥¼¶ÖÆÒ©ÆóÒµÖ®Ò»£¬ÓÉÔ­ÈÕ±¾ÖÆÒ©Óë×¡ÓÑÖÆÒ©ºÏ²¢¶ø³É£¬×¨×¢ÓÚ¾«Éñ²¡Ñ§¡¢Éñ¾­²¡Ñ§¡¢ÌÇÄò²¡¼°×¨¿ÆÒ½Ñ§ÁìÓò¡£¹«Ë¾Ö÷´ò²úÆ·°üÀ¨ÐÄÑª¹Ü¡¢¾«Éñ½¡¿µ¡¢ÌÇÄò²¡ÖÎÁÆÒ©ÎïµÈ£¬ÈçAmlozin¡¢LATUDAµÈ£¬²¢ÓµÓÐ¹ã·ºµÄÑÐ·¢¹ÜÏßºÍÈ«Çò²¼¾Ö£¬°üÀ¨ÃÀ¹ú¡¢ÖÐ¹úµÈµØµÄ×Ó¹«Ë¾¡£×¡ÓÑÖÆÒ©Í¨¹ý²¢¹ºÓëºÏ×÷²»¶ÏÍØÕ¹Æä¹ú¼ÊÒµÎñ°æÍ¼ºÍÑÐ·¢ÄÜÁ¦¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾ÁËÐÐÒµ¶¯Ì¬£¬ÒÀÍÐPharmaBI IPMÊý¾Ý¿â£¬ÎªÆóÒµµÄÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÌá¹©Êý¾ÝÖ§³Ö¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÄÚÈÝ£¬Ç¿µ÷ÁËÉîÈë·ÖÎöµÄ¼ÛÖµ£¬Í¬Ê±Ìá¼°ÁËESMO»áÒéÊý¾Ý×ÊÁÏ¼¯µÈÆäËûÏà¹Ø±¨¸æ×ÊÔ´¡£Ò½Ò©Ä§·½·¢²¼£¬ÌáÐÑÓÃ»§»ñÈ¡ÍêÕû±¨¸æÐèÏÂÔØ£¬²¢ÉùÃ÷°æÈ¨¹éÊôÓëÔðÈÎÃâ³ýÌõ¿î£¬¹ÄÀøºÏÀí·ÖÏíµ«Ðè×¢Ã÷À´Ô´¡£´Ë±¨¸æ¶ÔÀí½âÖÐ¹úÒ½Ò©ÊÐ³¡Ç÷ÊÆÓÐÒ»¶¨²Î¿¼ÒâÒå¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬Ö¸µ¼ÏúÊÛ²ßÂÔ¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÄÚÈÝ£¬ÒªÇóÈ«ÎÄÏÂÔØÒÔ»ñÈ¡ÏêÏ¸ÐÅÏ¢¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËû»áÒéÊý¾Ý×ÊÁÏ¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÐÐÒµÊý¾Ý¼à²âÖÜ±¨µÈ×ÊÔ´£¬¸²¸Ç¹úÄÚÍâÒ½Ò©ÁìÓò×îÐÂ¶¯Ì¬¡£°æÈ¨¼°ÃâÔðÉùÃ÷Ã÷È·£¬¹ÄÀøºÏÀí·ÖÏíµ«ÔðÈÎ×Ô¸º¡£´Ë±¨¸æ¶Ô°ÑÎÕÒ½Ò©ÊÐ³¡Ç÷ÊÆ¾ßÓÐ²Î¿¼¼ÛÖµ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨ÖúÏúÊÛ²ßÂÔÖÆ¶¨¡£±¨¸æ°üº¬21Ò³Ïê¾¡Êý¾ÝÓë·ÖÎö£¬Ä¿Ç°½öÌá¹©Ô¤ÀÀ£¬ÍêÕû°æÐèÏÂÔØ»ñÈ¡¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËû¶à·ÝÐÐÒµ±¨¸æ×ÊÔ´£¬¸²¸Ç»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÖÜ±¨µÈ£¬ÎªÐÐÒµÈËÊ¿Ìá¹©È«ÃæµÄÐÅÏ¢·þÎñ¡£°æÈ¨ÊôÓÚÒ½Ò©Ä§·½£¬×ª·¢Ðè×¢Ã÷À´Ô´£¬¾ö²ßÊ±Ó¦½÷É÷¶Ô´ý±¨¸æÐÅÏ¢¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔ¾ö²ß¡£¸Ã±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊý¾ÝÖÇÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£ÍêÕû±¨¸æÐèÏÂÔØ»ñÈ¡¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹ÍÆ¼öÁËÆäËûÏà¹ØÐÐÒµ±¨¸æºÍÊý¾Ý¼à²âÖÜ±¨£¬¸²¸ÇESMO»áÒé¡¢WCLCÕªÒª¡¢ÉúÎïÒ½Ò©¹«Ë¾Ç÷ÊÆµÈ¡£°æÈ¨ÊôÓÚÒ½Ò©Ä§·½£¬ÄÚÈÝ½ö¹©²Î¿¼£¬¾ö²ßÐè½÷É÷¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾ÁË¸ÃÊ±ÆÚÄÚÊÐ³¡µÄÈ«Ãæ¸Å¿ö£¬ÒÀÍÐPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â½øÐÐÉî¶È·ÖÎö£¬¸¨ÖúÆóÒµÖÆ¶¨ÊÐ³¡Õ½ÂÔ¡£±¨¸æ°üº¬21Ò³Ô¤ÀÀÄÚÈÝ£¬Ç¿µ÷Êý¾ÝÖÇÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£´ËÍâ£¬Ìá¼°ÁË¶àÏîÒ½Ò©ÐÐÒµÏà¹Ø±¨¸æºÍÊý¾Ý¼à²âÖÜ±¨£¬ÒÔ¼°ESMO 2024»áÒé×ÊÁÏ¼¯µÈ×ÊÔ´£¬ÎªÐÐÒµÌá¹©·á¸»×ÊÑ¶¡£°æÈ¨ÊôÓÚÒ½Ò©Ä§·½£¬ÌáÐÑ¶ÁÕß×ª·¢·ÖÏíÊ±Ðè×¢Ã÷À´Ô´¡£Ò½Ò©Ä§·½¶Ô±¨¸æÊ¹ÓÃÕßµÄ¾ö²ßÔðÈÎÃâÔð¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿âÌá¹©ÁËÏê¾¡µÄÒ©Æ·ÏúÊÛÊý¾Ý£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖÆ¶¨¡£¸Ã±¨¸æ°üº¬21Ò³ÄÚÈÝ£¬Ç¿µ÷ÁËÊý¾ÝÖÇÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£Ò½Ò©Ä§·½»¹·ÖÏíÁËÆäËûÏà¹Ø±¨¸æÁ´½Ó£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµÒ©Îï¹ÜÏß»ã×Ü¼°ÐÐÒµÊý¾Ý¼à²âÖÜ±¨µÈ£¬ÎªÒµ½çÌá¹©È«ÃæµÄÊÐ³¡¶´²ì¡£×¢Òâ£¬±¨¸æÐÅÏ¢½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ßÒÀ¾Ý£¬Ê¹ÓÃÕßÐè×ÔÐÐ³Ðµ£Ïà¹Ø·çÏÕ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿â·¢²¼ÁË21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÒ½ÔºÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖÆ¶¨¡£¸Ã±¨¸æ°üº¬ÁËÏêÏ¸µÄÊÐ³¡·ÖÎö£¬ÖúÁ¦ÆóÒµ¾ö²ß¡£Í¬Ê±£¬ByDrugÐ¡³ÌÐòÌáÐÑÓÃ»§¸üÐÂÎ¢ÐÅ¿Í»§¶ËÒÔ³ä·ÖÀûÓÃ¹¦ÄÜ¡£´ËÍâ£¬»¹ÍÆ¼öÁË¶à·ÝÏà¹ØÐÐÒµ±¨¸æ£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×ÜµÈ¡£°æÈ¨ÊôÓÚÒ½Ò©Ä§·½£¬¹ÄÀøºÏÀíÒýÓÃ£¬ÃâÔðÉêÃ÷Ö¸³öÄÚÈÝ½ö¹©²Î¿¼£¬²»³Ðµ£ÒòÊ¹ÓÃ±¨¸æµ¼ÖÂµÄËðÊ§ÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔ¾ö²ß¡£±¨¸æ°üº¬21Ò³Ô¤ÀÀÊý¾Ý£¬Õ¹Ê¾ÁË¸ÃÊ±ÆÚÄÚÊÐ³¡µÄÏêÏ¸Çé¿ö¡£ÎªÁË»ñÈ¡ÍêÕû±¨¸æ£¬ÓÃ»§ÐèÏÂÔØ¡£Ò½Ò©Ä§·½Í¬Ê±Ìá¹©ÁËÆäËûÏà¹ØÐÐÒµÊý¾Ý×ÊÔ´Óë±¨¸æ£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×ÜµÈ£¬²¢Ç¿µ÷ÁË°æÈ¨¼°ÃâÔðÉùÃ÷£¬¹ÄÀøºÏÀíÒýÓÃÓë·ÖÏí¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨ÖúÏúÊÛ²ßÂÔ¾ö²ß¡£±¨¸æ°üº¬21Ò³Ïê¾¡Êý¾ÝÓë·ÖÎö£¬Ä¿Ç°½öÌá¹©Ô¤ÀÀ£¬ÍêÕûÄÚÈÝÐèÏÂÔØ»ñÈ¡¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËû¶à·ÝÐÐÒµ±¨¸æ×ÊÔ´£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµÑÐ·¢¹ÜÏß»ã×ÜµÈ£¬ÎªÐÐÒµÈËÊ¿Ìá¹©·á¸»×ÊÑ¶¡£×¢Òâ£¬±¨¸æÄÚÈÝ½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ß½¨Òé£¬Ê¹ÓÃÐÅÏ¢Ôì³ÉµÄËðÊ§£¬Ò½Ò©Ä§·½²»³Ðµ£ÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾ÁË¸ÃÊ±ÆÚÄÚÊÐ³¡µÄÈ«Ãæ¸Å¿ö£¬ÒÀÍÐPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬ÖúÁ¦ÆóÒµ×ö³ö¸ü¾«×¼µÄÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔ¾ö²ß¡£±¨¸æ°üº¬21Ò³µÄÏê¾¡Êý¾ÝÓë·ÖÎö£¬Ç¿µ÷ÁËÊÐ³¡¶¯Ì¬ÓëÇ÷ÊÆ¡£¼øÓÚÔ¤ÀÀÏÞÖÆ£¬Óû»ñÈ¡ÍêÕû¶´²ì£¬½¨ÒéÖ±½ÓÏÂÔØÔ­±¨¸æ¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÍ¬ÆÚÐÐÒµ±¨¸æ×ÊÔ´£¬¸²¸Ç»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÖÜ±¨µÈ£¬ÎªÐÐÒµÈËÊ¿Ìá¹©·á¸»×ÊÑ¶¡£×¢Òâ£¬Ê¹ÓÃ±¨¸æÐÅÏ¢Ê±Ó¦È·±£×¢Ã÷À´Ô´£¬ÇÒ¾ö²ßÐè½÷É÷£¬Ò½Ò©Ä§·½¶Ô»ùÓÚ±¨¸æÄÚÈÝµÄÖ±½Ó¾ö²ß²»³Ðµ£·¨ÂÉÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿â·¢²¼ÁË21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÒ½ÔºÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖÆ¶¨¡£¸Ã±¨¸æ°üº¬ÏêÏ¸µÄÊý¾Ý¶´²ìÓë×ÉÑ¯£¬Ç¿µ÷ÁËÒ©Æ·ÏúÊÛÇ÷ÊÆ¡£Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÏà¹Ø±¨¸æ×ÊÔ´£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÐÐÒµÊý¾Ý¼à²âÖÜ±¨µÈ£¬ÖúÁ¦Ò½Ò©ÐÐÒµÉîÈëÁË½âÊÐ³¡¶¯Ì¬¡£×¢Òâ£¬±¨¸æ½ö¹©Ò»°ã²Î¿¼£¬¾ö²ßÐè½÷É÷¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨Öú¾ö²ß¡£±¨¸æ°üº¬21Ò³Ïê¾¡Êý¾ÝÓë·ÖÎö£¬Ä¿Ç°½öÕ¹Ê¾²¿·ÖÔ¤ÀÀ£¬ÍêÕûÄÚÈÝÐèÏÂÔØ»ñÈ¡¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËû¶à·ÝÐÐÒµ±¨¸æ×ÊÔ´£¬¸²¸Ç»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÖÜ±¨µÈ£¬ÎªÒµÄÚÌá¹©È«ÃæµÄÐÅÏ¢·þÎñ¡£×¢Òâ£¬±¨¸æÐÅÏ¢½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ßÒÀ¾Ý£¬Ê¹ÓÃÊ±Ò½Ò©Ä§·½²»³Ðµ£ÒòÒÀÀµ´Ë±¨¸æÔì³ÉËðÊ§µÄÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿â·¢²¼ÁË21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÒ½ÔºÊÐ³¡ÑÐ¾¿ºÍÏúÊÛ²ßÂÔÖÆ¶¨¡£¸Ã±¨¸æ°üº¬ÁËÏê¾¡µÄÊÐ³¡·ÖÎö£¬ÖúÁ¦Ò½Ò©ÐÐÒµ¶´²ìÇ÷ÊÆ¡£Çë×¢Òâ£¬±¨¸æ²¿·ÖÄÚÈÝÒÑ´ïµ½Ô¤ÀÀÉÏÏÞ£¬ÐèÏÂÔØÍêÕû°æ»ñÈ¡È«²¿ÐÅÏ¢¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹ÍÆ¼öÁË¶àÏîÏà¹Ø±¨¸æºÍÊý¾Ý×ÊÔ´£¬¸²¸ÇESMO»áÒé¡¢WCLCÕªÒª¼°Ò½Ò©ÐÐÒµÖÜ±¨µÈ£¬ÎªÒµ½çÌá¹©·á¸»×ÊÑ¶¡£°æÈ¨¼°ÃâÔðÉùÃ÷Ã÷È·£¬¹ÄÀøºÏÀí·ÖÏíÓëÒýÓÃ£¬µ«¾ö²ßÔðÈÎ×Ô¸º¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿â·¢²¼ÁË21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÒ½ÔºÊÐ³¡ÑÐ¾¿ºÍÏúÊÛ²ßÂÔÖÆ¶¨¡£¸Ã±¨¸æ°üº¬ÁËÏê¾¡µÄÊÐ³¡·ÖÎö£¬ÖúÁ¦ÆóÒµ¶´²ìÇ÷ÊÆ¡£Í¬Ê±£¬ByDrugÐ¡³ÌÐòÌáÐÑÓÃ»§¸üÐÂÎ¢ÐÅ¿Í»§¶ËÒÔÈ·±£¹¦ÄÜÕý³£Ê¹ÓÃ£¬²¢ÍÆ¼öÁËÆäËûÏà¹ØÐÐÒµ±¨¸æºÍÊý¾Ý¼à²âÖÜ±¨¡£°æÈ¨ÊôÓÚÒ½Ò©Ä§·½£¬¹ÄÀøºÏÀíÒýÓÃ£¬ÃâÔðÌõ¿îÃ÷È·Ê¹ÓÃ±¨¸æÐÅÏ¢µÄ¾ö²ßÔðÈÎ×Ô¸º¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬Ö¸µ¼ÏúÊÛ²ßÂÔ¡£¸Ã±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊý¾Ý·ÖÎö¶ÔÓÚÊÐ³¡ÑÐ¾¿µÄÖØÒªÐÔ¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÏà¹ØÐÐÒµ±¨¸æ×ÊÔ´¡£×¢Òâ£¬±¨¸æ½ö¹©²Î¿¼Ê¹ÓÃ£¬¾ö²ßÊ±Ðè½áºÏ¶à·½ÃæÐÅÏ¢£¬Ò½Ò©Ä§·½¶ÔÒÀ¾Ý±¨¸æÄÚÈÝËù×ö¾ö²ßµÄºó¹û²»³Ðµ£ÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿â·¢²¼ÁË21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ö¼ÔÚ°ïÖúÆóÒµ½øÐÐÒ½ÔºÊÐ³¡ÑÐ¾¿ºÍÏúÊÛ²ßÂÔÖÆ¶¨¡£¸Ã±¨¸æ°üº¬ÁËÏê¾¡µÄÊÐ³¡·ÖÎö£¬ÖúÁ¦Ò½Ò©ÐÐÒµ¶´²ìÇ÷ÊÆ¡£Í¬Ê±£¬Ò½Ò©Ä§·½Ìá¹©ÁË°üÀ¨ESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÖÜ±¨µÈ·á¸»×ÊÔ´¡£×¢Òâ£¬±¨¸æ½ö¹©²Î¿¼£¬¾ö²ßÐè½÷É÷£¬Ò½Ò©Ä§·½²»³Ðµ£ÒòÊ¹ÓÃ±¨¸æÐÅÏ¢µ¼ÖÂµÄËðÊ§¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨Öú¾ö²ß¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Õ¹Ê¾ÁË¸ÃÊ±ÆÚÄÚÒ½ÔºÒ©Æ·ÊÐ³¡µÄÈ«Ãæ·ÖÎö¡£Ò½Ò©Ä§·½Í¬Ê±Ìá¹©ÆäËûÐÐÒµÏà¹Ø±¨¸æ×ÊÔ´¡£×¢Òâ£¬±¨¸æÄÚÈÝ½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ß½¨Òé£¬Ê¹ÓÃÐÅÏ¢²úÉúµÄ·çÏÕÓÉÊ¹ÓÃÕß×ÔÐÐ³Ðµ£¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾£¬PharmaBI IPMÊý¾Ý¿âÌá¹©µÄ21Ò³Ô¤ÀÀÊý¾ÝÏÔÊ¾ÁËÊÐ³¡¶¯Ì¬£¬ÖúÁ¦ÆóÒµ×ö³ö¸ü¾«×¼µÄÏúÊÛ²ßÂÔÓëÑÐ¾¿¾ö²ß¡£¸Ã±¨¸æ°üº¬ÁË·á¸»µÄÊý¾ÝÓë¶´²ì£¬¶ÔÐÐÒµÆóÒµÀí½âÊÐ³¡Ç÷ÊÆ¡¢°ÑÎÕÒ©Æ·ÏúÊÛ·½Ïò¾ßÓÐÖØÒª¼ÛÖµ¡£µ«Çë×¢Òâ£¬±¨¸æÏêÇéÐèÏÂÔØÍêÕû°æ»ñÈ¡£¬ÇÒÐÅÏ¢½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ßÒÀ¾Ý¡£Ò½Ò©Ä§·½Ç¿µ÷ºÏÀíÒýÓÃ¼°×ªÔØ¹æ·¶£¬Í¬Ê±ÌáÐÑÃâÔðÌõ¿î¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨Öú¾ö²ßÖÆ¶¨¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Õ¹Ê¾ÁË¸ÃÊ±ÆÚÄÚÒ½ÔºÒ©Æ·ÊÐ³¡µÄÈ«Ãæ·ÖÎö¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÏà¹ØÑÐ¾¿±¨¸æºÍÐÐÒµÊý¾Ý¼à²âÖÜ±¨£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°´´ÐÂÒ©ÎïÑÐ·¢Ç÷ÊÆµÈ¡£×¢Òâ£¬±¨¸æÄÚÈÝ½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ß½¨Òé£¬Ê¹ÓÃÊ±·çÏÕ×Ôµ£¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨Öú¾ö²ß¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊý¾ÝÖÇÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÏà¹ØÐÐÒµ±¨¸æºÍÊý¾Ý¼à²âÖÜ±¨×ÊÔ´¡£×¢Òâ£¬±¨¸æ½ö¹©Ò»°ã²Î¿¼£¬¾ö²ßÊ±Ðè½÷É÷¡£
+You've exceeded the API request rate limit. To enhance your allowance, incorporate an API key: r.jina.ai offers 1000/200/20 RPM (premium/standard/no key) for reading, while s.jina.ai provides 100/40/5 RPM for searches. This demonstrates the significant benefit of using an API key, especially under premium plans, for optimal API service access.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýËÙÂÊÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÊ¹ÓÃ¸ß¼¶¼Æ»®µÄAPIÃÜÔ¿ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇó´ÎÊýÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+¸¾¿ÆÖÐ³ÉÒ©ÊÐ³¡³ÖÐøÔö³¤£¬2023ÄêÏúÊÛ¶î³¬190ÒÚÔª£¬Í¬±ÈÔö³¤0.38%¡£ÊÐ³¡ÒÔ¸¾¿ÆÑ×Ö¢ÓÃÒ©ºÍµ÷¾­Ò©ÎªÖ÷£¬Õ¼Æß³É·Ý¶î¡£Ä¿Ç°£¬25¿îÐÂÒ©Õý´¦ÓÚÑÐ·¢½×¶Î£¬ÏÔÊ¾ÐÐÒµ»îÁ¦¼°¶Ô´´ÐÂµÄÖØÊÓ¡£Ò½±£Ä¿Â¼µ÷Õû³õÉóÍ¨¹ý4¸ö¶À¼Ò¸¾¿ÆÖÐ³ÉÒ©£¬ÓÐÍû½øÒ»²½ÍÆ¶¯ÊÐ³¡·¢Õ¹¡£Ã÷ÐÇ²úÆ·±íÏÖÁÁÑÛ£¬²¿·ÖÆ·ÅÆÊµÏÖÏÔÖøÔö³¤£¬Èç½à¶ûÒõÏ´ÒºÏúÊÛ¶î±©ÕÇ£¬·´Ó³Ïû·ÑÕß¶ÔÖÐ³ÉÒ©µÄÈÏ¿É¼°ÊÐ³¡ÐèÇóµÄÔö³¤¡£×ÜÌåÀ´¿´£¬¸¾¿ÆÖÐ³ÉÒ©ÁìÓò¾ºÕù¼¤ÁÒ£¬¶À¼ÒÆ·ÖÖÓë´´ÐÂÒ©Îï³ÉÎªÆóÒµ¾ºÕù½¹µã£¬ÊÐ³¡Ç±Á¦¾Þ´óµ«ÒàÃæÁÙ½á¹¹µ÷ÕûºÍ´´ÐÂÐèÇóµÄÌôÕ½¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, an API key can be added to headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. My opinion: Implementing API keys is a practical strategy for managing service access and preventing abuse, while tiered plans cater to diverse user needs, ensuring both accessibility and resource management efficiency.
+º²É­ÖÆÒ©2024ÉÏ°ëÄêÒµ¼¨ÁÁÑÛ£¬ÓªÊÕ´ï65.06ÒÚÔª£¬Í¬±ÈÔö³¤44%£¬¾»ÀûÈó¼¤Ôö111%ÖÁ27.26ÒÚÔª¡£´´ÐÂÒ©ÓëºÏ×÷²úÆ·ÊÕÈëÔö³¤³¬80%£¬Õ¼×ÜÊÕÈë½ü80%£¬ÏÔÊ¾ÆäÔÚ¿¹Ö×ÁöµÈÁìÓòµÄÇ¿ÊÆµØÎ»¡£¹«Ë¾ÓµÓÐ30¶à¸öÔÚÑÐ´´ÐÂÒ©ÏîÄ¿£¬ÑÐ·¢½øÕ¹Ñ¸ËÙ£¬Í¬Ê±¼ÓÇ¿¹ú¼ÊºÏ×÷Óë×¨Àû²¼¾Ö£¬ÍÆ¶¯²úÆ·È«Çò»¯¡£º²É­ÖÆÒ©ÕýÎÈ²½³¯È«ÇòÁìÏÈµÄ´´ÐÂÇý¶¯ÐÍÖÆÒ©ÆóÒµÄ¿±êÂõ½ø£¬ÖÂÁ¦ÓÚÂú×ã¸ü¶à»¼ÕßµÄÖÎÁÆÐèÇó£¬Õ¹ÏÖ³öÁ¼ºÃµÄ³É³¤ÐÔºÍ·¢Õ¹Ç±Á¦¡£
+ÉÏº£Ò½Ò©2024°ëÄê±¨ÏÔÊ¾£¬¹«Ë¾Òµ¼¨³¬Ô¤ÆÚÔö³¤£¬ÓªÊÕ´ï1394.13ÒÚÔª£¬Í¬±ÈÔö³¤5.14%£»¹éÄ¸¾»ÀûÈó29.42ÒÚÔª£¬Ôö12.72%¡£ÔÚÒ½Ò©ÐÐÒµÕþ²ßµ÷Õû±³¾°ÏÂ£¬ÉÏº£Ò½Ò©»ý¼«ÏìÓ¦¹ú¼ÒÕ½ÂÔ£¬¼Ó´óÑÐ·¢Í¶Èë£¬´Ù½ø²úÒµÉý¼¶£¬ÌØ±ðÊÇÔÚ´´ÐÂÒ©¡¢ÖÐÒ©¡¢´ó½¡¿µ¼°ÉÌÒµ°å¿é±íÏÖÍ»³ö¡£¹«Ë¾¼ÓËÙÉúÎïÒ½Ò©´´ÐÂ£¬Éî»¯ÖÐÒ©¶þ´Î¿ª·¢£¬²¢ÔÚÊýÖÇ»¯×ªÐÍÉÏÈ¡µÃÏÔÖø³É¹û£¬´ó½¡¿µÒµÎñÔö³¤331%¡£Í¨¹ýÉî»¯¸Ä¸ï¡¢´´ÐÂÇý¶¯£¬ÉÏº£Ò½Ò©ÕýÏòÒ½Ò©Ç¿¹úÄ¿±êÎÈ²½Âõ½ø£¬Õ¹ÏÖÆäÔÚ¹úÄÚÍâÒ½Ò©ÊÐ³¡µÄÁìÏÈµØÎ»ºÍ³ÖÐø·¢Õ¹Ç±Á¦¡£
+ÌìÊ¿Á¦£¬ÖÐÒ©ÐÐÒµÁìÍ·Ñò£¬Õ¹ÏÖÇ¿¾¢´´ÐÂÊÆÍ·¡£¹«Ë¾ÓµÓÐ¶À¼ÒÖÐÒ©Æ·ÖÖ22¸ö£¬ÆäÖÐ2¸öÖÐ³ÉÒ©ÊÐ³¡±íÏÖÁÁÑÛ£¬ÕÇ·ù³¬100%¡£ÆäÑÐ·¢¹ÜÏß·á¸»£¬°üÀ¨16¿îÖÐÒ©¡¢13¿î»¯Ò©¼°ÉúÎïÒ©ÐÂÒ©ÔÚÑÐ£¬10¿îÒÑÍÆ½øÖÁIIIÆÚ»òÒÔÉÏÁÙ´²£¬ÁÙ½üÉÏÊÐ¡£ÌìÊ¿Á¦»¹×¢ÖØ·ÂÖÆÒ©¿ª·¢£¬22¸öÆ·ÖÖÒÑ¹ýÆÀ¡£¾Û½¹ÐÄÄÔÑª¹Ü¡¢Ïû»¯´úÐ»¡¢¿¹Ö×ÁöÈý´óÁìÓò£¬ÌìÊ¿Á¦³ÖÐø¼Ó´óÑÐ·¢Í¶Èë£¬¼ÓËÙÐÂÒ©ÉÏÊÐ²½·¥£¬²¼¾ÖÇ§ÒÚ¼¶ÊÐ³¡£¬Õ¹ÏÖ³öÆóÒµ×¿Ô½µÄ´´ÐÂÁ¦ÓëÊÐ³¡Ç°Õ°¡£
+º£Ë¼¿Æ2024°ëÄê±¨ÏÔÊ¾£¬¹«Ë¾ÓªÊÕ16.87ÒÚÔª£¬Í¬±ÈÔö³¤23.14%£¬¾»ÀûÈó¼¤Ôö119.4%ÖÁ1.65ÒÚÔª£¬ÆäÖÐÂé×íºÍÖ×ÁöÖ¹ÍÂ²úÆ·±íÏÖÍ»³ö¡£ÆóÒµ×¢ÖØÑÐ·¢£¬ÏÖÓÐ3¿î1ÀàÐÂÒ©ÉÌÒµ»¯£¬16¿î´¦ÓÚÁÙ´²½×¶Î£¬HSK21542×¢ÉäÒºÇ°¾°¿ÉÆÚ£¬×¼±¸²ÎÓë¹úÌ¸¡£¿´·¨£ºº£Ë¼¿ÆÇ¿¾¢µÄÒµ¼¨Ôö³¤·´Ó³ÁËÆäÔÚÒ½Ò©ÁìÓòµÄ´´ÐÂÄÜÁ¦ÓëÊÐ³¡¾ºÕùÁ¦£¬³ÖÐøµÄÑÐ·¢Í¶ÈëÓÐÍû½øÒ»²½¹®¹ÌÆäÊÐ³¡µØÎ»¡£
+¶ù¿ÆÖÐ³ÉÒ©ÊÐ³¡Ôö³¤Ç¿¾¢£¬2024ÄêÒ»¼¾¶ÈÁãÊÛÒ©µêÖÕ¶ËÏúÊÛ¹æÄ£Í¬±ÈÔö10%£¬ÆäÖÐÊµÌåÒ©µêÈý´óÆ·ÅÆ¿û»¨¡¢½¡Ãñ¡¢¼Ã´¨±íÏÖÍ»³ö£¬¾ùÓÐ²úÆ·ÏúÊÛ¶îÆÆÒÚ¡£ÍøÉÏÒ©µêÊÐ³¡Ñ¸ËÙÀ©´ó£¬Èý´óÆ·ÅÆÏúÁ¿·­±¶¡£¶ù¿ÆÖ¹¿ÈìîÌµÓÃÒ©ÐèÇó¿ìËÙÔö³¤£¬³ÉÎªÊÐ³¡ÁÁµã¡£É¢¼Á/¿ÅÁ£¼ÁÓëÈÜÒº¼ÁÎª×îÖ÷Á÷¼ÁÐÍ¡£ÊÐ³¡ÕûÌå³ÊÏÖ¶àÔª»¯·¢Õ¹£¬²¿·Ö¶À¼Ò²úÆ·ÔöËÙÏÔÖø£¬ÏÔÊ¾³ö¶ù¿ÆÖÐ³ÉÒ©ÁìÓòµÄ»îÁ¦ÓëÇ±Á¦¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, users can incorporate an API key, which raises the limits significantly for both premium and standard plans across reading and search endpoints. My opinion: Implementing API keys is a practical strategy to manage resource allocation and encourage upgrade paths for heavier users, ensuring service stability and scalability.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬ÄãÄÜÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÓÐÃÜÔ¿Ê±1000 RPM£¨¸ß¼¶¼Æ»®£©¡¢200 RPM£¨ÆÕÍ¨ÃÜÔ¿£©ºÍÎÞÃÜÔ¿µÄ20 RPM£»`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º¶ÔÓÚr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬ÓµÓÐAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Ôò½öÓÐ20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜÏàÓ¦µØ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ£¬µ«Ñ¡ÔñºÏÊÊµÄ¼Æ»®Ðè¸ù¾ÝÊµ¼ÊÐèÇóÀ´¾ö¶¨¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶Á·þÎñ£¬´øAPIÃÜÔ¿µÄ premium ¼Æ»®ÔÊÐíÃ¿·ÖÖÓ1000´ÎÇëÇó£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»`s.jina.ai`ËÑË÷·þÎñµÄÏÞÖÆ·Ö±ðÊÇ100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄReader¶ÁÈ¡¹¦ÄÜ£¬ÓÐAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§½öÎª20 RPM£»¶ø¶ÔÓÚ`s.jina.ai`µÄËÑË÷¹¦ÄÜ£¬¸¶·ÑÓÃ»§ÏÞËÙÎª100 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª40 RPM£¬ÎÞÃÜÔ¿Çé¿öÏÂÊÇ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`ÔÄ¶Á½Ó¿Ú£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»`s.jina.ai`ËÑË÷½Ó¿Ú£¬ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20 RPM¡¢»ù´¡ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿1000 RPM£»¶ø`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿5 RPM¡¢»ù´¡ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿100 RPM¡£·ÃÎÊÏà¹ØÎÄµµ¿ÉÁË½â¸ü¶àÏêÇé¡£ÎÒµÄ¿´·¨ÊÇ£¬ºÏÀíÀûÓÃAPIÃÜÔ¿²»½öÄÜÌáÉýÐ§ÂÊ£¬»¹ÄÜÓÅ»¯×ÊÔ´Ê¹ÓÃ£¬¶ÔÓÚÆµ·±Ê¹ÓÃÕßÀ´Ëµ£¬Éý¼¶µ½¸ß¼¶¼Æ»®ÏÔÈ»ÊÇ¸üÓÅÑ¡Ôñ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÓÐÃÜÔ¿Ê±1000 RPM£¨¸ß¼¶¼Æ»®£©¡¢200 RPM£¨ÆÕÍ¨APIÃÜÔ¿£©¡¢ÎÞÃÜÔ¿20 RPM£»`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆÎªÓÐÃÜÔ¿Ê±100 RPM¡¢40 RPM¡¢ÎÞÃÜÔ¿5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÓÐÁËAPIÃÜÔ¿£¬ÔÚ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÊý¾Ý´¦ÀíÄÜÁ¦£¬µ«Ñ¡ÔñºÏÊÊµÄ·½°¸»¹Ðè¸ù¾ÝÊµ¼ÊÐèÇóºÍ³É±¾¿¼ÂÇ¡£
+¸´µ©´óÑ§¸½ÊôÖÐÉ½Ò½ÔºÐÄÄÚ¿ÆÍÅ¶ÓÍê³ÉµÄERUPTIONÑÐ¾¿£¬ÔÚ¹ú¼ÊÆÚ¿¯·¢²¼£¬¾Û½¹¹ÚÂöÄÚÈÜË¨ÖÎÁÆ¼±ÐÔST¶ÎÌ§¸ßÐÍÐÄ¼¡¹£ËÀ(STEMI)£¬Îª¸ÃÁÆ·¨Ìá¹©ÁËÐÂÖ¤¾Ý¡£ÑÐ¾¿²ÉÓÃÇ°Õ°ÐÔ¡¢¶àÖÐÐÄ¡¢Ëæ»ú¶ÔÕÕÉè¼Æ£¬½á¹ûÏÔÊ¾£¬½áºÏÑªË¨³éÎü£¬Ê¹ÓÃÖØ×éÈËÄò¼¤Ã¸Ô­ÄÜÏÔÖø¸ÄÉÆ»¼ÕßÐÄ¼¡¹à×¢ÓëÁÙ´²Ô¤ºó£¬ÇÒ°²È«ÐÔÁ¼ºÃ¡£¸ÃÑÐ¾¿Ç¿µ÷ÁË¹ÚÂöÄÚÈÜË¨¶Ô¸ßÑªË¨¸ººÉSTEMI»¼ÕßµÄÇ±ÔÚ¼ÛÖµ£¬ÎªÁÙ´²Êµ¼ùÌá¹©ÁËÖ¸µ¼£¬ÌØ±ðÊÇÓÅ»¯¸øÒ©·½°¸Óë»¼ÕßÑ¡Ôñ²ßÂÔ£¬ÍÆ¶¯ÁËÐÄÑª¹Ü¼²²¡¾ÈÖÎµÄ¡°ÖÐ¹ú·½°¸¡±·¢Õ¹¡£Î´À´Ðè¸ü¶àÑÐ¾¿Ï¸»¯²»Í¬ÈÜË¨Ò©ÎïµÄ×îÓÅÊ¹ÓÃ·½·¨¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬Ðè¼õ»ºËÙ¶È¡£ÎªÌáÉýËÙÂÊ£¬¿ÉÓÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚ¸ß¼¶¼Æ»®ÖÐÊ¹ÓÃAPIÃÜÔ¿¿É´ï1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+You've exceeded the API request rate limit. To enhance your allowance, incorporate an API key into your headers. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and just 20 RPM without a key. For 's.jina.ai', the limits are 100 RPM, 40 RPM, and 5 RPM respectively. Adding an API key significantly boosts access efficiency, especially on the premium plan.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄReader¶ÁÈ¡¹¦ÄÜ£¬ÓÐAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§ÔòÖ»ÓÐ20 RPM£»¶ø¶ÔÓÚ`s.jina.ai`µÄËÑË÷¹¦ÄÜ£¬¸¶·ÑÓÃ»§¡¢ÆÕÍ¨APIÓÃ»§ºÍÎÞÃÜÔ¿ÓÃ»§µÄËÙÂÊÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, incorporating an API key can be beneficial. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000, 200, or 20 requests per minute (RPM) with a premium API key, standard API key, or no key respectively; 's.jina.ai' permits 100, 40, or 5 RPM under the same respective conditions. My opinion: Utilizing an API key, especially the premium one, significantly enhances the service's accessibility and efficiency, making it a worthwhile consideration for heavy users.
+¼õ¼õËÙ£¡ÄãÒÑ´ïÃ¿·ÖÖÓÃ¿IPµØÖ·µÄÇëÇóÏÞÖÆ¡£ÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£¾ßÌå¶øÑÔ£¬Ê¹ÓÃAPIÃÜÔ¿£¨¸ß¼¶¼Æ»®£©Ê±£¬r.jina.aiµÄ¶ÁÈ¡ËÙÂÊÏÞÖÆÎª1000 RPM£¬ËÑË÷Îª100 RPM£»ÆÕÍ¨APIÃÜÔ¿ÏÂ£¬¶ÁÈ¡½µÎª200 RPM£¬ËÑË÷Îª40 RPM£»ÎÞAPIÃÜÔ¿Ôò½øÒ»²½½µµÍÖÁ20 RPMºÍ5 RPM¡£ÎÒµÄ¿´·¨ÊÇ£¬ÕâÌáÐÑÁËÎÒÃÇºÏÀí¹ÜÀíÇëÇóÆµÂÊµÄÖØÒªÐÔ£¬Í¬Ê±Ò²Õ¹Ê¾ÁË·þÎñÌá¹©ÉÌÈçºÎÍ¨¹ý²»Í¬²ã¼¶µÄ·þÎñ¼Æ»®À´Âú×ã²»Í¬ÓÃ»§µÄÐèÇó¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬Ðè¼õ»ºÇëÇóËÙ¶È¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÏÂÏÞËÙÎª1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º¶ÔÓÚr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬ premium¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨API¼üÎª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬Ôò·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÊý¾Ý´¦ÀíÄÜÁ¦¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search£¬ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄ Reader Read¹¦ÄÜ£¬ÓÐÁËAPIÃÜÔ¿ÔÚ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»¶ø`s.jina.ai`µÄReader Search¹¦ÄÜ£¬ËÙÂÊÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÓÐAPIÃÜÔ¿µÄ premium¼Æ»®Ö§³Ö1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPM¡¢ºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄÔÄ¶Á·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨API¼üÎª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄËÑË÷·þÎñ£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit per IP. To increase this limit, users should add an API key to their headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard API key, and just 20 RPM without a key. Meanwhile, 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively under the same conditions. Adding an API key significantly enhances request capacity, especially on the premium plan.
+You've exceeded the API request rate limit. To enhance your allowance, incorporate an API key into your headers. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and just 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. Visit the provided resource for more details.
+
+My opinion: Implementing API keys is a practical strategy for managing and·ÖÅä resource access, ensuring fair usage and encouraging upgrade to premium plans for heavier users. However, clear communication on these limits is crucial to avoid user frustration.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º¶ÔÓÚr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬ÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶ÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Ôò½öÓÐ20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬ÕâÒ»ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶Á¶ÁÈ¡ËÙ¶È£¬ÓÐAPIÃÜÔ¿µÄ¸ß¼¶ÓÃ»§¿É´ï1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§ÔòÖ»ÓÐ20 RPM£»¶ø¶ÔÓÚ`s.jina.ai`µÄËÑË÷¹¦ÄÜ£¬ËÙÂÊ·Ö±ðÊÇ100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20 RPM¡¢ÓÐÃÜÔ¿200 RPM£¨¸ß¼¶¼Æ»®ÏÂ1000 RPM£©£»`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿5 RPM¡¢ÓÐÃÜÔ¿40 RPM£¨ÎÞ¸ß¼¶¼Æ»®¶Ô±È£©¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit per IP. To increase this limit, users should add an API key to their headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. Implementing API keys is crucial for managing and enhancing request capacities efficiently.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£¬¾ßÌåÎª£º`r.jina.ai`ÔÄ¶Á½Ó¿Ú£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»`s.jina.ai`ËÑË÷½Ó¿Ú£¬ËÙÂÊ·Ö±ð¶ÔÓ¦100 RPM¡¢40 RPM¡¢5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit per IP. To increase this limit, users can incorporate an API key. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000, 200, or 20 requests per minute with a premium API key, standard key, or without a key respectively; 's.jina.ai' permits 100, 40, or 5 requests per minute under the same conditions. My view: Implementing API keys is a practical strategy for managing service access and preventing abuse, while tiered limits offer flexibility based on user needs and plans.
+You've exceeded the API request rate limit. To boost capacity, incorporate an API key into your header; it significantly increases request allowances. For instance, without an API key, the 'r.jina.ai' endpoint allows 20 RPM, but with the premium plan's API key, that jumps to 1000 RPM. Enhancing efficiency and access, API keys are pivotal for intensive usage of services like 'Reader Read' and 'Reader Search'.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇó´ÎÊýÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬´øAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§½öÓÐ20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬¸¶·ÑÓÃ»§ÉÏÏÞÎª100 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª40 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Îª5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇó´ÎÊýÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬´øAPIÃÜÔ¿µÄ premium¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit. To increase limits, an API key can be added to headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. My view: Implementing API keys is a practical strategy for managing service access and preventing abuse, while tiered limits offer flexibility based on user needs and plans.
+¼õ»ºËÙ¶È£¡ÄãÒÑ´ïµ½Ã¿·ÖÖÓÃ¿IPµØÖ·µÄÇëÇóÏÞÖÆ¡£ÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆÈçÏÂ£ºr.jina.ai£¨ÔÄ¶Á£©ÏÞÖÆÎª1000 RPM£¨¸¶·Ñ£©¡¢200 RPM£¨ÓÐÃÜÔ¿£©¡¢20 RPM£¨ÎÞÃÜÔ¿£©£»s.jina.ai£¨ËÑË÷£©ÔòÎª100 RPM£¨¸¶·Ñ£©¡¢40 RPM£¨ÓÐÃÜÔ¿£©¡¢5 RPM£¨ÎÞÃÜÔ¿£©¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+
+ÎÒµÄ¹ÛµãÊÇ£¬Í¨¹ýÊµÊ©·Ö¼¶µÄËÙÂÊÏÞÖÆ²ßÂÔ£¬¼È±£»¤ÁË·þÎñÌá¹©ÉÌµÄ×ÊÔ´ÃâÊÜÀÄÓÃ£¬Ò²¹ÄÀøÓÃ»§Í¨¹ýÉý¼¶µ½¸¶·Ñ¼Æ»®»ò¼òµ¥µØ×¢²áÀ´»ñÈ¡¸üºÃµÄ·þÎñÌåÑé£¬ÕâÊÇÒ»ÖÖÆ½ºâÃâ·ÑÓë¸¶·ÑÓÃ»§ÐèÇóµÄÃ÷ÖÇ×ö·¨¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º¶ÔÓÚr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬ÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶ÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÓÃ»§Îª200 RPM£¬ÎÞAPIÃÜÔ¿ÓÃ»§Ôò½öÓÐ20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬¸ß¼¶ÓÃ»§ÏÞËÙÎª100 RPM£¬ÆÕÍ¨APIÓÃ»§40 RPM£¬ÎÞAPIÓÃ»§5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, an API key can be added to headers. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. My opinion: Implementing API keys is a practical strategy for managing service access and preventing abuse, while tiered plans cater to diverse user needs, ensuring fair usage and encouraging upgrade for heavier users.
+The message advises slowing down due to reaching the request rate limit per IP. To increase this limit, users should add an API key to their headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM for premium, 40 RPM for standard, and 5 RPM without a key. My opinion: Implementing API keys is a practical strategy for managing service access and preventing abuse, while also offering tiered services based on user needs.
+The message advises slowing down due to reaching the request rate limit per IP. To increase this limit, users should add an API key to their headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard API key, and just 20 RPM without any key. Meanwhile, 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively under the same conditions. Incorporating an API key significantly enhances request capacity, especially for frequent users or those on the premium plan.
+The message advises slowing down due to reaching the request rate limit per IP. To increase this limit, an API key can be added to the header. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. Integrating an API key significantly enhances request capacity, especially on the premium plan.
+ÓÃ»§ÒòÇëÇóÆµ·±´ïµ½ÁËËÙÂÊÏÞÖÆ¡£ÎªÌáÉýÏÞÖÆ£¬¿ÉÓÚÇëÇóÍ·Ìí¼ÓAPIÃÜÔ¿£¬ÓÈÆäÊÇ¸¶·ÑÓÃ»§½«ÏíÓÐ¸ü¸ß¶î¶È¡£¾ßÌå¶øÑÔ£¬Ê¹ÓÃAPIÃÜÔ¿ÔÚ'r.jina.ai'µÄ¶ÁÈ¡²Ù×÷ÉÏ£¬ËÙÂÊÏÞÖÆ´ÓÃâ·ÑµÄ20 RPMÌáÉýÖÁ premium¼Æ»®ÏÂµÄ1000 RPM£¬¶øËÑË÷²Ù×÷ÔÚ's.jina.ai'µÄËÙÂÊÒ²´Ó5 RPMÔö¼Óµ½¸¶·ÑÓÃ»§µÄ100 RPM¡£´Ë¾ÙÖ¼ÔÚÆ½ºâ·þÎñ×ÊÔ´ÓëÓÃ»§ÐèÇó£¬¹ÄÀøÉý¼¶ÒÔÂú×ã¸ü´óÁ¿¼¶µÄÊ¹ÓÃ³¡¾°¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÓÐAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Ôò½öÓÐ20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¸¶·ÑÓÃ»§ËÙÂÊÎª100 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª40 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Îª5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÓµÓÐ¸ß¼¶¼Æ»®APIÃÜÔ¿ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the API request rate limit. To increase limits, an API key can be added to headers. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. My opinion: Implementing API keys is a practical strategy for managing service access and ensuring fair usage while offering flexibility based on user needs and plans.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâÒ»ÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£¬ÀýÈç£¬Ê¹ÓÃAPIÃÜÔ¿£¨¸ß¼¶¼Æ»®£©Ê±£¬r.jina.aiµÄËÙÂÊÏÞÖÆÎª1000 RPM£¬¶øÎÞÃÜÔ¿Ôò½öÎª20 RPM¡£Õâ±íÃ÷£¬ÎªÁË¸ü¸ßÐ§µØÀûÓÃ·þÎñ£¬¼¯³ÉAPIÃÜÔ¿ÊÇ±ØÒªµÄ£¬ÓÈÆäÊÇ¶ÔÓÚÆµ·±µÄ¶ÁÈ¡ºÍËÑË÷²Ù×÷¡£
+You've exceeded the API request rate limit. To enhance your allowance, incorporate an API key: r.jina.ai offers 1000/200/20 requests per minute with a premium API key, no key, respectively; s.jina.ai provides 100/40/5 RPM under the same conditions. Adding an API key significantly boosts access efficiency, making it a worthwhile consideration for frequent users.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÓÐÁËAPIÃÜÔ¿ÔÚ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, users should incorporate an API key, which elevates limits significantly under premium plans: up to 1000 RPM for reading on r.jina.ai and 100 RPM for searching on s.jina.ai. Without the key, the limits are significantly lower at 20 RPM and 5 RPM, respectively. My opinion: Incorporating API keys is a practical strategy for managing service access and ensuring fair usage while offering enhanced capabilities to authenticated users.
+The message advises slowing down due to reaching the request rate limit. To increase capacity, users can incorporate an API key, which elevates limits significantly, especially on premium plans. Specifically, the 'r.jina.ai' endpoint allows for 1000 requests per minute (RPM) with a premium API key, 200 RPM with a standard key, and just 20 RPM without a key. Meanwhile, 's.jina.ai' has respective limits of 100 RPM, 40 RPM, and 5 RPM. My opinion: Implementing API keys is a practical strategy for managing service access and ensuring fair usage while offering incentives for upgrading plans, benefiting both service providers and users seeking enhanced performance.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýËÙÂÊÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆÈçÏÂ£ºr.jina.ai£¨ÔÄ¶Á£©ÏÞÖÆÎªÎÞÃÜÔ¿20 RPM¡¢ÆÕÍ¨ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿1000 RPM£»s.jina.ai£¨ËÑË÷£©ÔòÎªÎÞÃÜÔ¿5 RPM¡¢ÆÕÍ¨ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿100 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬ÄãÄÜÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÓµÓÐ¸ß¼¶¼Æ»®APIÃÜÔ¿ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬´øAPIÃÜÔ¿µÄ premium ¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÆµ´Î¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶Á½Ó¿ÚÔÚÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»¶ø`s.jina.ai`ËÑË÷½Ó¿ÚµÄÏàÓ¦ÏÞÖÆÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÊý¾Ý´¦ÀíÄÜÁ¦£¬µ«Ñ¡ÔñºÏÊÊµÄ·ÃÎÊ¼Æ»®ÐèÒÀ¾ÝÊµ¼ÊÐèÇóºâÁ¿¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆÓÐËù²»Í¬£¬¾ßÌåÎª£ºr.jina.aiµÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20 RPM£¬»ù´¡ÃÜÔ¿40 RPM£¬¸ß¼¶ÃÜÔ¿1000 RPM£»s.jina.aiµÄËÑË÷ËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿5 RPM£¬»ù´¡ÃÜÔ¿40 RPM£¬¸ß¼¶ÃÜÔ¿100 RPM¡£·ÃÎÊÏà¹ØÎÄµµ¿ÉÁË½â¸ü¶àÏêÇé¡£ÎÒµÄ¿´·¨ÊÇ£¬ºÏÀíÊ¹ÓÃAPI²¢Éý¼¶¼Æ»®¿ÉÒÔ¸ü¸ßÐ§µØÀûÓÃ·þÎñ£¬µ«Ò²Òª×¢Òâ²»Òª¹ý¶ÈÒÀÀµÔö¼ÓÇëÇóÆµ´Î£¬ÓÅ»¯ÇëÇó²ßÂÔºÍÊý¾Ý´¦ÀíÍ¬ÑùÖØÒª¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâÒ»ÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£¬ÒÔr.jina.aiÎªÀý£¬Ê¹ÓÃ¸ß¼¶¼Æ»®µÄAPIÃÜÔ¿¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ£¬ÌØ±ðÊÇÔÚÐèÒª´óÁ¿ÇëÇóµÄ³¡¾°ÏÂ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£¬¾ßÌåÎª£ºr.jina.aiµÄReader Read·þÎñ£¬Ê¹ÓÃAPIÃÜÔ¿ÔÚ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, incorporating an API key can be beneficial. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000, 200, or 20 requests per minute (RPM) with a premium API key, standard key, or no key respectively; 's.jina.ai' permits 100, 40, or 5 RPM under the same respective conditions. My view is that utilizing the appropriate API key enhances functionality significantly and encourages better management of request frequencies to optimize service usage.
+When accessing certain APIs, you may encounter rate limits based on your IP address. To enhance request capacity, incorporating an API key is advisable. Specifically, the 'r.jina.ai' endpoint allows for 1000 requests per minute with a premium plan's API key, 200 with a standard API key, and just 20 without one. The 's.jina.ai' endpoint has respective limits of 100, 40, and 5 RPM. My view: Using an API key significantly boosts access efficiency, making it essential for frequent users to optimize their workflow by upgrading to enjoy higher request rates, especially on the premium plan for maximum benefits.
+The message advises to slow down API requests due to reaching the rate limit. To increase the allowance, users should incorporate an API key. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM, 40 RPM, and 5 RPM respectively. My view: Implementing API keys is a practical strategy for managing service access and preventing abuse, but clarity on how to upgrade to a premium plan for higher request volumes would be beneficial.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÓÐAPIÃÜÔ¿µÄ premium¼Æ»®¿É´ïµ½1000 RPM£¬ÆÕÍ¨API¼üÎª200 RPM£¬ÎÞAPI¼üÔòÖ»ÓÐ20 RPM£»s.jina.aiµÄReader Search£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the request rate limit. To increase capacity, users can incorporate an API key, which raises the limit significantly, especially for premium plan users. Specifically, the 'r.jina.ai' endpoint allows for 1000 requests per minute with a premium API key, compared to 200 with a standard key and just 20 without any key. Similarly, 's.jina.ai' has limits of 100, 40, and 5 RPM respectively. Implementing API keys is crucial for managing and enhancing request capabilities efficiently.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶Á·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐíÃ¿·ÖÖÓ1000´ÎÇëÇó£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»`s.jina.ai`ËÑË÷·þÎñµÄÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPM¡¢5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÆµ´Î¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬ÕâÐ©Êý×Ö·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÊý¾Ý´¦ÀíÄÜÁ¦¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇó´ÎÊýÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£¬ÀýÈç£¬Ê¹ÓÃAPIÃÜÔ¿µÄ premium ¼Æ»®ÏÂ£¬r.jina.ai µÄ¶ÁÈ¡ËÙÂÊÏÞÖÆÎª1000 RPM£¬¶øÎÞÃÜÔ¿Ôò½öÎª20 RPM¡£Òò´Ë£¬ÎªÁË¸ü¸ßÐ§µØÀûÓÃ·þÎñ£¬¼¯³ÉAPIÃÜÔ¿ÊÇ±ØÒªµÄ¡£ÕâÕ¹Ê¾ÁËºÏÀí¹ÜÀíºÍÉý¼¶·ÃÎÊÈ¨ÏÞ¶ÔÓÚÓÅ»¯Êý¾Ý´¦ÀíºÍËÑË÷Ð§ÂÊµÄÖØÒªÐÔ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬ÏàÓ¦ÏÞÖÆÎª100 RPM¡¢40 RPM¡¢5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÊý¾Ý´¦ÀíÄÜÁ¦¡£
+When accessing the Jina AI endpoints for reading and searching, users may encounter rate limits based on their IP address. To increase these limits, incorporating an API key is advised. Specifically, the premium plan allows for 1000 requests per minute (RPM) on 'r.jina.ai' and 100 RPM on 's.jina.ai', whereas using a standard API key raises the limit to 200 RPM and 40 RPM respectively, significantly higher than the 20 RPM and 5 RPM allowed without any API key. My opinion: Implementing API keys is a practical strategy to manage service access and encourage upgrade to premium plans for heavier users, ensuring better service quality and resource management.
+The message advises slowing down due to reaching the request rate limit. To increase capacity, users can add an API key, which elevates limits significantly under premium plans (up to 1000 RPM for reading, 100 RPM for searching) compared to using the key without a premium plan (200/40 RPM) or not using a key at all (20/5 RPM). My opinion: Implementing API keys is a practical strategy for managing service access and encouraging upgrade to premium plans for heavier users, ensuring better resource allocation and service sustainability.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20 RPM¡¢»ù´¡ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿1000 RPM£»¶ø`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿5 RPM¡¢»ù´¡ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿100 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·þÎñÊ¹ÓÃÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬Ðè¼õ»ºÇëÇóËÙ¶È¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆÈçÏÂ£ºr.jina.ai£¨ÔÄ¶Á£©ÏÞÖÆÎª1000 RPM£¨¸¶·Ñ£©¡¢200 RPM£¨ÓÐÃÜÔ¿£©¡¢20 RPM£¨ÎÞÃÜÔ¿£©£»s.jina.ai£¨ËÑË÷£©ÔòÎª100 RPM£¨¸¶·Ñ£©¡¢40 RPM£¨ÓÐÃÜÔ¿£©¡¢5 RPM£¨ÎÞÃÜÔ¿£©¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬´øAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Ö»ÓÐ20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬¸¶·ÑÓÃ»§ÏÞ100 RPM£¬ÆÕÍ¨APIÃÜÔ¿40 RPM£¬ÎÞÃÜÔ¿ÓÃ»§ÔòÎª5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the API request rate limit. To increase capacity, users can include an API key in their header; this upgrade especially benefits premium plan users, offering significantly higher request limits for both reading and searching endpoints compared to using the service without an API key or on a standard plan. My opinion: Implementing API keys is a practical strategy for managing service access and preventing abuse, while tiered rate limits fairly balance resource allocation between different user types.
+The message advises slowing down due to reaching the request rate limit. To increase capacity, an API key can be utilized. Different endpoints have varied rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without; 's.jina.ai' permits 100 RPM for premium, 40 RPM for standard, and 5 RPM without a key. My view is that this system encourages upgrade to paid plans for heavier usage while still offering basic access to all users, striking a balance between accessibility and resource management.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20RPM¡¢ÆÕÍ¨ÃÜÔ¿200RPM¡¢¸ß¼¶¼Æ»®ÃÜÔ¿1000RPM£»`s.jina.ai`µÄËÑË÷ËÙÂÊÔò·Ö±ðÎª5RPM¡¢40RPM¡¢100RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·þÎñÊ¹ÓÃÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£¬±ÈÈçr.jina.aiµÄReader Read·þÎñ£¬ÔÚÃ»ÓÐAPIÃÜÔ¿Ê±ÏÞÖÆÎª20 RPM£¬ÓÐÆÕÍ¨APIÃÜÔ¿Ê±Îª200 RPM£¬¶ø¸¶·ÑÓÃ»§¿ÉÏíÊÜ1000 RPM¡£ÁË½âÏêÇéÇë·ÃÎÊÏà¹ØÎÄµµ¡£ÎÒµÄ¿´·¨ÊÇ£¬ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÐ§ÂÊ£¬¶ÔÓÚÆµ·±Ê¹ÓÃÕß£¬Éý¼¶µ½¸¶·Ñ¼Æ»®ÏÔÈ»ÊÇ¸üÓÅÑ¡Ôñ¡£
+ÓÃ»§ÒòÇëÇóÆµ·±´ïµ½ËÙÂÊÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆÈçÏÂ£ºr.jina.ai£¨ÔÄ¶Á£©ÏÞÖÆÎª1000 RPM£¨ premium¼Æ»®£©¡¢200 RPM£¨ÓÐAPIÃÜÔ¿£©¡¢20 RPM£¨ÎÞAPIÃÜÔ¿£©£»s.jina.ai£¨ËÑË÷£©ÔòÎª100 RPM¡¢40 RPM¡¢5 RPM¡£ÎÒµÄ¿´·¨ÊÇ£¬ËäÈ»Ìí¼ÓAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÆµ´Î£¬µ«Ãâ·ÑÓÃ»§ÊÜµ½µÄÏÞÖÆ¹ýÓÚÑÏ¸ñ£¬¿ÉÄÜ»áÓ°ÏìÌåÑé¡£
+You've exceeded the request rate limit based on your IP address. To boost capacity, consider adding an API key: it raises the limit significantly (up to 1000 RPM for reads, 100 RPM for searches with a premium plan) compared to no key (capped at 20-2 RPM). This tiered system encourages upgrading for heavier usage, ensuring fair access and service quality for all API users.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÓÐAPIÃÜÔ¿µÄ premium¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPM¡¢5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄReader¶ÁÈ¡¹¦ÄÜ£¬´øAPIÃÜÔ¿µÄ premium ¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»¶ø¶ÔÓÚ`s.jina.ai`µÄËÑË÷¹¦ÄÜ£¬ÏÞÖÆ·Ö±ðÊÇ100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÇëÇóÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20 RPM¡¢ÆÕÍ¨ÃÜÔ¿200 RPM¡¢¸ß¼¶ÃÜÔ¿1000 RPM£»¶ø`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿5 RPM¡¢ÆÕÍ¨ÃÜÔ¿40 RPM¡¢¸ß¼¶ÃÜÔ¿100 RPM¡£ÏêÏ¸ÐÅÏ¢Çë²ÎÔÄÏà¹ØÎÄµµ¡£ÎÒµÄ¿´·¨ÊÇ£¬ºÏÀíÀûÓÃAPIÃÜÔ¿²»½öÄÜÌáÉýÐ§ÂÊ£¬»¹ÄÜ¸ù¾ÝÐèÇóÑ¡Ôñ×îºÏÊÊµÄ·ÃÎÊ¼Æ»®¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`µÄÔÄ¶ÁËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿20 RPM¡¢ÓÐÃÜÔ¿200 RPM£¨¸ß¼¶¼Æ»®ÏÂ1000 RPM£©£»`s.jina.ai`µÄËÑË÷ËÙÂÊÏÞÖÆÎªÎÞÃÜÔ¿5 RPM¡¢ÓÐÃÜÔ¿40 RPM£¨ÎÞ¸ß¼¶¼Æ»®¶Ô±È£©¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ßÓ¦ÓÃÐÔÄÜ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬¶ÔÓ¦ËÙÂÊ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+¼õ»ºËÙ¶È£¡ÄãÒÑ´ïÃ¿·ÖÖÓÃ¿IPµØÖ·µÄÇëÇóÏÞÖÆ¡£ÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£¾ßÌå¶øÑÔ£¬Ê¹ÓÃAPIÃÜÔ¿£¨¸ß¼¶¼Æ»®£©Ê±£¬"r.jina.ai"µÄ¶ÁÈ¡ËÙÂÊÏÞÖÆÎª1000 RPM£¬ËÑË÷Îª100 RPM£»¶ø½öÊ¹ÓÃAPIÃÜÔ¿Ê±£¬¶ÁÈ¡½µÎª200 RPM£¬ËÑË÷Îª40 RPM£»ÎÞAPIÃÜÔ¿Ôò·Ö±ð½µÖÁ20 RPMºÍ5 RPM¡£ÎÒµÄ¿´·¨ÊÇ£¬ÎªÁËÈ·±£·þÎñÎÈ¶¨ÐÔÓë¹«Æ½ÐÔ£¬ËÙÂÊÏÞÖÆÊÇ±ØÒªµÄ£¬µ«Í¨¹ýÉý¼¶µ½¸¶·Ñ¼Æ»®»òÕýÈ·Ê¹ÓÃAPIÃÜÔ¿£¬ÓÃ»§¿ÉÒÔÏÔÖøÌá¸ßÆä·ÃÎÊÐ§ÂÊ¡£
+The message advises slowing down due to reaching the API request rate limit. To increase capacity, users can include an API key in their header. Different endpoints have varying rate limits: 'r.jina.ai' allows 1000 RPM with a premium API key, 200 RPM with a standard key, and 20 RPM without a key; 's.jina.ai' permits 100 RPM for premium, 40 RPM for standard, and 5 RPM without a key. My opinion: Implementing API keys is a practical strategy to manage service access and encourage upgrade to paid plans for heavier users, ensuring service sustainability and quality.
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâÒ»ÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º`r.jina.ai`ÔÄ¶Á½Ó¿Ú£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÖ»ÓÐ20 RPM£»`s.jina.ai`ËÑË÷½Ó¿Ú£¬Ôò·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâÒ»ÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄReader Read·þÎñ£¬ÔÚÓµÓÐAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÏÂ¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄReader Search·þÎñ£¬Ôò·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¿ÉÒÔÍ¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿À´ÌáÉý·ÃÎÊÈ¨ÏÞ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£º¶ÔÓÚr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬ÓµÓÐAPIÃÜÔ¿µÄ¸¶·ÑÓÃ»§¿É´ïµ½1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª200 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Ôò½öÓÐ20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬¸¶·ÑÓÃ»§ËÙÂÊÎª100 RPM£¬ÆÕÍ¨APIÃÜÔ¿ÓÃ»§Îª40 RPM£¬ÎÞÃÜÔ¿ÓÃ»§Îª5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+¼õ»ºËÙ¶È£¡ÄãÒÑ´ïÃ¿·ÖÖÓÃ¿IPµØÖ·µÄÇëÇóÏÞÖÆ¡£ÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿¿ÉÌáÉýËÙÂÊÏÞÖÆ¡£¾ßÌå¶øÑÔ£¬Ê¹ÓÃAPIÃÜÔ¿£¨¸ß¼¶¼Æ»®£©Ê±£¬r.jina.aiµÄÔÄ¶ÁËÙÂÊÏÞÖÆÎª1000RPM£¬ËÑË÷Îª100RPM£»ÆÕÍ¨APIÃÜÔ¿ÏÂ£¬ÔÄ¶Á½µÎª200RPM£¬ËÑË÷Îª40RPM£»ÎÞAPIÃÜÔ¿Ôò·Ö±ð½µÖÁ20RPMºÍ5RPM¡£ÎÒµÄ¿´·¨ÊÇ£¬ºÏÀíÀûÓÃAPIÃÜÔ¿²»½öÄÜÌáÉýÐ§ÂÊ£¬»¹ÄÜÈ·±£·þÎñÎÈ¶¨ÐÔ£¬¶ÔÖØ¶ÈÓÃ»§À´Ëµ£¬Éý¼¶µ½¸ß¼¶¼Æ»®ËÆºõÊÇ±ØÒªµÄÍ¶×Ê¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬Ö¸µ¼ÏúÊÛ²ßÂÔ¡£±¨¸æ°üº¬21Ò³Ïê¾¡Êý¾ÝÓë·ÖÎö£¬Ç¿µ÷ÁËÊÐ³¡Ç÷ÊÆÓë¶´²ì¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÍ¬ÆÚÐÐÒµ±¨¸æ×ÊÔ´¡£×¢Òâ£¬±¨¸æ½ö¹©²Î¿¼£¬¾ö²ßÐè½÷É÷£¬Ò½Ò©Ä§·½²»³Ðµ£ÒòÊ¹ÓÃ±¨¸æÐÅÏ¢Ëùµ¼ÖÂµÄËðÊ§ÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬Ö¸µ¼ÏúÊÛ²ßÂÔ¡£±¨¸æ°üº¬21Ò³Ïê¾¡Êý¾Ý·ÖÎö£¬Ç¿µ÷ÁËÊý¾ÝÖÇÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£¼øÓÚÔ¤ÀÀÏÞÖÆ£¬ÍêÕû±¨¸æÐèÏÂÔØ»ñÈ¡¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÍ¬ÆÚÐÐÒµ±¨¸æ×ÊÔ´¡£×¢Òâ£¬±¨¸æÄÚÈÝ½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ßÒÀ¾Ý£¬Ê¹ÓÃÊ±·çÏÕ×Ôµ£¡£
+µ±ÄãÓöµ½ÇëÇóËÙÂÊÏÞÖÆÊ±£¬¼ÇµÃ¼õËÙ£¡Ã¿¸öIPµØÖ·Ã¿·ÖÖÓµÄÇëÇóÁ¿ÓÐÏÞÖÆ¡£Í¨¹ýÔÚÍ·²¿Ìí¼ÓAPIÃÜÔ¿£¬Äã¿ÉÒÔÌáÉýÕâ¸öÏÞÖÆ¡£²»Í¬¶ËµãµÄËÙÂÊÏÞÖÆ¸÷Òì£ºr.jina.aiµÄÔÄ¶Á¹¦ÄÜ£¬´øAPIÃÜÔ¿µÄ¸ß¼¶¼Æ»®ÔÊÐí1000 RPM£¬ÆÕÍ¨APIÃÜÔ¿Îª200 RPM£¬ÎÞÃÜÔ¿ÔòÎª20 RPM£»s.jina.aiµÄËÑË÷¹¦ÄÜ£¬ÏÞÖÆ·Ö±ðÎª100 RPM¡¢40 RPMºÍ5 RPM¡£ºÏÀíÀûÓÃAPIÃÜÔ¿ÄÜÏÔÖøÌá¸ß·ÃÎÊÐ§ÂÊ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾ÁË¸ÃÊ±ÆÚÄÚÊÐ³¡µÄ×ÛºÏÇé¿ö£¬ÒÀÍÐPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â½øÐÐÉîÈëÑÐ¾¿£¬Ö¼ÔÚÎªÆóÒµÌá¹©ÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖ§³Ö¡£±¨¸æ°üº¬21Ò³µÄÊý¾Ý¶´²ìÓë×ÉÑ¯½¨Òé£¬Ç¿µ÷ÁËÊý¾Ý·ÖÎö¶ÔÓÚÒ½Ò©ÐÐÒµ¾ö²ßµÄÖØÒªÐÔ¡£¼øÓÚÄÚÈÝÎ´Ïê¾¡Õ¹Ê¾£¬½¨ÒéÖ±½ÓÏÂÔØÍêÕû±¨¸æÒÔ»ñÈ¡È«²¿ÊÐ³¡·ÖÎöÏ¸½Ú¡£±¨¸æÀ´Ô´Ò½Ò©Ä§·½£¬Í¬Ê±Ìá¼°ÁËÆäËûÏà¹ØÐÐÒµ±¨¸æ×ÊÔ´£¬ÌåÏÖÁËÒ½Ò©ÁìÓò¶¯Ì¬¼à²âÓëÇ÷ÊÆ·ÖÎöµÄ³ÖÐø¹Ø×¢¡£
+When accessing the Jina AI endpoints for reading and searching, users may encounter rate limits based on their IP address. Including an API key can enhance these limits significantly. Specifically, the 'r.jina.ai' endpoint allows for 1000 requests per minute (RPM) with a premium plan's API key, 200 RPM with a standard API key, and just 20 RPM without any key. Meanwhile, the 's.jina.ai' search endpoint permits 100 RPM under the premium plan, 40 RPM with an API key, and a mere 5 RPM without one. My opinion: Implementing API keys is a practical strategy to manage service access and encourage upgrade to premium plans for heavy users, ensuring better service distribution and resource management.
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾ÁË¸ÃÊ±ÆÚÄÚÊÐ³¡µÄÈ«Ãæ¸Å¿ö£¬ÒÀÍÐPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬ÎªÆóÒµÌá¹©ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖ§³Ö¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊý¾ÝÖÇÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£¼øÓÚ±¨¸æÎ´Õ¹Ê¾¾ßÌåÄÚÈÝ£¬Æä¼ÛÖµÔÚÓÚ°ïÖúÆóÒµÉîÈëÁË½âÊÐ³¡¶¯Ì¬¡¢°ÑÎÕÒ©Æ·ÏúÊÛÇ÷ÊÆ£¬´Ù½øÃ÷ÖÇ¾ö²ß¡£È»¶ø£¬Ê¹ÓÃÕßÓ¦½÷É÷¶Ô´ý£¬±¨¸æÐÅÏ¢½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ßÒÀ¾Ý£¬Ò½Ò©Ä§·½¶ÔÊ¹ÓÃÕßµÄ¾ö²ßºó¹û²»³Ðµ£ÔðÈÎ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬Ö¸µ¼ÏúÊÛ²ßÂÔ¡£¸Ã±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊý¾Ý·ÖÎö¶ÔÓÚÊÐ³¡ÑÐ¾¿µÄÖØÒªÐÔ¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÏà¹Ø±¨¸æ×ÊÔ´£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÐÐÒµÖÜ±¨µÈ£¬ÎªÒµ½çÌá¹©È«·½Î»µÄÐÅÏ¢·þÎñ¡£ÖµµÃ×¢ÒâµÄÊÇ£¬±¨¸æÄÚÈÝ½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ß½¨Òé£¬Ê¹ÓÃÕßÐè×ÔÐÐ³Ðµ£Ïà¹Ø·çÏÕ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚÎªÆóÒµÌá¹©ÊÐ³¡ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖ§³Ö¡£¸Ã±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊý¾Ý·ÖÎöÔÚÒ½Ò©ÊÐ³¡ÑÐ¾¿ÖÐµÄÖØÒªÐÔ¡£Í¬Ê±£¬Ò½Ò©Ä§·½»¹ÍÆ¼öÁËÆäËûÏà¹Ø±¨¸æ×ÊÔ´£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×Ü¼°ÐÐÒµÖÜ±¨µÈ£¬ÎªÒµ½çÌá¹©È«ÃæµÄ×ÊÑ¶·þÎñ¡£×¢Òâ£¬±¨¸æÄÚÈÝ½ö¹©²Î¿¼£¬²»¹¹³ÉÖ±½Ó¾ö²ß½¨Òé£¬Ê¹ÓÃÊ±Ðè×ÔÐÐÆÀ¹À·çÏÕ¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÏÔÊ¾ÁË¸ÃÁìÓò×îÐÂ¶¯Ì¬£¬ÒÀÍÐPharmaBI IPMÊý¾Ý¿â£¬ÎªÆóÒµÌá¹©ÑÐ¾¿ÓëÏúÊÛ²ßÂÔÖ§³Ö¡£±¨¸æ°üº¬21Ò³Ô¤ÀÀÊý¾Ý£¬Ç¿µ÷ÁËÊÐ³¡·ÖÎöµÄÖØÒªÐÔ¡£Í¬Ê±£¬ByDrugÐ¡³ÌÐòÌáÐÑÓÃ»§±£³Ö¿Í»§¶Ë¸üÐÂÒÔÈ·±£¹¦ÄÜÕý³£Ê¹ÓÃ¡£´ËÍâ£¬»¹ÍÆ¼öÁË¶à·ÝÏà¹ØÐÐÒµ±¨¸æ£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµ¹ÜÏß»ã×ÜµÈ¡£°æÈ¨ÊôÒ½Ò©Ä§·½ËùÓÐ£¬¹ÄÀøºÏÀíÒýÓÃÓë·ÖÏí£¬µ«¾ö²ßÔðÈÎ×Ô¸º¡£
+2024ÄêµÚ¶þ¼¾¶ÈÖÐ¹úÒ½ÔºÒ©Æ·ÊÐ³¡·ÖÎö±¨¸æÓÉÒ½Ò©Ä§·½·¢²¼£¬»ùÓÚPharmaBI IPMÒ©Æ·ÏúÊÛÊý¾Ý¿â£¬Ö¼ÔÚ°ïÖúÆóÒµÉîÈëÀí½âÊÐ³¡¶¯Ì¬£¬¸¨Öú¾ö²ßÖÆ¶¨¡£±¨¸æ°üº¬21Ò³µÄÔ¤ÀÀÄÚÈÝ£¬Ç¿µ÷ÁËÊý¾Ý²ßÂÔÓë×ÉÑ¯·þÎñµÄÖØÒªÐÔ¡£´ËÍâ£¬Ò½Ò©Ä§·½»¹Ìá¹©ÁËÆäËûÏà¹ØÑÐ¾¿±¨¸æÁ´½Ó£¬¸²¸ÇESMO»áÒéÊý¾Ý¡¢ÆóÒµÒ©Îï¹ÜÏß»ã×Ü¼°ÐÐÒµÖÜ±¨µÈ£¬ÎªÒµ½çÌá¹©È«ÃæµÄÐÅÏ¢×ÊÔ´¡£×¢Òâ£¬¸Ã±¨¸æ½ö¹©²Î¿¼£¬Ò½Ò©Ä§·½²»³Ðµ£ÒòÊ¹ÓÃ±¨¸æÐÅÏ¢Ëùµ¼ÖÂµÄËðÊ§ÔðÈÎ¡£
